@@ -1,0 +1,4428 @@
+[
+    {
+        "id": 30,
+        "provinsi": "Sulawesi Barat",
+        "p_bsni": "ID-SR",
+        "kabupaten": [
+            {
+                "id": 446,
+                "prov_id": 30,
+                "kab_kota": "Kabupaten Majene",
+                "ibukota": "Majene",
+                "k_bsni": "MJN",
+                "kecamatan": [
+                    {
+                        "id": 6070,
+                        "kabkot_id": 446,
+                        "kec": "Banggae",
+                        "kelurahan": [
+                            {
+                                "id": 72514,
+                                "kec_id": 6070,
+                                "kelu": "Banggae",
+                                "pos": 91411
+                            },
+                            {
+                                "id": 72515,
+                                "kec_id": 6070,
+                                "kelu": "Baru",
+                                "pos": 91415
+                            },
+                            {
+                                "id": 72516,
+                                "kec_id": 6070,
+                                "kelu": "Galung",
+                                "pos": 91411
+                            },
+                            {
+                                "id": 72517,
+                                "kec_id": 6070,
+                                "kelu": "Palipi Soreang",
+                                "pos": 91415
+                            },
+                            {
+                                "id": 72518,
+                                "kec_id": 6070,
+                                "kelu": "Pamboborang",
+                                "pos": 91415
+                            },
+                            {
+                                "id": 72519,
+                                "kec_id": 6070,
+                                "kelu": "Pangali-Ali",
+                                "pos": 91411
+                            },
+                            {
+                                "id": 72520,
+                                "kec_id": 6070,
+                                "kelu": "Rangas",
+                                "pos": 91415
+                            },
+                            {
+                                "id": 72521,
+                                "kec_id": 6070,
+                                "kelu": "Totoli",
+                                "pos": 91415
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6071,
+                        "kabkot_id": 446,
+                        "kec": "Banggae Timur",
+                        "kelurahan": [
+                            {
+                                "id": 72522,
+                                "kec_id": 6071,
+                                "kelu": "Baruga",
+                                "pos": 91414
+                            },
+                            {
+                                "id": 72523,
+                                "kec_id": 6071,
+                                "kelu": "Baruga Dua",
+                                "pos": 91411
+                            },
+                            {
+                                "id": 72524,
+                                "kec_id": 6071,
+                                "kelu": "Baurung",
+                                "pos": 91412
+                            },
+                            {
+                                "id": 72525,
+                                "kec_id": 6071,
+                                "kelu": "Buttu Baruga",
+                                "pos": 91413
+                            },
+                            {
+                                "id": 72526,
+                                "kec_id": 6071,
+                                "kelu": "Labuang",
+                                "pos": 91412
+                            },
+                            {
+                                "id": 72527,
+                                "kec_id": 6071,
+                                "kelu": "Labuang Utara",
+                                "pos": 91413
+                            },
+                            {
+                                "id": 72528,
+                                "kec_id": 6071,
+                                "kelu": "Lembang",
+                                "pos": 91413
+                            },
+                            {
+                                "id": 72529,
+                                "kec_id": 6071,
+                                "kelu": "Tande",
+                                "pos": 91413
+                            },
+                            {
+                                "id": 72530,
+                                "kec_id": 6071,
+                                "kelu": "Tande Timur",
+                                "pos": 91413
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6072,
+                        "kabkot_id": 446,
+                        "kec": "Malunda",
+                        "kelurahan": [
+                            {
+                                "id": 72531,
+                                "kec_id": 6072,
+                                "kelu": "Bambangan",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72532,
+                                "kec_id": 6072,
+                                "kelu": "Kayuangin",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72533,
+                                "kec_id": 6072,
+                                "kelu": "Lamungang Batu",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72534,
+                                "kec_id": 6072,
+                                "kelu": "Lombang",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72535,
+                                "kec_id": 6072,
+                                "kelu": "Lombang Timur",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72536,
+                                "kec_id": 6072,
+                                "kelu": "Lombong",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72537,
+                                "kec_id": 6072,
+                                "kelu": "Lombong Timur",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72538,
+                                "kec_id": 6072,
+                                "kelu": "Maliaya",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72539,
+                                "kec_id": 6072,
+                                "kelu": "Malunda",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72540,
+                                "kec_id": 6072,
+                                "kelu": "Mekkatta",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72541,
+                                "kec_id": 6072,
+                                "kelu": "Mekkatta Selatan",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72542,
+                                "kec_id": 6072,
+                                "kelu": "Salutahongan",
+                                "pos": 91453
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6073,
+                        "kabkot_id": 446,
+                        "kec": "Pamboang",
+                        "kelurahan": [
+                            {
+                                "id": 72543,
+                                "kec_id": 6073,
+                                "kelu": "Adolang",
+                                "pos": 91451
+                            },
+                            {
+                                "id": 72544,
+                                "kec_id": 6073,
+                                "kelu": "Adolang Dhua",
+                                "pos": 91451
+                            },
+                            {
+                                "id": 72545,
+                                "kec_id": 6073,
+                                "kelu": "Bababulo",
+                                "pos": 91451
+                            },
+                            {
+                                "id": 72546,
+                                "kec_id": 6073,
+                                "kelu": "Bababulo Utara",
+                                "pos": 91451
+                            },
+                            {
+                                "id": 72547,
+                                "kec_id": 6073,
+                                "kelu": "Balombong",
+                                "pos": 91451
+                            },
+                            {
+                                "id": 72548,
+                                "kec_id": 6073,
+                                "kelu": "Banua Adolang",
+                                "pos": 91451
+                            },
+                            {
+                                "id": 72549,
+                                "kec_id": 6073,
+                                "kelu": "Betteng",
+                                "pos": 91451
+                            },
+                            {
+                                "id": 72550,
+                                "kec_id": 6073,
+                                "kelu": "Bonde",
+                                "pos": 91451
+                            },
+                            {
+                                "id": 72551,
+                                "kec_id": 6073,
+                                "kelu": "Bonde Utara",
+                                "pos": 91451
+                            },
+                            {
+                                "id": 72552,
+                                "kec_id": 6073,
+                                "kelu": "Buttu Pamboang",
+                                "pos": 91451
+                            },
+                            {
+                                "id": 72553,
+                                "kec_id": 6073,
+                                "kelu": "Lalampanua",
+                                "pos": 91451
+                            },
+                            {
+                                "id": 72554,
+                                "kec_id": 6073,
+                                "kelu": "Pesuloang",
+                                "pos": 91451
+                            },
+                            {
+                                "id": 72555,
+                                "kec_id": 6073,
+                                "kelu": "Simbang",
+                                "pos": 91451
+                            },
+                            {
+                                "id": 72556,
+                                "kec_id": 6073,
+                                "kelu": "Sirindu",
+                                "pos": 91451
+                            },
+                            {
+                                "id": 72557,
+                                "kec_id": 6073,
+                                "kelu": "Tinambung",
+                                "pos": 91451
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6074,
+                        "kabkot_id": 446,
+                        "kec": "Sendana",
+                        "kelurahan": [
+                            {
+                                "id": 72558,
+                                "kec_id": 6074,
+                                "kelu": "Banua Sendana",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72559,
+                                "kec_id": 6074,
+                                "kelu": "Binanga",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72560,
+                                "kec_id": 6074,
+                                "kelu": "Bukit Samang",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72561,
+                                "kec_id": 6074,
+                                "kelu": "Lalatedzong",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72562,
+                                "kec_id": 6074,
+                                "kelu": "Leppangang",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72563,
+                                "kec_id": 6074,
+                                "kelu": "Limboro Rambu-Rambu",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72564,
+                                "kec_id": 6074,
+                                "kelu": "Limbua",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72565,
+                                "kec_id": 6074,
+                                "kelu": "Mosso",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72566,
+                                "kec_id": 6074,
+                                "kelu": "Mosso Dhua",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72567,
+                                "kec_id": 6074,
+                                "kelu": "Paminggalan",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72568,
+                                "kec_id": 6074,
+                                "kelu": "Pundau",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72569,
+                                "kec_id": 6074,
+                                "kelu": "Puttada",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72570,
+                                "kec_id": 6074,
+                                "kelu": "Sendana",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72571,
+                                "kec_id": 6074,
+                                "kelu": "Tallubanua",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72572,
+                                "kec_id": 6074,
+                                "kelu": "Tallubanua Utara",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72573,
+                                "kec_id": 6074,
+                                "kelu": "Totolisi Sendana",
+                                "pos": 91452
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6075,
+                        "kabkot_id": 446,
+                        "kec": "Tammeredo Sendana",
+                        "kelurahan": [
+                            {
+                                "id": 72574,
+                                "kec_id": 6075,
+                                "kelu": "Awo",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72575,
+                                "kec_id": 6075,
+                                "kelu": "Manyamba",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72576,
+                                "kec_id": 6075,
+                                "kelu": "Seppong",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72577,
+                                "kec_id": 6075,
+                                "kelu": "Tallambalao",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72578,
+                                "kec_id": 6075,
+                                "kelu": "Tammerodo",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72579,
+                                "kec_id": 6075,
+                                "kelu": "Tammerodo Utara",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72580,
+                                "kec_id": 6075,
+                                "kelu": "Ulidang",
+                                "pos": 91452
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6076,
+                        "kabkot_id": 446,
+                        "kec": "Tubo (Tubo Sendana)",
+                        "kelurahan": [
+                            {
+                                "id": 72581,
+                                "kec_id": 6076,
+                                "kelu": "Bonde Bonde",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72582,
+                                "kec_id": 6076,
+                                "kelu": "Onang Selatan",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72583,
+                                "kec_id": 6076,
+                                "kelu": "Onang Utara",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72584,
+                                "kec_id": 6076,
+                                "kelu": "Tubo",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72585,
+                                "kec_id": 6076,
+                                "kelu": "Tubo Poang",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72586,
+                                "kec_id": 6076,
+                                "kelu": "Tubo Selatan",
+                                "pos": 91452
+                            },
+                            {
+                                "id": 72587,
+                                "kec_id": 6076,
+                                "kelu": "Tubo Tengah",
+                                "pos": 91452
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6077,
+                        "kabkot_id": 446,
+                        "kec": "Ulumunda",
+                        "kelurahan": [
+                            {
+                                "id": 72588,
+                                "kec_id": 6077,
+                                "kelu": "Kabiraan",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72589,
+                                "kec_id": 6077,
+                                "kelu": "Panggalo",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72590,
+                                "kec_id": 6077,
+                                "kelu": "Popenga",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72591,
+                                "kec_id": 6077,
+                                "kelu": "Salutambung",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72592,
+                                "kec_id": 6077,
+                                "kelu": "Sambabo",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72593,
+                                "kec_id": 6077,
+                                "kelu": "Sulai",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72594,
+                                "kec_id": 6077,
+                                "kelu": "Tandeallo",
+                                "pos": 91453
+                            },
+                            {
+                                "id": 72595,
+                                "kec_id": 6077,
+                                "kelu": "Ulumanda",
+                                "pos": 91453
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 447,
+                "prov_id": 30,
+                "kab_kota": "Kabupaten Mamasa",
+                "ibukota": "Mamasa",
+                "k_bsni": "MMS",
+                "kecamatan": [
+                    {
+                        "id": 6078,
+                        "kabkot_id": 447,
+                        "kec": "Aralle",
+                        "kelurahan": [
+                            {
+                                "id": 72596,
+                                "kec_id": 6078,
+                                "kelu": "Aralle",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72597,
+                                "kec_id": 6078,
+                                "kelu": "Aralle Selatan",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72598,
+                                "kec_id": 6078,
+                                "kelu": "Aralle Utara",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72599,
+                                "kec_id": 6078,
+                                "kelu": "Baruru",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72600,
+                                "kec_id": 6078,
+                                "kelu": "Hahangan",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72601,
+                                "kec_id": 6078,
+                                "kelu": "Kalabe",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72602,
+                                "kec_id": 6078,
+                                "kelu": "Pamoseang Pangga",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72603,
+                                "kec_id": 6078,
+                                "kelu": "Panetean",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72604,
+                                "kec_id": 6078,
+                                "kelu": "Ralle Anak",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72605,
+                                "kec_id": 6078,
+                                "kelu": "Ralleanak Utara",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72606,
+                                "kec_id": 6078,
+                                "kelu": "Uhaidaho",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72607,
+                                "kec_id": 6078,
+                                "kelu": "Uhailanu",
+                                "pos": 91373
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6079,
+                        "kabkot_id": 447,
+                        "kec": "Balla",
+                        "kelurahan": [
+                            {
+                                "id": 72608,
+                                "kec_id": 6079,
+                                "kelu": "Balla",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72609,
+                                "kec_id": 6079,
+                                "kelu": "Balla Barat",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72610,
+                                "kec_id": 6079,
+                                "kelu": "Balla Satanetean",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72611,
+                                "kec_id": 6079,
+                                "kelu": "Balla Timur",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72612,
+                                "kec_id": 6079,
+                                "kelu": "Balla Tumuka",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72613,
+                                "kec_id": 6079,
+                                "kelu": "Bambapuang",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72614,
+                                "kec_id": 6079,
+                                "kelu": "Pidara",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72615,
+                                "kec_id": 6079,
+                                "kelu": "Sepakuan",
+                                "pos": 91366
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6080,
+                        "kabkot_id": 447,
+                        "kec": "Bambang",
+                        "kelurahan": [
+                            {
+                                "id": 72616,
+                                "kec_id": 6080,
+                                "kelu": "Balatana",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72617,
+                                "kec_id": 6080,
+                                "kelu": "Bambang",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72618,
+                                "kec_id": 6080,
+                                "kelu": "Bambang Timur",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72619,
+                                "kec_id": 6080,
+                                "kelu": "Limbadebata",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72620,
+                                "kec_id": 6080,
+                                "kelu": "Masoso",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72621,
+                                "kec_id": 6080,
+                                "kelu": "Minanga",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72622,
+                                "kec_id": 6080,
+                                "kelu": "Mokallang",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72623,
+                                "kec_id": 6080,
+                                "kelu": "Rantelemo",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72624,
+                                "kec_id": 6080,
+                                "kelu": "Rantetarima",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72625,
+                                "kec_id": 6080,
+                                "kelu": "Saluassing",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72626,
+                                "kec_id": 6080,
+                                "kelu": "Salubulo",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72627,
+                                "kec_id": 6080,
+                                "kelu": "Saludengen",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72628,
+                                "kec_id": 6080,
+                                "kelu": "Salukadi",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72629,
+                                "kec_id": 6080,
+                                "kelu": "Salukepopok",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72630,
+                                "kec_id": 6080,
+                                "kelu": "Salururu",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72631,
+                                "kec_id": 6080,
+                                "kelu": "Salutabang",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72632,
+                                "kec_id": 6080,
+                                "kelu": "Sikamase",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72633,
+                                "kec_id": 6080,
+                                "kelu": "Tanete Tomba",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72634,
+                                "kec_id": 6080,
+                                "kelu": "Ulumambi",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72635,
+                                "kec_id": 6080,
+                                "kelu": "Ulumambi Barat",
+                                "pos": 91371
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6081,
+                        "kabkot_id": 447,
+                        "kec": "Buntumalangka",
+                        "kelurahan": [
+                            {
+                                "id": 72636,
+                                "kec_id": 6081,
+                                "kelu": "Aralle Timur",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72637,
+                                "kec_id": 6081,
+                                "kelu": "Buntumalangka",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72638,
+                                "kec_id": 6081,
+                                "kelu": "Kabae",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72639,
+                                "kec_id": 6081,
+                                "kelu": "Kebanga",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72640,
+                                "kec_id": 6081,
+                                "kelu": "Penatangan",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72641,
+                                "kec_id": 6081,
+                                "kelu": "Ranteberan",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72642,
+                                "kec_id": 6081,
+                                "kelu": "Salurindu",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72643,
+                                "kec_id": 6081,
+                                "kelu": "Salutambun",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72644,
+                                "kec_id": 6081,
+                                "kelu": "Salutambun Barat",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72645,
+                                "kec_id": 6081,
+                                "kelu": "Salutambun Timur",
+                                "pos": 91373
+                            },
+                            {
+                                "id": 72646,
+                                "kec_id": 6081,
+                                "kelu": "Taora",
+                                "pos": 91373
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6082,
+                        "kabkot_id": 447,
+                        "kec": "Mamasa",
+                        "kelurahan": [
+                            {
+                                "id": 72647,
+                                "kec_id": 6082,
+                                "kelu": "Bombong Lambe",
+                                "pos": 91362
+                            },
+                            {
+                                "id": 72648,
+                                "kec_id": 6082,
+                                "kelu": "Bubun Batu",
+                                "pos": 91362
+                            },
+                            {
+                                "id": 72649,
+                                "kec_id": 6082,
+                                "kelu": "Buntu Buda",
+                                "pos": 91362
+                            },
+                            {
+                                "id": 72650,
+                                "kec_id": 6082,
+                                "kelu": "Lambanan",
+                                "pos": 91362
+                            },
+                            {
+                                "id": 72651,
+                                "kec_id": 6082,
+                                "kelu": "Lembana Salulo",
+                                "pos": 91362
+                            },
+                            {
+                                "id": 72652,
+                                "kec_id": 6082,
+                                "kelu": "Mamasa",
+                                "pos": 91362
+                            },
+                            {
+                                "id": 72653,
+                                "kec_id": 6082,
+                                "kelu": "Mambuliling",
+                                "pos": 91362
+                            },
+                            {
+                                "id": 72654,
+                                "kec_id": 6082,
+                                "kelu": "Osango",
+                                "pos": 91362
+                            },
+                            {
+                                "id": 72655,
+                                "kec_id": 6082,
+                                "kelu": "Pebassian",
+                                "pos": 91362
+                            },
+                            {
+                                "id": 72656,
+                                "kec_id": 6082,
+                                "kelu": "Rambusaratu",
+                                "pos": 91362
+                            },
+                            {
+                                "id": 72657,
+                                "kec_id": 6082,
+                                "kelu": "Taupe",
+                                "pos": 91362
+                            },
+                            {
+                                "id": 72658,
+                                "kec_id": 6082,
+                                "kelu": "Tondok Bakaru",
+                                "pos": 91362
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6083,
+                        "kabkot_id": 447,
+                        "kec": "Mambi",
+                        "kelurahan": [
+                            {
+                                "id": 72659,
+                                "kec_id": 6083,
+                                "kelu": "Bujung Manurung",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72660,
+                                "kec_id": 6083,
+                                "kelu": "Indobanua",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72661,
+                                "kec_id": 6083,
+                                "kelu": "Mambi",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72662,
+                                "kec_id": 6083,
+                                "kelu": "Pamosean",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72663,
+                                "kec_id": 6083,
+                                "kelu": "Rantebulahan",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72664,
+                                "kec_id": 6083,
+                                "kelu": "Salu Alo",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72665,
+                                "kec_id": 6083,
+                                "kelu": "Salubanua",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72666,
+                                "kec_id": 6083,
+                                "kelu": "Saludurian",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72667,
+                                "kec_id": 6083,
+                                "kelu": "Selumaka",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72668,
+                                "kec_id": 6083,
+                                "kelu": "Sendana",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72669,
+                                "kec_id": 6083,
+                                "kelu": "Sondonglayu",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72670,
+                                "kec_id": 6083,
+                                "kelu": "Talipukki",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72671,
+                                "kec_id": 6083,
+                                "kelu": "Tapalina",
+                                "pos": 91371
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6084,
+                        "kabkot_id": 447,
+                        "kec": "Mehalaan",
+                        "kelurahan": [
+                            {
+                                "id": 72672,
+                                "kec_id": 6084,
+                                "kelu": "Botteng",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72673,
+                                "kec_id": 6084,
+                                "kelu": "Kondo",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72674,
+                                "kec_id": 6084,
+                                "kelu": "Leko Sukamaju",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72675,
+                                "kec_id": 6084,
+                                "kelu": "Mehalaan",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72676,
+                                "kec_id": 6084,
+                                "kelu": "Mehalaan Barat",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72677,
+                                "kec_id": 6084,
+                                "kelu": "Mesakada",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72678,
+                                "kec_id": 6084,
+                                "kelu": "Passembuk",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72679,
+                                "kec_id": 6084,
+                                "kelu": "Saluahok",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72680,
+                                "kec_id": 6084,
+                                "kelu": "Salubalo",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72681,
+                                "kec_id": 6084,
+                                "kelu": "Salukonta",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72682,
+                                "kec_id": 6084,
+                                "kelu": "Ulumea",
+                                "pos": 91371
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6085,
+                        "kabkot_id": 447,
+                        "kec": "Messawa",
+                        "kelurahan": [
+                            {
+                                "id": 72683,
+                                "kec_id": 6085,
+                                "kelu": "Makuang",
+                                "pos": 91361
+                            },
+                            {
+                                "id": 72684,
+                                "kec_id": 6085,
+                                "kelu": "Malimbong",
+                                "pos": 91361
+                            },
+                            {
+                                "id": 72685,
+                                "kec_id": 6085,
+                                "kelu": "Matande",
+                                "pos": 91361
+                            },
+                            {
+                                "id": 72686,
+                                "kec_id": 6085,
+                                "kelu": "Messawa",
+                                "pos": 91361
+                            },
+                            {
+                                "id": 72687,
+                                "kec_id": 6085,
+                                "kelu": "Pasma Mambu",
+                                "pos": 91361
+                            },
+                            {
+                                "id": 72688,
+                                "kec_id": 6085,
+                                "kelu": "Rippung",
+                                "pos": 91361
+                            },
+                            {
+                                "id": 72689,
+                                "kec_id": 6085,
+                                "kelu": "Sepang",
+                                "pos": 91361
+                            },
+                            {
+                                "id": 72690,
+                                "kec_id": 6085,
+                                "kelu": "Sipai",
+                                "pos": 91361
+                            },
+                            {
+                                "id": 72691,
+                                "kec_id": 6085,
+                                "kelu": "Tanete Batu",
+                                "pos": 91361
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6086,
+                        "kabkot_id": 447,
+                        "kec": "Nosu",
+                        "kelurahan": [
+                            {
+                                "id": 72692,
+                                "kec_id": 6086,
+                                "kelu": "Batupapan",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72693,
+                                "kec_id": 6086,
+                                "kelu": "Masewwe",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72694,
+                                "kec_id": 6086,
+                                "kelu": "Minanga",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72695,
+                                "kec_id": 6086,
+                                "kelu": "Minanga Timur",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72696,
+                                "kec_id": 6086,
+                                "kelu": "Nosu",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72697,
+                                "kec_id": 6086,
+                                "kelu": "Parinding",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72698,
+                                "kec_id": 6086,
+                                "kelu": "Siwi",
+                                "pos": 91363
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6087,
+                        "kabkot_id": 447,
+                        "kec": "Pana",
+                        "kelurahan": [
+                            {
+                                "id": 72699,
+                                "kec_id": 6087,
+                                "kelu": "Datubaringan",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72700,
+                                "kec_id": 6087,
+                                "kelu": "Karaka",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72701,
+                                "kec_id": 6087,
+                                "kelu": "Mamullu",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72702,
+                                "kec_id": 6087,
+                                "kelu": "Manipi",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72703,
+                                "kec_id": 6087,
+                                "kelu": "Pana",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72704,
+                                "kec_id": 6087,
+                                "kelu": "Panura",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72705,
+                                "kec_id": 6087,
+                                "kelu": "Saloan",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72706,
+                                "kec_id": 6087,
+                                "kelu": "Salutambun",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72707,
+                                "kec_id": 6087,
+                                "kelu": "Sapan",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72708,
+                                "kec_id": 6087,
+                                "kelu": "Tallang Bulawan",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72709,
+                                "kec_id": 6087,
+                                "kelu": "Ulusalu",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72710,
+                                "kec_id": 6087,
+                                "kelu": "Ulusalu Indah",
+                                "pos": 91363
+                            },
+                            {
+                                "id": 72711,
+                                "kec_id": 6087,
+                                "kelu": "Weri",
+                                "pos": 91363
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6088,
+                        "kabkot_id": 447,
+                        "kec": "Rantebulahan Timur",
+                        "kelurahan": [
+                            {
+                                "id": 72712,
+                                "kec_id": 6088,
+                                "kelu": "Bambang Buda",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72713,
+                                "kec_id": 6088,
+                                "kelu": "Buangin",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72714,
+                                "kec_id": 6088,
+                                "kelu": "Kirak",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72715,
+                                "kec_id": 6088,
+                                "kelu": "Leko",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72716,
+                                "kec_id": 6088,
+                                "kelu": "Salumokanan",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72717,
+                                "kec_id": 6088,
+                                "kelu": "Salumokanan Barat",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72718,
+                                "kec_id": 6088,
+                                "kelu": "Salumokanan Utara",
+                                "pos": 91371
+                            },
+                            {
+                                "id": 72719,
+                                "kec_id": 6088,
+                                "kelu": "Sampale",
+                                "pos": 91371
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6089,
+                        "kabkot_id": 447,
+                        "kec": "Sesenapadang",
+                        "kelurahan": [
+                            {
+                                "id": 72720,
+                                "kec_id": 6089,
+                                "kelu": "Lisuan Ada",
+                                "pos": 91365
+                            },
+                            {
+                                "id": 72721,
+                                "kec_id": 6089,
+                                "kelu": "Malangkena Padang",
+                                "pos": 91365
+                            },
+                            {
+                                "id": 72722,
+                                "kec_id": 6089,
+                                "kelu": "Malimbong",
+                                "pos": 91365
+                            },
+                            {
+                                "id": 72723,
+                                "kec_id": 6089,
+                                "kelu": "Marampan Orobua",
+                                "pos": 91365
+                            },
+                            {
+                                "id": 72724,
+                                "kec_id": 6089,
+                                "kelu": "Orobua",
+                                "pos": 91365
+                            },
+                            {
+                                "id": 72725,
+                                "kec_id": 6089,
+                                "kelu": "Orobua Selatan",
+                                "pos": 91365
+                            },
+                            {
+                                "id": 72726,
+                                "kec_id": 6089,
+                                "kelu": "Orobua Timur",
+                                "pos": 91365
+                            },
+                            {
+                                "id": 72727,
+                                "kec_id": 6089,
+                                "kelu": "Paladan",
+                                "pos": 91365
+                            },
+                            {
+                                "id": 72728,
+                                "kec_id": 6089,
+                                "kelu": "Rante Puang",
+                                "pos": 91365
+                            },
+                            {
+                                "id": 72729,
+                                "kec_id": 6089,
+                                "kelu": "Satenetean",
+                                "pos": 91365
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6090,
+                        "kabkot_id": 447,
+                        "kec": "Sumarorong",
+                        "kelurahan": [
+                            {
+                                "id": 72730,
+                                "kec_id": 6090,
+                                "kelu": "Banea",
+                                "pos": 91361
+                            },
+                            {
+                                "id": 72731,
+                                "kec_id": 6090,
+                                "kelu": "Batang Uru",
+                                "pos": 91361
+                            },
+                            {
+                                "id": 72732,
+                                "kec_id": 6090,
+                                "kelu": "Batangnguru Timur",
+                                "pos": 91361
+                            },
+                            {
+                                "id": 72733,
+                                "kec_id": 6090,
+                                "kelu": "Rante Kamase",
+                                "pos": 91361
+                            },
+                            {
+                                "id": 72734,
+                                "kec_id": 6090,
+                                "kelu": "Salubalo",
+                                "pos": 91361
+                            },
+                            {
+                                "id": 72735,
+                                "kec_id": 6090,
+                                "kelu": "Sasakan",
+                                "pos": 91361
+                            },
+                            {
+                                "id": 72736,
+                                "kec_id": 6090,
+                                "kelu": "Sibanawa",
+                                "pos": 91361
+                            },
+                            {
+                                "id": 72737,
+                                "kec_id": 6090,
+                                "kelu": "Sumarorong",
+                                "pos": 91361
+                            },
+                            {
+                                "id": 72738,
+                                "kec_id": 6090,
+                                "kelu": "Tabone",
+                                "pos": 91361
+                            },
+                            {
+                                "id": 72739,
+                                "kec_id": 6090,
+                                "kelu": "Tadisi",
+                                "pos": 91361
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6091,
+                        "kabkot_id": 447,
+                        "kec": "Tabang",
+                        "kelurahan": [
+                            {
+                                "id": 72740,
+                                "kec_id": 6091,
+                                "kelu": "Bakadisura",
+                                "pos": 91364
+                            },
+                            {
+                                "id": 72741,
+                                "kec_id": 6091,
+                                "kelu": "Kalama",
+                                "pos": 91364
+                            },
+                            {
+                                "id": 72742,
+                                "kec_id": 6091,
+                                "kelu": "Masupu",
+                                "pos": 91364
+                            },
+                            {
+                                "id": 72743,
+                                "kec_id": 6091,
+                                "kelu": "Salukona",
+                                "pos": 91364
+                            },
+                            {
+                                "id": 72744,
+                                "kec_id": 6091,
+                                "kelu": "Tabang",
+                                "pos": 91364
+                            },
+                            {
+                                "id": 72745,
+                                "kec_id": 6091,
+                                "kelu": "Tabang Barat",
+                                "pos": 91364
+                            },
+                            {
+                                "id": 72746,
+                                "kec_id": 6091,
+                                "kelu": "Tadokalua",
+                                "pos": 91364
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6092,
+                        "kabkot_id": 447,
+                        "kec": "Tabulahan",
+                        "kelurahan": [
+                            {
+                                "id": 72747,
+                                "kec_id": 6092,
+                                "kelu": "Burana",
+                                "pos": 91372
+                            },
+                            {
+                                "id": 72748,
+                                "kec_id": 6092,
+                                "kelu": "Gandang Dewata",
+                                "pos": 91372
+                            },
+                            {
+                                "id": 72749,
+                                "kec_id": 6092,
+                                "kelu": "Lakahang",
+                                "pos": 91372
+                            },
+                            {
+                                "id": 72750,
+                                "kec_id": 6092,
+                                "kelu": "Lakahang Utama",
+                                "pos": 91372
+                            },
+                            {
+                                "id": 72751,
+                                "kec_id": 6092,
+                                "kelu": "Malatiro",
+                                "pos": 91372
+                            },
+                            {
+                                "id": 72752,
+                                "kec_id": 6092,
+                                "kelu": "Pangandaran",
+                                "pos": 91372
+                            },
+                            {
+                                "id": 72753,
+                                "kec_id": 6092,
+                                "kelu": "Periangan",
+                                "pos": 91372
+                            },
+                            {
+                                "id": 72754,
+                                "kec_id": 6092,
+                                "kelu": "Peu",
+                                "pos": 91372
+                            },
+                            {
+                                "id": 72755,
+                                "kec_id": 6092,
+                                "kelu": "Salubakka",
+                                "pos": 91372
+                            },
+                            {
+                                "id": 72756,
+                                "kec_id": 6092,
+                                "kelu": "Saluleang",
+                                "pos": 91372
+                            },
+                            {
+                                "id": 72757,
+                                "kec_id": 6092,
+                                "kelu": "Tabulahan",
+                                "pos": 91372
+                            },
+                            {
+                                "id": 72758,
+                                "kec_id": 6092,
+                                "kelu": "Talopak",
+                                "pos": 91372
+                            },
+                            {
+                                "id": 72759,
+                                "kec_id": 6092,
+                                "kelu": "Tampak Kurra",
+                                "pos": 91372
+                            },
+                            {
+                                "id": 72760,
+                                "kec_id": 6092,
+                                "kelu": "Timoro",
+                                "pos": 91372
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6093,
+                        "kabkot_id": 447,
+                        "kec": "Tanduk Kalua",
+                        "kelurahan": [
+                            {
+                                "id": 72761,
+                                "kec_id": 6093,
+                                "kelu": "Ballabatu",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72762,
+                                "kec_id": 6093,
+                                "kelu": "Kanan",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72763,
+                                "kec_id": 6093,
+                                "kelu": "Malabo",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72764,
+                                "kec_id": 6093,
+                                "kelu": "Mannababa",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72765,
+                                "kec_id": 6093,
+                                "kelu": "Mesakada",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72766,
+                                "kec_id": 6093,
+                                "kelu": "Minake",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72767,
+                                "kec_id": 6093,
+                                "kelu": "Pambe",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72768,
+                                "kec_id": 6093,
+                                "kelu": "Parondobulawan",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72769,
+                                "kec_id": 6093,
+                                "kelu": "Salurano",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72770,
+                                "kec_id": 6093,
+                                "kelu": "Sindagamanik",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72771,
+                                "kec_id": 6093,
+                                "kelu": "Talimbung",
+                                "pos": 91366
+                            },
+                            {
+                                "id": 72772,
+                                "kec_id": 6093,
+                                "kelu": "Tamalantik",
+                                "pos": 91366
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6094,
+                        "kabkot_id": 447,
+                        "kec": "Tawalian",
+                        "kelurahan": [
+                            {
+                                "id": 72773,
+                                "kec_id": 6094,
+                                "kelu": "Kariango",
+                                "pos": 91365
+                            },
+                            {
+                                "id": 72774,
+                                "kec_id": 6094,
+                                "kelu": "Rante Tangnga",
+                                "pos": 91365
+                            },
+                            {
+                                "id": 72775,
+                                "kec_id": 6094,
+                                "kelu": "Tawalian",
+                                "pos": 91365
+                            },
+                            {
+                                "id": 72776,
+                                "kec_id": 6094,
+                                "kelu": "Tawalian Timur",
+                                "pos": 91365
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 448,
+                "prov_id": 30,
+                "kab_kota": "Kabupaten Mamuju",
+                "ibukota": "Mamuju",
+                "k_bsni": "MAM",
+                "kecamatan": [
+                    {
+                        "id": 6095,
+                        "kabkot_id": 448,
+                        "kec": "Bonehau",
+                        "kelurahan": [
+                            {
+                                "id": 72777,
+                                "kec_id": 6095,
+                                "kelu": "Banuada",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72778,
+                                "kec_id": 6095,
+                                "kelu": "Bonehau",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72779,
+                                "kec_id": 6095,
+                                "kelu": "Buttuada",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72780,
+                                "kec_id": 6095,
+                                "kelu": "Hinua",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72781,
+                                "kec_id": 6095,
+                                "kelu": "Kinatang",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72782,
+                                "kec_id": 6095,
+                                "kelu": "Lumika",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72783,
+                                "kec_id": 6095,
+                                "kelu": "Lumika I",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72784,
+                                "kec_id": 6095,
+                                "kelu": "Mappu",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72785,
+                                "kec_id": 6095,
+                                "kelu": "Salutiwo",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72786,
+                                "kec_id": 6095,
+                                "kelu": "Tamalea (Talondo I)",
+                                "pos": 91562
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6096,
+                        "kabkot_id": 448,
+                        "kec": "Kalukku",
+                        "kelurahan": [
+                            {
+                                "id": 72787,
+                                "kec_id": 6096,
+                                "kelu": "Bebanga",
+                                "pos": 91561
+                            },
+                            {
+                                "id": 72788,
+                                "kec_id": 6096,
+                                "kelu": "Belang-Belang",
+                                "pos": 91561
+                            },
+                            {
+                                "id": 72789,
+                                "kec_id": 6096,
+                                "kelu": "Beru-Beru",
+                                "pos": 91561
+                            },
+                            {
+                                "id": 72790,
+                                "kec_id": 6096,
+                                "kelu": "Guliling",
+                                "pos": 91561
+                            },
+                            {
+                                "id": 72791,
+                                "kec_id": 6096,
+                                "kelu": "Kabuloang",
+                                "pos": 91561
+                            },
+                            {
+                                "id": 72792,
+                                "kec_id": 6096,
+                                "kelu": "Kalukku",
+                                "pos": 91561
+                            },
+                            {
+                                "id": 72793,
+                                "kec_id": 6096,
+                                "kelu": "Kalukku Barat",
+                                "pos": 91561
+                            },
+                            {
+                                "id": 72794,
+                                "kec_id": 6096,
+                                "kelu": "Keang",
+                                "pos": 91561
+                            },
+                            {
+                                "id": 72795,
+                                "kec_id": 6096,
+                                "kelu": "Pammulukang",
+                                "pos": 91561
+                            },
+                            {
+                                "id": 72796,
+                                "kec_id": 6096,
+                                "kelu": "Pokkang",
+                                "pos": 91561
+                            },
+                            {
+                                "id": 72797,
+                                "kec_id": 6096,
+                                "kelu": "Sinyonyoi",
+                                "pos": 91561
+                            },
+                            {
+                                "id": 72798,
+                                "kec_id": 6096,
+                                "kelu": "Sondoang",
+                                "pos": 91561
+                            },
+                            {
+                                "id": 72799,
+                                "kec_id": 6096,
+                                "kelu": "Uhaimate",
+                                "pos": 91561
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6097,
+                        "kabkot_id": 448,
+                        "kec": "Kalumpang",
+                        "kelurahan": [
+                            {
+                                "id": 72800,
+                                "kec_id": 6097,
+                                "kelu": "Batu Makkada",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72801,
+                                "kec_id": 6097,
+                                "kelu": "Kalumpang",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72802,
+                                "kec_id": 6097,
+                                "kelu": "Karama",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72803,
+                                "kec_id": 6097,
+                                "kelu": "Karataun",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72804,
+                                "kec_id": 6097,
+                                "kelu": "Kondo Bulo",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72805,
+                                "kec_id": 6097,
+                                "kelu": "Lasa",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72806,
+                                "kec_id": 6097,
+                                "kelu": "Limbong",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72807,
+                                "kec_id": 6097,
+                                "kelu": "Makkaliki",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72808,
+                                "kec_id": 6097,
+                                "kelu": "Polio (Ba'san)",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72809,
+                                "kec_id": 6097,
+                                "kelu": "Salumakki",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72810,
+                                "kec_id": 6097,
+                                "kelu": "Sandapang",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72811,
+                                "kec_id": 6097,
+                                "kelu": "Siraun",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72812,
+                                "kec_id": 6097,
+                                "kelu": "Tumonga",
+                                "pos": 91562
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6098,
+                        "kabkot_id": 448,
+                        "kec": "Kep. Bala Balakang",
+                        "kelurahan": [
+                            {
+                                "id": 72813,
+                                "kec_id": 6098,
+                                "kelu": "Bala Balakang",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72814,
+                                "kec_id": 6098,
+                                "kelu": "Bala Balakang Timur",
+                                "pos": 91512
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6099,
+                        "kabkot_id": 448,
+                        "kec": "Mamuju",
+                        "kelurahan": [
+                            {
+                                "id": 72815,
+                                "kec_id": 6099,
+                                "kelu": "Bambu",
+                                "pos": 91514
+                            },
+                            {
+                                "id": 72816,
+                                "kec_id": 6099,
+                                "kelu": "Batu Pannu",
+                                "pos": 91511
+                            },
+                            {
+                                "id": 72817,
+                                "kec_id": 6099,
+                                "kelu": "Binanga",
+                                "pos": 91511
+                            },
+                            {
+                                "id": 72818,
+                                "kec_id": 6099,
+                                "kelu": "Karampuang",
+                                "pos": 91515
+                            },
+                            {
+                                "id": 72819,
+                                "kec_id": 6099,
+                                "kelu": "Karema",
+                                "pos": 91515
+                            },
+                            {
+                                "id": 72820,
+                                "kec_id": 6099,
+                                "kelu": "Mamunyu",
+                                "pos": 91511
+                            },
+                            {
+                                "id": 72821,
+                                "kec_id": 6099,
+                                "kelu": "Rimuku",
+                                "pos": 91515
+                            },
+                            {
+                                "id": 72822,
+                                "kec_id": 6099,
+                                "kelu": "Tadui",
+                                "pos": 91511
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6100,
+                        "kabkot_id": 448,
+                        "kec": "Papalang",
+                        "kelurahan": [
+                            {
+                                "id": 72823,
+                                "kec_id": 6100,
+                                "kelu": "Batu Ampa",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72824,
+                                "kec_id": 6100,
+                                "kelu": "Boda-Boda",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72825,
+                                "kec_id": 6100,
+                                "kelu": "Bonda",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72826,
+                                "kec_id": 6100,
+                                "kelu": "Papalang",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72827,
+                                "kec_id": 6100,
+                                "kelu": "Salukayu (Salokayu)",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72828,
+                                "kec_id": 6100,
+                                "kelu": "Sisango",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72829,
+                                "kec_id": 6100,
+                                "kelu": "Sukadamai",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72830,
+                                "kec_id": 6100,
+                                "kelu": "Toabo",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72831,
+                                "kec_id": 6100,
+                                "kelu": "Topare (Tapore)",
+                                "pos": 91563
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6101,
+                        "kabkot_id": 448,
+                        "kec": "Sampaga",
+                        "kelurahan": [
+                            {
+                                "id": 72832,
+                                "kec_id": 6101,
+                                "kelu": "Bunde",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72833,
+                                "kec_id": 6101,
+                                "kelu": "Kalonding",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72834,
+                                "kec_id": 6101,
+                                "kelu": "Losso",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72835,
+                                "kec_id": 6101,
+                                "kelu": "Salubarana",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72836,
+                                "kec_id": 6101,
+                                "kelu": "Sampaga",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72837,
+                                "kec_id": 6101,
+                                "kelu": "Tanam Buah (Tanambua)",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72838,
+                                "kec_id": 6101,
+                                "kelu": "Tarailu",
+                                "pos": 91563
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6102,
+                        "kabkot_id": 448,
+                        "kec": "Simboro dan Kepulauan",
+                        "kelurahan": [
+                            {
+                                "id": 72839,
+                                "kec_id": 6102,
+                                "kelu": "Botteng",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72840,
+                                "kec_id": 6102,
+                                "kelu": "Botteng Utara",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72841,
+                                "kec_id": 6102,
+                                "kelu": "KUPTD Botteng I",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72842,
+                                "kec_id": 6102,
+                                "kelu": "KUPTD Botteng II",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72843,
+                                "kec_id": 6102,
+                                "kelu": "Rangas",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72844,
+                                "kec_id": 6102,
+                                "kelu": "Salletto",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72845,
+                                "kec_id": 6102,
+                                "kelu": "Simboro",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72846,
+                                "kec_id": 6102,
+                                "kelu": "Sumare",
+                                "pos": 91513
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6103,
+                        "kabkot_id": 448,
+                        "kec": "Tapalang",
+                        "kelurahan": [
+                            {
+                                "id": 72847,
+                                "kec_id": 6103,
+                                "kelu": "Bela",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 72848,
+                                "kec_id": 6103,
+                                "kelu": "Galung",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 72849,
+                                "kec_id": 6103,
+                                "kelu": "Kasambang",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 72850,
+                                "kec_id": 6103,
+                                "kelu": "Kopeang",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 72851,
+                                "kec_id": 6103,
+                                "kelu": "Orobatu",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 72852,
+                                "kec_id": 6103,
+                                "kelu": "Rantedoda",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 72853,
+                                "kec_id": 6103,
+                                "kelu": "Taang (Ta'an)",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 72854,
+                                "kec_id": 6103,
+                                "kelu": "Takandeang",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 72855,
+                                "kec_id": 6103,
+                                "kelu": "Tampalang",
+                                "pos": 91352
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6104,
+                        "kabkot_id": 448,
+                        "kec": "Tapalang Barat",
+                        "kelurahan": [
+                            {
+                                "id": 72856,
+                                "kec_id": 6104,
+                                "kelu": "Ahu",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 72857,
+                                "kec_id": 6104,
+                                "kelu": "Dungkait",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 72858,
+                                "kec_id": 6104,
+                                "kelu": "Labuang Rano",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 72859,
+                                "kec_id": 6104,
+                                "kelu": "Lebani",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 72860,
+                                "kec_id": 6104,
+                                "kelu": "Pangasaan",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 72861,
+                                "kec_id": 6104,
+                                "kelu": "Pasabu (Pasa Bu)",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 72862,
+                                "kec_id": 6104,
+                                "kelu": "Tanete Pao",
+                                "pos": 91352
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6105,
+                        "kabkot_id": 448,
+                        "kec": "Tommo",
+                        "kelurahan": [
+                            {
+                                "id": 72863,
+                                "kec_id": 6105,
+                                "kelu": "Buana Sakti",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72864,
+                                "kec_id": 6105,
+                                "kelu": "Campaloga",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72865,
+                                "kec_id": 6105,
+                                "kelu": "Kakulasang (Kakullasan)",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72866,
+                                "kec_id": 6105,
+                                "kelu": "Kalepu",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72867,
+                                "kec_id": 6105,
+                                "kelu": "Leling",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72868,
+                                "kec_id": 6105,
+                                "kelu": "Leling Barat",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72869,
+                                "kec_id": 6105,
+                                "kelu": "Leling Utara",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72870,
+                                "kec_id": 6105,
+                                "kelu": "Malino",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72871,
+                                "kec_id": 6105,
+                                "kelu": "Rante Mario",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72872,
+                                "kec_id": 6105,
+                                "kelu": "Saludengen",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72873,
+                                "kec_id": 6105,
+                                "kelu": "Sandana",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72874,
+                                "kec_id": 6105,
+                                "kelu": "Tamejarra (Tammejarra)",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72875,
+                                "kec_id": 6105,
+                                "kelu": "Tamemongga",
+                                "pos": 91562
+                            },
+                            {
+                                "id": 72876,
+                                "kec_id": 6105,
+                                "kelu": "Tommo",
+                                "pos": 91562
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 449,
+                "prov_id": 30,
+                "kab_kota": "Kabupaten Mamuju Tengah",
+                "ibukota": "Tobadak",
+                "k_bsni": "TBD",
+                "kecamatan": [
+                    {
+                        "id": 6106,
+                        "kabkot_id": 449,
+                        "kec": "Budong-Budong",
+                        "kelurahan": [
+                            {
+                                "id": 72877,
+                                "kec_id": 6106,
+                                "kelu": "Babana",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72878,
+                                "kec_id": 6106,
+                                "kelu": "Barakkang",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72879,
+                                "kec_id": 6106,
+                                "kelu": "Bojo",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72880,
+                                "kec_id": 6106,
+                                "kelu": "Kire",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72881,
+                                "kec_id": 6106,
+                                "kelu": "Lembah Hada",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72882,
+                                "kec_id": 6106,
+                                "kelu": "Lumu",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72883,
+                                "kec_id": 6106,
+                                "kelu": "Pasapa",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72884,
+                                "kec_id": 6106,
+                                "kelu": "Pontanakayang",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72885,
+                                "kec_id": 6106,
+                                "kelu": "Salugatta",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72886,
+                                "kec_id": 6106,
+                                "kelu": "Salumanurung",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72887,
+                                "kec_id": 6106,
+                                "kelu": "Tinali",
+                                "pos": 91563
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6107,
+                        "kabkot_id": 449,
+                        "kec": "Karossa",
+                        "kelurahan": [
+                            {
+                                "id": 72888,
+                                "kec_id": 6107,
+                                "kelu": "Benggaulu",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72889,
+                                "kec_id": 6107,
+                                "kelu": "Kadaila",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72890,
+                                "kec_id": 6107,
+                                "kelu": "Kambunong",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72891,
+                                "kec_id": 6107,
+                                "kelu": "Karossa",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72892,
+                                "kec_id": 6107,
+                                "kelu": "Kayu Calla",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72893,
+                                "kec_id": 6107,
+                                "kelu": "Lara",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72894,
+                                "kec_id": 6107,
+                                "kelu": "Lembah Hopo",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72895,
+                                "kec_id": 6107,
+                                "kelu": "Salubiro",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72896,
+                                "kec_id": 6107,
+                                "kelu": "Sanjango",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72897,
+                                "kec_id": 6107,
+                                "kelu": "Suka Maju",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72898,
+                                "kec_id": 6107,
+                                "kelu": "Tasokko",
+                                "pos": 91512
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6108,
+                        "kabkot_id": 449,
+                        "kec": "Pangale",
+                        "kelurahan": [
+                            {
+                                "id": 72899,
+                                "kec_id": 6108,
+                                "kelu": "Kombiling",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72900,
+                                "kec_id": 6108,
+                                "kelu": "Kuo",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72901,
+                                "kec_id": 6108,
+                                "kelu": "Lamba Lamba",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72902,
+                                "kec_id": 6108,
+                                "kelu": "Lemo-Lemo",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72903,
+                                "kec_id": 6108,
+                                "kelu": "Pangale",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72904,
+                                "kec_id": 6108,
+                                "kelu": "Polo Camba",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72905,
+                                "kec_id": 6108,
+                                "kelu": "Polo Lereng",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72906,
+                                "kec_id": 6108,
+                                "kelu": "Polo Pangale",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72907,
+                                "kec_id": 6108,
+                                "kelu": "Sartana Maju",
+                                "pos": 91563
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6109,
+                        "kabkot_id": 449,
+                        "kec": "Tobadak",
+                        "kelurahan": [
+                            {
+                                "id": 72908,
+                                "kec_id": 6109,
+                                "kelu": "Bambadaru",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72909,
+                                "kec_id": 6109,
+                                "kelu": "Batu Parigi",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72910,
+                                "kec_id": 6109,
+                                "kelu": "Mahahe",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72911,
+                                "kec_id": 6109,
+                                "kelu": "Polongaan",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72912,
+                                "kec_id": 6109,
+                                "kelu": "Saloadak",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72913,
+                                "kec_id": 6109,
+                                "kelu": "Sejati",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72914,
+                                "kec_id": 6109,
+                                "kelu": "Sulobaja",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72915,
+                                "kec_id": 6109,
+                                "kelu": "Tobadak",
+                                "pos": 91563
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6110,
+                        "kabkot_id": 449,
+                        "kec": "Topoyo",
+                        "kelurahan": [
+                            {
+                                "id": 72916,
+                                "kec_id": 6110,
+                                "kelu": "Bambamanurung",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72917,
+                                "kec_id": 6110,
+                                "kelu": "Budong-Budong",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72918,
+                                "kec_id": 6110,
+                                "kelu": "Kabubu",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72919,
+                                "kec_id": 6110,
+                                "kelu": "Pangalloang",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72920,
+                                "kec_id": 6110,
+                                "kelu": "Paraili",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72921,
+                                "kec_id": 6110,
+                                "kelu": "Salulebo",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72922,
+                                "kec_id": 6110,
+                                "kelu": "Salupangkang",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72923,
+                                "kec_id": 6110,
+                                "kelu": "Salupangkang IV",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72924,
+                                "kec_id": 6110,
+                                "kelu": "Sinabatta",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72925,
+                                "kec_id": 6110,
+                                "kelu": "Tabolang",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72926,
+                                "kec_id": 6110,
+                                "kelu": "Tangkau",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72927,
+                                "kec_id": 6110,
+                                "kelu": "Tappilina",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72928,
+                                "kec_id": 6110,
+                                "kelu": "Topoyo",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72929,
+                                "kec_id": 6110,
+                                "kelu": "Tumbu",
+                                "pos": 91563
+                            },
+                            {
+                                "id": 72930,
+                                "kec_id": 6110,
+                                "kelu": "Wae Puteh",
+                                "pos": 91563
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 450,
+                "prov_id": 30,
+                "kab_kota": "Kabupaten Mamuju Utara",
+                "ibukota": "Pasangkayu",
+                "k_bsni": "PKY",
+                "kecamatan": [
+                    {
+                        "id": 6111,
+                        "kabkot_id": 450,
+                        "kec": "Bambaira",
+                        "kelurahan": [
+                            {
+                                "id": 72931,
+                                "kec_id": 6111,
+                                "kelu": "Bambaira",
+                                "pos": 91574
+                            },
+                            {
+                                "id": 72932,
+                                "kec_id": 6111,
+                                "kelu": "Kalukunangka",
+                                "pos": 91574
+                            },
+                            {
+                                "id": 72933,
+                                "kec_id": 6111,
+                                "kelu": "Kasoloang",
+                                "pos": 91574
+                            },
+                            {
+                                "id": 72934,
+                                "kec_id": 6111,
+                                "kelu": "Tampaure",
+                                "pos": 91574
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6112,
+                        "kabkot_id": 450,
+                        "kec": "Bambalamotu",
+                        "kelurahan": [
+                            {
+                                "id": 72935,
+                                "kec_id": 6112,
+                                "kelu": "Bambalamotu",
+                                "pos": 91574
+                            },
+                            {
+                                "id": 72936,
+                                "kec_id": 6112,
+                                "kelu": "Kalola",
+                                "pos": 91574
+                            },
+                            {
+                                "id": 72937,
+                                "kec_id": 6112,
+                                "kelu": "Pangiang",
+                                "pos": 91574
+                            },
+                            {
+                                "id": 72938,
+                                "kec_id": 6112,
+                                "kelu": "Polewali",
+                                "pos": 91574
+                            },
+                            {
+                                "id": 72939,
+                                "kec_id": 6112,
+                                "kelu": "Randomayang",
+                                "pos": 91574
+                            },
+                            {
+                                "id": 72940,
+                                "kec_id": 6112,
+                                "kelu": "Wulai",
+                                "pos": 91574
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6113,
+                        "kabkot_id": 450,
+                        "kec": "Baras",
+                        "kelurahan": [
+                            {
+                                "id": 72941,
+                                "kec_id": 6113,
+                                "kelu": "Balanti",
+                                "pos": 91572
+                            },
+                            {
+                                "id": 72942,
+                                "kec_id": 6113,
+                                "kelu": "Baras",
+                                "pos": 91572
+                            },
+                            {
+                                "id": 72943,
+                                "kec_id": 6113,
+                                "kelu": "Bulu Parigi",
+                                "pos": 91572
+                            },
+                            {
+                                "id": 72944,
+                                "kec_id": 6113,
+                                "kelu": "Kasano",
+                                "pos": 91572
+                            },
+                            {
+                                "id": 72945,
+                                "kec_id": 6113,
+                                "kelu": "Motu",
+                                "pos": 91572
+                            },
+                            {
+                                "id": 72946,
+                                "kec_id": 6113,
+                                "kelu": "Towoni (Toroni)",
+                                "pos": 91572
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6114,
+                        "kabkot_id": 450,
+                        "kec": "Bulu Taba",
+                        "kelurahan": [
+                            {
+                                "id": 72947,
+                                "kec_id": 6114,
+                                "kelu": "Bukit Harapan",
+                                "pos": 91572
+                            },
+                            {
+                                "id": 72948,
+                                "kec_id": 6114,
+                                "kelu": "Karave (Karabe)",
+                                "pos": 91572
+                            },
+                            {
+                                "id": 72949,
+                                "kec_id": 6114,
+                                "kelu": "Kasta Buana",
+                                "pos": 91572
+                            },
+                            {
+                                "id": 72950,
+                                "kec_id": 6114,
+                                "kelu": "Lelejae",
+                                "pos": 91572
+                            },
+                            {
+                                "id": 72951,
+                                "kec_id": 6114,
+                                "kelu": "Lilimori (Lelemori)",
+                                "pos": 91572
+                            },
+                            {
+                                "id": 72952,
+                                "kec_id": 6114,
+                                "kelu": "Ompi",
+                                "pos": 91572
+                            },
+                            {
+                                "id": 72953,
+                                "kec_id": 6114,
+                                "kelu": "Sumbersari",
+                                "pos": 91572
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6115,
+                        "kabkot_id": 450,
+                        "kec": "Dapurang",
+                        "kelurahan": [
+                            {
+                                "id": 72954,
+                                "kec_id": 6115,
+                                "kelu": "Benggaulu",
+                                "pos": 91512
+                            },
+                            {
+                                "id": 72955,
+                                "kec_id": 6115,
+                                "kelu": "Bulu Bonggu",
+                                "pos": 91573
+                            },
+                            {
+                                "id": 72956,
+                                "kec_id": 6115,
+                                "kelu": "Dapurang",
+                                "pos": 91573
+                            },
+                            {
+                                "id": 72957,
+                                "kec_id": 6115,
+                                "kelu": "Serasa",
+                                "pos": 91573
+                            },
+                            {
+                                "id": 72958,
+                                "kec_id": 6115,
+                                "kelu": "Tirta Buana",
+                                "pos": 91573
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6116,
+                        "kabkot_id": 450,
+                        "kec": "Duripoku",
+                        "kelurahan": [
+                            {
+                                "id": 72959,
+                                "kec_id": 6116,
+                                "kelu": "Saptanajaya",
+                                "pos": 91573
+                            },
+                            {
+                                "id": 72960,
+                                "kec_id": 6116,
+                                "kelu": "Sipakainga",
+                                "pos": 91573
+                            },
+                            {
+                                "id": 72961,
+                                "kec_id": 6116,
+                                "kelu": "Tammarunnang",
+                                "pos": 91573
+                            },
+                            {
+                                "id": 72962,
+                                "kec_id": 6116,
+                                "kelu": "Taranggi",
+                                "pos": 91573
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6117,
+                        "kabkot_id": 450,
+                        "kec": "Lariang",
+                        "kelurahan": [
+                            {
+                                "id": 72963,
+                                "kec_id": 6117,
+                                "kelu": "Bajawali",
+                                "pos": 91572
+                            },
+                            {
+                                "id": 72964,
+                                "kec_id": 6117,
+                                "kelu": "Bambakoro",
+                                "pos": 91572
+                            },
+                            {
+                                "id": 72965,
+                                "kec_id": 6117,
+                                "kelu": "Batu Matoru",
+                                "pos": 91572
+                            },
+                            {
+                                "id": 72966,
+                                "kec_id": 6117,
+                                "kelu": "Kenangan",
+                                "pos": 91572
+                            },
+                            {
+                                "id": 72967,
+                                "kec_id": 6117,
+                                "kelu": "Kulu",
+                                "pos": 91572
+                            },
+                            {
+                                "id": 72968,
+                                "kec_id": 6117,
+                                "kelu": "Parabu",
+                                "pos": 91572
+                            },
+                            {
+                                "id": 72969,
+                                "kec_id": 6117,
+                                "kelu": "Singgani",
+                                "pos": 91572
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6118,
+                        "kabkot_id": 450,
+                        "kec": "Pasangkayu",
+                        "kelurahan": [
+                            {
+                                "id": 72970,
+                                "kec_id": 6118,
+                                "kelu": "Ako",
+                                "pos": 91571
+                            },
+                            {
+                                "id": 72971,
+                                "kec_id": 6118,
+                                "kelu": "Karya Bersama",
+                                "pos": 91571
+                            },
+                            {
+                                "id": 72972,
+                                "kec_id": 6118,
+                                "kelu": "Malei",
+                                "pos": 91571
+                            },
+                            {
+                                "id": 72973,
+                                "kec_id": 6118,
+                                "kelu": "Martajaya",
+                                "pos": 91571
+                            },
+                            {
+                                "id": 72974,
+                                "kec_id": 6118,
+                                "kelu": "Pasangkayu",
+                                "pos": 91571
+                            },
+                            {
+                                "id": 72975,
+                                "kec_id": 6118,
+                                "kelu": "Pedanda",
+                                "pos": 91571
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6119,
+                        "kabkot_id": 450,
+                        "kec": "Pedongga",
+                        "kelurahan": [
+                            {
+                                "id": 72976,
+                                "kec_id": 6119,
+                                "kelu": "Batu Oge",
+                                "pos": 91571
+                            },
+                            {
+                                "id": 72977,
+                                "kec_id": 6119,
+                                "kelu": "Malei II",
+                                "pos": 91571
+                            },
+                            {
+                                "id": 72978,
+                                "kec_id": 6119,
+                                "kelu": "Martasari",
+                                "pos": 91571
+                            },
+                            {
+                                "id": 72979,
+                                "kec_id": 6119,
+                                "kelu": "Pedanda II",
+                                "pos": 91571
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6120,
+                        "kabkot_id": 450,
+                        "kec": "Sarjo",
+                        "kelurahan": [
+                            {
+                                "id": 72980,
+                                "kec_id": 6120,
+                                "kelu": "Letawa",
+                                "pos": 91574
+                            },
+                            {
+                                "id": 72981,
+                                "kec_id": 6120,
+                                "kelu": "Maponu",
+                                "pos": 91574
+                            },
+                            {
+                                "id": 72982,
+                                "kec_id": 6120,
+                                "kelu": "Sarjo",
+                                "pos": 91574
+                            },
+                            {
+                                "id": 72983,
+                                "kec_id": 6120,
+                                "kelu": "Sarude",
+                                "pos": 91574
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6121,
+                        "kabkot_id": 450,
+                        "kec": "Sarudu",
+                        "kelurahan": [
+                            {
+                                "id": 72984,
+                                "kec_id": 6121,
+                                "kelu": "Bulu Mario",
+                                "pos": 91573
+                            },
+                            {
+                                "id": 72985,
+                                "kec_id": 6121,
+                                "kelu": "Doda",
+                                "pos": 91573
+                            },
+                            {
+                                "id": 72986,
+                                "kec_id": 6121,
+                                "kelu": "Kumasari",
+                                "pos": 91573
+                            },
+                            {
+                                "id": 72987,
+                                "kec_id": 6121,
+                                "kelu": "Patika",
+                                "pos": 91573
+                            },
+                            {
+                                "id": 72988,
+                                "kec_id": 6121,
+                                "kelu": "Sarudu",
+                                "pos": 91573
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6122,
+                        "kabkot_id": 450,
+                        "kec": "Tikke Raya",
+                        "kelurahan": [
+                            {
+                                "id": 72989,
+                                "kec_id": 6122,
+                                "kelu": "Jengeng Raya",
+                                "pos": 91571
+                            },
+                            {
+                                "id": 72990,
+                                "kec_id": 6122,
+                                "kelu": "Lariang",
+                                "pos": 91571
+                            },
+                            {
+                                "id": 72991,
+                                "kec_id": 6122,
+                                "kelu": "Makmur Jaya",
+                                "pos": 91571
+                            },
+                            {
+                                "id": 72992,
+                                "kec_id": 6122,
+                                "kelu": "Pajalele (Pakawa)",
+                                "pos": 91571
+                            },
+                            {
+                                "id": 72993,
+                                "kec_id": 6122,
+                                "kelu": "Tikke",
+                                "pos": 91571
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 451,
+                "prov_id": 30,
+                "kab_kota": "Kabupaten Polewali Mandar",
+                "ibukota": "Polewali",
+                "k_bsni": "PLW",
+                "kecamatan": [
+                    {
+                        "id": 6123,
+                        "kabkot_id": 451,
+                        "kec": "Alu (Allu)",
+                        "kelurahan": [
+                            {
+                                "id": 72994,
+                                "kec_id": 6123,
+                                "kelu": "Alu (Allu)",
+                                "pos": 96365
+                            },
+                            {
+                                "id": 72995,
+                                "kec_id": 6123,
+                                "kelu": "Kalumammang",
+                                "pos": 96365
+                            },
+                            {
+                                "id": 72996,
+                                "kec_id": 6123,
+                                "kelu": "Mombi",
+                                "pos": 96365
+                            },
+                            {
+                                "id": 72997,
+                                "kec_id": 6123,
+                                "kelu": "Pao Pao",
+                                "pos": 96365
+                            },
+                            {
+                                "id": 72998,
+                                "kec_id": 6123,
+                                "kelu": "Petoosang",
+                                "pos": 96365
+                            },
+                            {
+                                "id": 72999,
+                                "kec_id": 6123,
+                                "kelu": "Pupu Uring (Puppuring)",
+                                "pos": 96365
+                            },
+                            {
+                                "id": 73000,
+                                "kec_id": 6123,
+                                "kelu": "Saragian",
+                                "pos": 96365
+                            },
+                            {
+                                "id": 73001,
+                                "kec_id": 6123,
+                                "kelu": "Sayoang",
+                                "pos": 96365
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6124,
+                        "kabkot_id": 451,
+                        "kec": "Anreapi",
+                        "kelurahan": [
+                            {
+                                "id": 73002,
+                                "kec_id": 6124,
+                                "kelu": "Anreapi",
+                                "pos": 91315
+                            },
+                            {
+                                "id": 73003,
+                                "kec_id": 6124,
+                                "kelu": "Duampanua",
+                                "pos": 91315
+                            },
+                            {
+                                "id": 73004,
+                                "kec_id": 6124,
+                                "kelu": "Kelapa Dua",
+                                "pos": 91315
+                            },
+                            {
+                                "id": 73005,
+                                "kec_id": 6124,
+                                "kelu": "Kunyi",
+                                "pos": 91315
+                            },
+                            {
+                                "id": 73006,
+                                "kec_id": 6124,
+                                "kelu": "Pappandangan",
+                                "pos": 91315
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6125,
+                        "kabkot_id": 451,
+                        "kec": "Balanipa",
+                        "kelurahan": [
+                            {
+                                "id": 73007,
+                                "kec_id": 6125,
+                                "kelu": "Bala",
+                                "pos": 91354
+                            },
+                            {
+                                "id": 73008,
+                                "kec_id": 6125,
+                                "kelu": "Balanipa",
+                                "pos": 91354
+                            },
+                            {
+                                "id": 73009,
+                                "kec_id": 6125,
+                                "kelu": "Galung Tulu",
+                                "pos": 91354
+                            },
+                            {
+                                "id": 73010,
+                                "kec_id": 6125,
+                                "kelu": "Lambanan",
+                                "pos": 91354
+                            },
+                            {
+                                "id": 73011,
+                                "kec_id": 6125,
+                                "kelu": "Lego",
+                                "pos": 91354
+                            },
+                            {
+                                "id": 73012,
+                                "kec_id": 6125,
+                                "kelu": "Mosso",
+                                "pos": 91354
+                            },
+                            {
+                                "id": 73013,
+                                "kec_id": 6125,
+                                "kelu": "Pallis",
+                                "pos": 91354
+                            },
+                            {
+                                "id": 73014,
+                                "kec_id": 6125,
+                                "kelu": "Pambusuang",
+                                "pos": 91354
+                            },
+                            {
+                                "id": 73015,
+                                "kec_id": 6125,
+                                "kelu": "Sabang Subik",
+                                "pos": 91354
+                            },
+                            {
+                                "id": 73016,
+                                "kec_id": 6125,
+                                "kelu": "Tammangalle",
+                                "pos": 91354
+                            },
+                            {
+                                "id": 73017,
+                                "kec_id": 6125,
+                                "kelu": "Tammejarra (Tammajarra)",
+                                "pos": 91354
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6126,
+                        "kabkot_id": 451,
+                        "kec": "Binuang",
+                        "kelurahan": [
+                            {
+                                "id": 73018,
+                                "kec_id": 6126,
+                                "kelu": "Amassangan",
+                                "pos": 91312
+                            },
+                            {
+                                "id": 73019,
+                                "kec_id": 6126,
+                                "kelu": "Amola",
+                                "pos": 91312
+                            },
+                            {
+                                "id": 73020,
+                                "kec_id": 6126,
+                                "kelu": "Batetangnga",
+                                "pos": 91312
+                            },
+                            {
+                                "id": 73021,
+                                "kec_id": 6126,
+                                "kelu": "Kaleok",
+                                "pos": 91312
+                            },
+                            {
+                                "id": 73022,
+                                "kec_id": 6126,
+                                "kelu": "Kuajang",
+                                "pos": 91351
+                            },
+                            {
+                                "id": 73023,
+                                "kec_id": 6126,
+                                "kelu": "Mammi",
+                                "pos": 91311
+                            },
+                            {
+                                "id": 73024,
+                                "kec_id": 6126,
+                                "kelu": "Mirring",
+                                "pos": 91312
+                            },
+                            {
+                                "id": 73025,
+                                "kec_id": 6126,
+                                "kelu": "Paku",
+                                "pos": 91351
+                            },
+                            {
+                                "id": 73026,
+                                "kec_id": 6126,
+                                "kelu": "Rea",
+                                "pos": 91312
+                            },
+                            {
+                                "id": 73027,
+                                "kec_id": 6126,
+                                "kelu": "Tonyaman",
+                                "pos": 91312
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6127,
+                        "kabkot_id": 451,
+                        "kec": "Bulo",
+                        "kelurahan": [
+                            {
+                                "id": 73028,
+                                "kec_id": 6127,
+                                "kelu": "Bulo",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73029,
+                                "kec_id": 6127,
+                                "kelu": "Daala Timur",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73030,
+                                "kec_id": 6127,
+                                "kelu": "Ihing",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73031,
+                                "kec_id": 6127,
+                                "kelu": "Karombang",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73032,
+                                "kec_id": 6127,
+                                "kelu": "Lenggo",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73033,
+                                "kec_id": 6127,
+                                "kelu": "Pulliwa",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73034,
+                                "kec_id": 6127,
+                                "kelu": "Sabura",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73035,
+                                "kec_id": 6127,
+                                "kelu": "Sepporraki",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73036,
+                                "kec_id": 6127,
+                                "kelu": "Tapambanua (Patambanua)",
+                                "pos": 91353
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6128,
+                        "kabkot_id": 451,
+                        "kec": "Campalagian",
+                        "kelurahan": [
+                            {
+                                "id": 73037,
+                                "kec_id": 6128,
+                                "kelu": "Bonde",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73038,
+                                "kec_id": 6128,
+                                "kelu": "Botto",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73039,
+                                "kec_id": 6128,
+                                "kelu": "Gattungan",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73040,
+                                "kec_id": 6128,
+                                "kelu": "Katumbangan",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73041,
+                                "kec_id": 6128,
+                                "kelu": "Katumbangan Lemo",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73042,
+                                "kec_id": 6128,
+                                "kelu": "Kenje",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73043,
+                                "kec_id": 6128,
+                                "kelu": "Lagi-Agi",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73044,
+                                "kec_id": 6128,
+                                "kelu": "Laliko",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73045,
+                                "kec_id": 6128,
+                                "kelu": "Lampoko",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73046,
+                                "kec_id": 6128,
+                                "kelu": "Lapeo",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73047,
+                                "kec_id": 6128,
+                                "kelu": "Ongko",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73048,
+                                "kec_id": 6128,
+                                "kelu": "Padang",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73049,
+                                "kec_id": 6128,
+                                "kelu": "Padang Timur",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73050,
+                                "kec_id": 6128,
+                                "kelu": "Panyampa",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73051,
+                                "kec_id": 6128,
+                                "kelu": "Pappang",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73052,
+                                "kec_id": 6128,
+                                "kelu": "Parappe",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73053,
+                                "kec_id": 6128,
+                                "kelu": "Sumarang (Sumarrang)",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73054,
+                                "kec_id": 6128,
+                                "kelu": "Suruang",
+                                "pos": 91353
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6129,
+                        "kabkot_id": 451,
+                        "kec": "Limboro",
+                        "kelurahan": [
+                            {
+                                "id": 73055,
+                                "kec_id": 6129,
+                                "kelu": "Lembang Lembang",
+                                "pos": 91413
+                            },
+                            {
+                                "id": 73056,
+                                "kec_id": 6129,
+                                "kelu": "Limboro",
+                                "pos": 91413
+                            },
+                            {
+                                "id": 73057,
+                                "kec_id": 6129,
+                                "kelu": "Napo",
+                                "pos": 91413
+                            },
+                            {
+                                "id": 73058,
+                                "kec_id": 6129,
+                                "kelu": "Palece",
+                                "pos": 91413
+                            },
+                            {
+                                "id": 73059,
+                                "kec_id": 6129,
+                                "kelu": "Pendulangan (Pandulangan)",
+                                "pos": 91413
+                            },
+                            {
+                                "id": 73060,
+                                "kec_id": 6129,
+                                "kelu": "Renggeang",
+                                "pos": 91413
+                            },
+                            {
+                                "id": 73061,
+                                "kec_id": 6129,
+                                "kelu": "Salarri",
+                                "pos": 91413
+                            },
+                            {
+                                "id": 73062,
+                                "kec_id": 6129,
+                                "kelu": "Samasundu",
+                                "pos": 91413
+                            },
+                            {
+                                "id": 73063,
+                                "kec_id": 6129,
+                                "kelu": "Tandasura (Tandassura)",
+                                "pos": 91413
+                            },
+                            {
+                                "id": 73064,
+                                "kec_id": 6129,
+                                "kelu": "Tangan Baru",
+                                "pos": 91413
+                            },
+                            {
+                                "id": 73065,
+                                "kec_id": 6129,
+                                "kelu": "Todang Todang",
+                                "pos": 91413
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6130,
+                        "kabkot_id": 451,
+                        "kec": "Luyo",
+                        "kelurahan": [
+                            {
+                                "id": 73066,
+                                "kec_id": 6130,
+                                "kelu": "Baru",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73067,
+                                "kec_id": 6130,
+                                "kelu": "Batu Panga",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73068,
+                                "kec_id": 6130,
+                                "kelu": "Batupanga Daala",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73069,
+                                "kec_id": 6130,
+                                "kelu": "Luyo (Lujo)",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73070,
+                                "kec_id": 6130,
+                                "kelu": "Mambu",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73071,
+                                "kec_id": 6130,
+                                "kelu": "Mapilli Barat",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73072,
+                                "kec_id": 6130,
+                                "kelu": "Puccadi",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73073,
+                                "kec_id": 6130,
+                                "kelu": "Pussui",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73074,
+                                "kec_id": 6130,
+                                "kelu": "Pussui Barat",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73075,
+                                "kec_id": 6130,
+                                "kelu": "Sambali Wali",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73076,
+                                "kec_id": 6130,
+                                "kelu": "Tenggelang (Tenggelan)",
+                                "pos": 91353
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6131,
+                        "kabkot_id": 451,
+                        "kec": "Mapilli",
+                        "kelurahan": [
+                            {
+                                "id": 73077,
+                                "kec_id": 6131,
+                                "kelu": "Beroangin",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73078,
+                                "kec_id": 6131,
+                                "kelu": "Bonne-Bonne",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73079,
+                                "kec_id": 6131,
+                                "kelu": "Bonra",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73080,
+                                "kec_id": 6131,
+                                "kelu": "Buku",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73081,
+                                "kec_id": 6131,
+                                "kelu": "Kurma",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73082,
+                                "kec_id": 6131,
+                                "kelu": "Landi Kanusuang",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73083,
+                                "kec_id": 6131,
+                                "kelu": "Mapilli",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73084,
+                                "kec_id": 6131,
+                                "kelu": "Rappang Barat",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73085,
+                                "kec_id": 6131,
+                                "kelu": "Rumpa",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73086,
+                                "kec_id": 6131,
+                                "kelu": "Sattoko",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73087,
+                                "kec_id": 6131,
+                                "kelu": "Segerang",
+                                "pos": 91353
+                            },
+                            {
+                                "id": 73088,
+                                "kec_id": 6131,
+                                "kelu": "Ugi Baru",
+                                "pos": 91353
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6132,
+                        "kabkot_id": 451,
+                        "kec": "Matakali",
+                        "kelurahan": [
+                            {
+                                "id": 73089,
+                                "kec_id": 6132,
+                                "kelu": "Barumbung",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73090,
+                                "kec_id": 6132,
+                                "kelu": "Bunga-Bunga",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73091,
+                                "kec_id": 6132,
+                                "kelu": "Indo Makkombong (Indomakkondang)",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73092,
+                                "kec_id": 6132,
+                                "kelu": "Matakali",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73093,
+                                "kec_id": 6132,
+                                "kelu": "Pasiang",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73094,
+                                "kec_id": 6132,
+                                "kelu": "Patampanua",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73095,
+                                "kec_id": 6132,
+                                "kelu": "Tonro Lima",
+                                "pos": 91352
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6133,
+                        "kabkot_id": 451,
+                        "kec": "Matangnga",
+                        "kelurahan": [
+                            {
+                                "id": 73096,
+                                "kec_id": 6133,
+                                "kelu": "Ba'ba Tapua",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73097,
+                                "kec_id": 6133,
+                                "kelu": "Katimbang",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73098,
+                                "kec_id": 6133,
+                                "kelu": "Lilli",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73099,
+                                "kec_id": 6133,
+                                "kelu": "Mambu Tapua",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73100,
+                                "kec_id": 6133,
+                                "kelu": "Matangnga",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73101,
+                                "kec_id": 6133,
+                                "kelu": "Rangoan",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73102,
+                                "kec_id": 6133,
+                                "kelu": "Tapua",
+                                "pos": 91352
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6134,
+                        "kabkot_id": 451,
+                        "kec": "Polewali",
+                        "kelurahan": [
+                            {
+                                "id": 73103,
+                                "kec_id": 6134,
+                                "kelu": "Darma",
+                                "pos": 91314
+                            },
+                            {
+                                "id": 73104,
+                                "kec_id": 6134,
+                                "kelu": "Lantora",
+                                "pos": 91313
+                            },
+                            {
+                                "id": 73105,
+                                "kec_id": 6134,
+                                "kelu": "Madatte",
+                                "pos": 91315
+                            },
+                            {
+                                "id": 73106,
+                                "kec_id": 6134,
+                                "kelu": "Manding",
+                                "pos": 91311
+                            },
+                            {
+                                "id": 73107,
+                                "kec_id": 6134,
+                                "kelu": "Pekkabata",
+                                "pos": 91311
+                            },
+                            {
+                                "id": 73108,
+                                "kec_id": 6134,
+                                "kelu": "Polewali",
+                                "pos": 91311
+                            },
+                            {
+                                "id": 73109,
+                                "kec_id": 6134,
+                                "kelu": "Sulewatang",
+                                "pos": 91315
+                            },
+                            {
+                                "id": 73110,
+                                "kec_id": 6134,
+                                "kelu": "Takatidung",
+                                "pos": 91311
+                            },
+                            {
+                                "id": 73111,
+                                "kec_id": 6134,
+                                "kelu": "Wattang",
+                                "pos": 91315
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6135,
+                        "kabkot_id": 451,
+                        "kec": "Tapango",
+                        "kelurahan": [
+                            {
+                                "id": 73112,
+                                "kec_id": 6135,
+                                "kelu": "Banato Rejo",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73113,
+                                "kec_id": 6135,
+                                "kelu": "Batu",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73114,
+                                "kec_id": 6135,
+                                "kelu": "Bussu",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73115,
+                                "kec_id": 6135,
+                                "kelu": "Dakka",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73116,
+                                "kec_id": 6135,
+                                "kelu": "Jambu Malea",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73117,
+                                "kec_id": 6135,
+                                "kelu": "Kalimbua",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73118,
+                                "kec_id": 6135,
+                                "kelu": "Kurrak",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73119,
+                                "kec_id": 6135,
+                                "kelu": "Palatta",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73120,
+                                "kec_id": 6135,
+                                "kelu": "Pelitakan",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73121,
+                                "kec_id": 6135,
+                                "kelu": "Rappang",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73122,
+                                "kec_id": 6135,
+                                "kelu": "Riso",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73123,
+                                "kec_id": 6135,
+                                "kelu": "Tapango",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73124,
+                                "kec_id": 6135,
+                                "kelu": "Tapango Barat",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73125,
+                                "kec_id": 6135,
+                                "kelu": "Tuttula",
+                                "pos": 91352
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6136,
+                        "kabkot_id": 451,
+                        "kec": "Tinambung",
+                        "kelurahan": [
+                            {
+                                "id": 73126,
+                                "kec_id": 6136,
+                                "kelu": "Batulaya",
+                                "pos": 91354
+                            },
+                            {
+                                "id": 73127,
+                                "kec_id": 6136,
+                                "kelu": "Galung Lombok",
+                                "pos": 91354
+                            },
+                            {
+                                "id": 73128,
+                                "kec_id": 6136,
+                                "kelu": "Karama",
+                                "pos": 91354
+                            },
+                            {
+                                "id": 73129,
+                                "kec_id": 6136,
+                                "kelu": "Lekopadis",
+                                "pos": 91354
+                            },
+                            {
+                                "id": 73130,
+                                "kec_id": 6136,
+                                "kelu": "Sepa Batu",
+                                "pos": 91354
+                            },
+                            {
+                                "id": 73131,
+                                "kec_id": 6136,
+                                "kelu": "Tandung",
+                                "pos": 91354
+                            },
+                            {
+                                "id": 73132,
+                                "kec_id": 6136,
+                                "kelu": "Tangnga-Tangnga",
+                                "pos": 91412
+                            },
+                            {
+                                "id": 73133,
+                                "kec_id": 6136,
+                                "kelu": "Tinambung",
+                                "pos": 91354
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6137,
+                        "kabkot_id": 451,
+                        "kec": "Tubbi Taramanu (Tutar/Tutallu)",
+                        "kelurahan": [
+                            {
+                                "id": 73134,
+                                "kec_id": 6137,
+                                "kelu": "Ambo Padang",
+                                "pos": 91355
+                            },
+                            {
+                                "id": 73135,
+                                "kec_id": 6137,
+                                "kelu": "Arabua",
+                                "pos": 91355
+                            },
+                            {
+                                "id": 73136,
+                                "kec_id": 6137,
+                                "kelu": "Besoangin",
+                                "pos": 91355
+                            },
+                            {
+                                "id": 73137,
+                                "kec_id": 6137,
+                                "kelu": "Besoangin Utara",
+                                "pos": 91355
+                            },
+                            {
+                                "id": 73138,
+                                "kec_id": 6137,
+                                "kelu": "Peburru",
+                                "pos": 91355
+                            },
+                            {
+                                "id": 73139,
+                                "kec_id": 6137,
+                                "kelu": "Piriang Tapiko",
+                                "pos": 91355
+                            },
+                            {
+                                "id": 73140,
+                                "kec_id": 6137,
+                                "kelu": "Poda",
+                                "pos": 91355
+                            },
+                            {
+                                "id": 73141,
+                                "kec_id": 6137,
+                                "kelu": "Pollewani",
+                                "pos": 91355
+                            },
+                            {
+                                "id": 73142,
+                                "kec_id": 6137,
+                                "kelu": "Ratte",
+                                "pos": 91355
+                            },
+                            {
+                                "id": 73143,
+                                "kec_id": 6137,
+                                "kelu": "Taloba",
+                                "pos": 91355
+                            },
+                            {
+                                "id": 73144,
+                                "kec_id": 6137,
+                                "kelu": "Taramanu",
+                                "pos": 91355
+                            },
+                            {
+                                "id": 73145,
+                                "kec_id": 6137,
+                                "kelu": "Taramanu Tua",
+                                "pos": 91355
+                            },
+                            {
+                                "id": 73146,
+                                "kec_id": 6137,
+                                "kelu": "Tubbi",
+                                "pos": 91355
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6138,
+                        "kabkot_id": 451,
+                        "kec": "Wonomulyo",
+                        "kelurahan": [
+                            {
+                                "id": 73147,
+                                "kec_id": 6138,
+                                "kelu": "Arjosari",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73148,
+                                "kec_id": 6138,
+                                "kelu": "Bakka-Bakka",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73149,
+                                "kec_id": 6138,
+                                "kelu": "Banua Baru",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73150,
+                                "kec_id": 6138,
+                                "kelu": "Bumi Mulyo",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73151,
+                                "kec_id": 6138,
+                                "kelu": "Bumiayu",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73152,
+                                "kec_id": 6138,
+                                "kelu": "Campurjo",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73153,
+                                "kec_id": 6138,
+                                "kelu": "Geleso",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73154,
+                                "kec_id": 6138,
+                                "kelu": "Kebunsari",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73155,
+                                "kec_id": 6138,
+                                "kelu": "Nepo",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73156,
+                                "kec_id": 6138,
+                                "kelu": "Sidodadi",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73157,
+                                "kec_id": 6138,
+                                "kelu": "Sidorejo",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73158,
+                                "kec_id": 6138,
+                                "kelu": "Sugih Waras",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73159,
+                                "kec_id": 6138,
+                                "kelu": "Sumberjo",
+                                "pos": 91352
+                            },
+                            {
+                                "id": 73160,
+                                "kec_id": 6138,
+                                "kelu": "Tumpiling",
+                                "pos": 91352
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

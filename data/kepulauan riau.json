@@ -1,0 +1,3030 @@
+[
+    {
+        "id": 10,
+        "provinsi": "Kepulauan Riau",
+        "p_bsni": "ID-KR",
+        "kabupaten": [
+            {
+                "id": 148,
+                "prov_id": 10,
+                "kab_kota": "Kabupaten Bintan",
+                "ibukota": "Bandar Seri Bentan",
+                "k_bsni": "BSB",
+                "kecamatan": [
+                    {
+                        "id": 1835,
+                        "kabkot_id": 148,
+                        "kec": "Bintan Pesisir",
+                        "kelurahan": [
+                            {
+                                "id": 24818,
+                                "kec_id": 1835,
+                                "kelu": "Air Glubi/Gelubi",
+                                "pos": 29151
+                            },
+                            {
+                                "id": 24819,
+                                "kec_id": 1835,
+                                "kelu": "Kelong",
+                                "pos": 29151
+                            },
+                            {
+                                "id": 24820,
+                                "kec_id": 1835,
+                                "kelu": "Mapur",
+                                "pos": 29151
+                            },
+                            {
+                                "id": 24821,
+                                "kec_id": 1835,
+                                "kelu": "Numbing",
+                                "pos": 29151
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1836,
+                        "kabkot_id": 148,
+                        "kec": "Bintan Timur",
+                        "kelurahan": [
+                            {
+                                "id": 24822,
+                                "kec_id": 1836,
+                                "kelu": "Gunung Lengkuas",
+                                "pos": 29151
+                            },
+                            {
+                                "id": 24823,
+                                "kec_id": 1836,
+                                "kelu": "Kijang Kota",
+                                "pos": 29151
+                            },
+                            {
+                                "id": 24824,
+                                "kec_id": 1836,
+                                "kelu": "Sungai Enam",
+                                "pos": 29151
+                            },
+                            {
+                                "id": 24825,
+                                "kec_id": 1836,
+                                "kelu": "Sungai Lekop",
+                                "pos": 29151
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1837,
+                        "kabkot_id": 148,
+                        "kec": "Bintan Utara",
+                        "kelurahan": [
+                            {
+                                "id": 24826,
+                                "kec_id": 1837,
+                                "kelu": "Lancang Kuning",
+                                "pos": 29152
+                            },
+                            {
+                                "id": 24827,
+                                "kec_id": 1837,
+                                "kelu": "Tanjung Uban Kota",
+                                "pos": 29152
+                            },
+                            {
+                                "id": 24828,
+                                "kec_id": 1837,
+                                "kelu": "Tanjung Uban Selatan",
+                                "pos": 29152
+                            },
+                            {
+                                "id": 24829,
+                                "kec_id": 1837,
+                                "kelu": "Tanjung Uban Timur",
+                                "pos": 29152
+                            },
+                            {
+                                "id": 24830,
+                                "kec_id": 1837,
+                                "kelu": "Tanjung Uban Utara",
+                                "pos": 29152
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1838,
+                        "kabkot_id": 148,
+                        "kec": "Gunung Kijang",
+                        "kelurahan": [
+                            {
+                                "id": 24831,
+                                "kec_id": 1838,
+                                "kelu": "Gunung Kijang",
+                                "pos": 29151
+                            },
+                            {
+                                "id": 24832,
+                                "kec_id": 1838,
+                                "kelu": "Kawal",
+                                "pos": 29151
+                            },
+                            {
+                                "id": 24833,
+                                "kec_id": 1838,
+                                "kelu": "Malang Rapat",
+                                "pos": 29151
+                            },
+                            {
+                                "id": 24834,
+                                "kec_id": 1838,
+                                "kelu": "Teluk Bakau",
+                                "pos": 29151
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1839,
+                        "kabkot_id": 148,
+                        "kec": "Mantang",
+                        "kelurahan": [
+                            {
+                                "id": 24835,
+                                "kec_id": 1839,
+                                "kelu": "Dendun",
+                                "pos": 29151
+                            },
+                            {
+                                "id": 24836,
+                                "kec_id": 1839,
+                                "kelu": "Mantang Baru",
+                                "pos": 29151
+                            },
+                            {
+                                "id": 24837,
+                                "kec_id": 1839,
+                                "kelu": "Mantang Besar",
+                                "pos": 29151
+                            },
+                            {
+                                "id": 24838,
+                                "kec_id": 1839,
+                                "kelu": "Mantang Lama",
+                                "pos": 29151
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1840,
+                        "kabkot_id": 148,
+                        "kec": "Seri/Sri Kuala Lobam",
+                        "kelurahan": [
+                            {
+                                "id": 24839,
+                                "kec_id": 1840,
+                                "kelu": "Busung",
+                                "pos": 29152
+                            },
+                            {
+                                "id": 24840,
+                                "kec_id": 1840,
+                                "kelu": "Kuala Sempang",
+                                "pos": 29152
+                            },
+                            {
+                                "id": 24841,
+                                "kec_id": 1840,
+                                "kelu": "Tanjung Permai",
+                                "pos": 29152
+                            },
+                            {
+                                "id": 24842,
+                                "kec_id": 1840,
+                                "kelu": "Teluk Lobam",
+                                "pos": 29152
+                            },
+                            {
+                                "id": 24843,
+                                "kec_id": 1840,
+                                "kelu": "Teluk Sasah",
+                                "pos": 29152
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1841,
+                        "kabkot_id": 148,
+                        "kec": "Tambelan",
+                        "kelurahan": [
+                            {
+                                "id": 24844,
+                                "kec_id": 1841,
+                                "kelu": "Batu Lepuk",
+                                "pos": 29193
+                            },
+                            {
+                                "id": 24845,
+                                "kec_id": 1841,
+                                "kelu": "Kampung Hilir",
+                                "pos": 29193
+                            },
+                            {
+                                "id": 24846,
+                                "kec_id": 1841,
+                                "kelu": "Kampung Melayu",
+                                "pos": 29193
+                            },
+                            {
+                                "id": 24847,
+                                "kec_id": 1841,
+                                "kelu": "Kukup",
+                                "pos": 29193
+                            },
+                            {
+                                "id": 24848,
+                                "kec_id": 1841,
+                                "kelu": "Pengikik",
+                                "pos": 29193
+                            },
+                            {
+                                "id": 24849,
+                                "kec_id": 1841,
+                                "kelu": "Pulau Mentebung",
+                                "pos": 29193
+                            },
+                            {
+                                "id": 24850,
+                                "kec_id": 1841,
+                                "kelu": "Pulau Pinang",
+                                "pos": 29193
+                            },
+                            {
+                                "id": 24851,
+                                "kec_id": 1841,
+                                "kelu": "Teluk Sekuni",
+                                "pos": 29193
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1842,
+                        "kabkot_id": 148,
+                        "kec": "Teluk Bintan",
+                        "kelurahan": [
+                            {
+                                "id": 24852,
+                                "kec_id": 1842,
+                                "kelu": "Bintan Buyu",
+                                "pos": 29133
+                            },
+                            {
+                                "id": 24853,
+                                "kec_id": 1842,
+                                "kelu": "Pangkil",
+                                "pos": 29136
+                            },
+                            {
+                                "id": 24854,
+                                "kec_id": 1842,
+                                "kelu": "Penaga",
+                                "pos": 29134
+                            },
+                            {
+                                "id": 24855,
+                                "kec_id": 1842,
+                                "kelu": "Pengujan",
+                                "pos": 29135
+                            },
+                            {
+                                "id": 24856,
+                                "kec_id": 1842,
+                                "kelu": "Tembeling",
+                                "pos": 29132
+                            },
+                            {
+                                "id": 24857,
+                                "kec_id": 1842,
+                                "kelu": "Tembeling Tanjung",
+                                "pos": 29132
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1843,
+                        "kabkot_id": 148,
+                        "kec": "Teluk Sebong",
+                        "kelurahan": [
+                            {
+                                "id": 24858,
+                                "kec_id": 1843,
+                                "kelu": "Berakit",
+                                "pos": 29152
+                            },
+                            {
+                                "id": 24859,
+                                "kec_id": 1843,
+                                "kelu": "Ekang Anculai",
+                                "pos": 29152
+                            },
+                            {
+                                "id": 24860,
+                                "kec_id": 1843,
+                                "kelu": "Kota Baru",
+                                "pos": 29152
+                            },
+                            {
+                                "id": 24861,
+                                "kec_id": 1843,
+                                "kelu": "Pengudang",
+                                "pos": 29152
+                            },
+                            {
+                                "id": 24862,
+                                "kec_id": 1843,
+                                "kelu": "Sebung/Sebong Lagoi",
+                                "pos": 29152
+                            },
+                            {
+                                "id": 24863,
+                                "kec_id": 1843,
+                                "kelu": "Sebung/Sebong Pereh",
+                                "pos": 29152
+                            },
+                            {
+                                "id": 24864,
+                                "kec_id": 1843,
+                                "kelu": "Sri Bintan",
+                                "pos": 29152
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1844,
+                        "kabkot_id": 148,
+                        "kec": "Toapaya",
+                        "kelurahan": [
+                            {
+                                "id": 24865,
+                                "kec_id": 1844,
+                                "kelu": "Toapaya",
+                                "pos": 29151
+                            },
+                            {
+                                "id": 24866,
+                                "kec_id": 1844,
+                                "kelu": "Toapaya Asri",
+                                "pos": 29151
+                            },
+                            {
+                                "id": 24867,
+                                "kec_id": 1844,
+                                "kelu": "Toapaya Selatan",
+                                "pos": 29151
+                            },
+                            {
+                                "id": 24868,
+                                "kec_id": 1844,
+                                "kelu": "Toapaya Utara",
+                                "pos": 29151
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 149,
+                "prov_id": 10,
+                "kab_kota": "Kabupaten Karimun",
+                "ibukota": "Tanjung Balai Karimun",
+                "k_bsni": "TBK",
+                "kecamatan": [
+                    {
+                        "id": 1845,
+                        "kabkot_id": 149,
+                        "kec": "Belat",
+                        "kelurahan": [
+                            {
+                                "id": 24869,
+                                "kec_id": 1845,
+                                "kelu": "Degong",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24870,
+                                "kec_id": 1845,
+                                "kelu": "Lebuh",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24871,
+                                "kec_id": 1845,
+                                "kelu": "Penarah",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24872,
+                                "kec_id": 1845,
+                                "kelu": "Sebele",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24873,
+                                "kec_id": 1845,
+                                "kelu": "Sei/Sungai Asam",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24874,
+                                "kec_id": 1845,
+                                "kelu": "Tebias",
+                                "pos": 29662
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1846,
+                        "kabkot_id": 149,
+                        "kec": "Buru",
+                        "kelurahan": [
+                            {
+                                "id": 24875,
+                                "kec_id": 1846,
+                                "kelu": "Buru",
+                                "pos": 29664
+                            },
+                            {
+                                "id": 24876,
+                                "kec_id": 1846,
+                                "kelu": "Lubuk Puding",
+                                "pos": 29664
+                            },
+                            {
+                                "id": 24877,
+                                "kec_id": 1846,
+                                "kelu": "Tanjung Batu Kecil",
+                                "pos": 29664
+                            },
+                            {
+                                "id": 24878,
+                                "kec_id": 1846,
+                                "kelu": "Tanjung Hutan",
+                                "pos": 29664
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1847,
+                        "kabkot_id": 149,
+                        "kec": "Durai",
+                        "kelurahan": [
+                            {
+                                "id": 24879,
+                                "kec_id": 1847,
+                                "kelu": "Durai",
+                                "pos": 29664
+                            },
+                            {
+                                "id": 24880,
+                                "kec_id": 1847,
+                                "kelu": "Sanglar",
+                                "pos": 29664
+                            },
+                            {
+                                "id": 24881,
+                                "kec_id": 1847,
+                                "kelu": "Simembang (Semembang)",
+                                "pos": 29664
+                            },
+                            {
+                                "id": 24882,
+                                "kec_id": 1847,
+                                "kelu": "Tanjung Kilang",
+                                "pos": 29664
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1848,
+                        "kabkot_id": 149,
+                        "kec": "Karimun",
+                        "kelurahan": [
+                            {
+                                "id": 24883,
+                                "kec_id": 1848,
+                                "kelu": "Lubuk Semut",
+                                "pos": 29661
+                            },
+                            {
+                                "id": 24884,
+                                "kec_id": 1848,
+                                "kelu": "Parit",
+                                "pos": 29661
+                            },
+                            {
+                                "id": 24885,
+                                "kec_id": 1848,
+                                "kelu": "Selat Mendaun",
+                                "pos": 29661
+                            },
+                            {
+                                "id": 24886,
+                                "kec_id": 1848,
+                                "kelu": "Sungai Lakam Barat",
+                                "pos": 29661
+                            },
+                            {
+                                "id": 24887,
+                                "kec_id": 1848,
+                                "kelu": "Sungai Lakam Timur",
+                                "pos": 29661
+                            },
+                            {
+                                "id": 24888,
+                                "kec_id": 1848,
+                                "kelu": "Tanjung Balai",
+                                "pos": 29661
+                            },
+                            {
+                                "id": 24889,
+                                "kec_id": 1848,
+                                "kelu": "Tanjung Balai Kota",
+                                "pos": 29661
+                            },
+                            {
+                                "id": 24890,
+                                "kec_id": 1848,
+                                "kelu": "Teluk Air",
+                                "pos": 29661
+                            },
+                            {
+                                "id": 24891,
+                                "kec_id": 1848,
+                                "kelu": "Tulang",
+                                "pos": 29661
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1849,
+                        "kabkot_id": 149,
+                        "kec": "Kundur",
+                        "kelurahan": [
+                            {
+                                "id": 24892,
+                                "kec_id": 1849,
+                                "kelu": "Gading Sari",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24893,
+                                "kec_id": 1849,
+                                "kelu": "Lubuk",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24894,
+                                "kec_id": 1849,
+                                "kelu": "Sebesi (Sei Sebesi)",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24895,
+                                "kec_id": 1849,
+                                "kelu": "Sei/Sungai Ungar",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24896,
+                                "kec_id": 1849,
+                                "kelu": "Tanjung Batu Barat",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24897,
+                                "kec_id": 1849,
+                                "kelu": "Tanjung Batu Kota",
+                                "pos": 29662
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1850,
+                        "kabkot_id": 149,
+                        "kec": "Kundur Barat",
+                        "kelurahan": [
+                            {
+                                "id": 24898,
+                                "kec_id": 1850,
+                                "kelu": "Gemuruh",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24899,
+                                "kec_id": 1850,
+                                "kelu": "Kundur",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24900,
+                                "kec_id": 1850,
+                                "kelu": "Sawang",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24901,
+                                "kec_id": 1850,
+                                "kelu": "Sawang Laut",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24902,
+                                "kec_id": 1850,
+                                "kelu": "Sawang Selatan",
+                                "pos": 29662
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1851,
+                        "kabkot_id": 149,
+                        "kec": "Kundur Utara",
+                        "kelurahan": [
+                            {
+                                "id": 24903,
+                                "kec_id": 1851,
+                                "kelu": "Perayun",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24904,
+                                "kec_id": 1851,
+                                "kelu": "Sei/Sungai Ungar Utara",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24905,
+                                "kec_id": 1851,
+                                "kelu": "Tanjung Berlian Barat (Urung Barat)",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24906,
+                                "kec_id": 1851,
+                                "kelu": "Tanjung Berlian Kota (Urung)",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24907,
+                                "kec_id": 1851,
+                                "kelu": "Teluk Radang",
+                                "pos": 29662
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1852,
+                        "kabkot_id": 149,
+                        "kec": "Meral",
+                        "kelurahan": [
+                            {
+                                "id": 24908,
+                                "kec_id": 1852,
+                                "kelu": "Baran Barat",
+                                "pos": 29664
+                            },
+                            {
+                                "id": 24909,
+                                "kec_id": 1852,
+                                "kelu": "Baran Timur",
+                                "pos": 29664
+                            },
+                            {
+                                "id": 24910,
+                                "kec_id": 1852,
+                                "kelu": "Meral Kota",
+                                "pos": 29664
+                            },
+                            {
+                                "id": 24911,
+                                "kec_id": 1852,
+                                "kelu": "Pasir Benut",
+                                "pos": 29664
+                            },
+                            {
+                                "id": 24912,
+                                "kec_id": 1852,
+                                "kelu": "Sei/Sungai Raya",
+                                "pos": 29664
+                            },
+                            {
+                                "id": 24913,
+                                "kec_id": 1852,
+                                "kelu": "Sungai Pasir",
+                                "pos": 29664
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1853,
+                        "kabkot_id": 149,
+                        "kec": "Meral Barat",
+                        "kelurahan": [
+                            {
+                                "id": 24914,
+                                "kec_id": 1853,
+                                "kelu": "Darussalam",
+                                "pos": 29664
+                            },
+                            {
+                                "id": 24915,
+                                "kec_id": 1853,
+                                "kelu": "Pangke",
+                                "pos": 29664
+                            },
+                            {
+                                "id": 24916,
+                                "kec_id": 1853,
+                                "kelu": "Pangke Barat",
+                                "pos": 29664
+                            },
+                            {
+                                "id": 24917,
+                                "kec_id": 1853,
+                                "kelu": "Pasir Panjang",
+                                "pos": 29664
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1854,
+                        "kabkot_id": 149,
+                        "kec": "Moro",
+                        "kelurahan": [
+                            {
+                                "id": 24918,
+                                "kec_id": 1854,
+                                "kelu": "Buluh Patah",
+                                "pos": 29663
+                            },
+                            {
+                                "id": 24919,
+                                "kec_id": 1854,
+                                "kelu": "Jang (Pulau Jang)",
+                                "pos": 29663
+                            },
+                            {
+                                "id": 24920,
+                                "kec_id": 1854,
+                                "kelu": "Keban",
+                                "pos": 29663
+                            },
+                            {
+                                "id": 24921,
+                                "kec_id": 1854,
+                                "kelu": "Moro",
+                                "pos": 29663
+                            },
+                            {
+                                "id": 24922,
+                                "kec_id": 1854,
+                                "kelu": "Moro Timur",
+                                "pos": 29663
+                            },
+                            {
+                                "id": 24923,
+                                "kec_id": 1854,
+                                "kelu": "Niur Permai",
+                                "pos": 29663
+                            },
+                            {
+                                "id": 24924,
+                                "kec_id": 1854,
+                                "kelu": "Pauh",
+                                "pos": 29663
+                            },
+                            {
+                                "id": 24925,
+                                "kec_id": 1854,
+                                "kelu": "Pulaumoro",
+                                "pos": 29663
+                            },
+                            {
+                                "id": 24926,
+                                "kec_id": 1854,
+                                "kelu": "Rawajaya",
+                                "pos": 29663
+                            },
+                            {
+                                "id": 24927,
+                                "kec_id": 1854,
+                                "kelu": "Selat Mie",
+                                "pos": 29663
+                            },
+                            {
+                                "id": 24928,
+                                "kec_id": 1854,
+                                "kelu": "Sugie",
+                                "pos": 29663
+                            },
+                            {
+                                "id": 24929,
+                                "kec_id": 1854,
+                                "kelu": "Tanjung Pelanduk",
+                                "pos": 29663
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1855,
+                        "kabkot_id": 149,
+                        "kec": "Tebing",
+                        "kelurahan": [
+                            {
+                                "id": 24930,
+                                "kec_id": 1855,
+                                "kelu": "Harjosari",
+                                "pos": 29663
+                            },
+                            {
+                                "id": 24931,
+                                "kec_id": 1855,
+                                "kelu": "Kapling",
+                                "pos": 29663
+                            },
+                            {
+                                "id": 24932,
+                                "kec_id": 1855,
+                                "kelu": "Pamak",
+                                "pos": 29663
+                            },
+                            {
+                                "id": 24933,
+                                "kec_id": 1855,
+                                "kelu": "Pongkar",
+                                "pos": 29663
+                            },
+                            {
+                                "id": 24934,
+                                "kec_id": 1855,
+                                "kelu": "Tebing",
+                                "pos": 29663
+                            },
+                            {
+                                "id": 24935,
+                                "kec_id": 1855,
+                                "kelu": "Teluk Uma",
+                                "pos": 29663
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1856,
+                        "kabkot_id": 149,
+                        "kec": "Ungar",
+                        "kelurahan": [
+                            {
+                                "id": 24936,
+                                "kec_id": 1856,
+                                "kelu": "Alai",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24937,
+                                "kec_id": 1856,
+                                "kelu": "Batu Limau",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24938,
+                                "kec_id": 1856,
+                                "kelu": "Ngal",
+                                "pos": 29662
+                            },
+                            {
+                                "id": 24939,
+                                "kec_id": 1856,
+                                "kelu": "Sungai Buluh",
+                                "pos": 29662
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 150,
+                "prov_id": 10,
+                "kab_kota": "Kabupaten Kepulauan Anambas",
+                "ibukota": "Tarempa",
+                "k_bsni": "TRP",
+                "kecamatan": [
+                    {
+                        "id": 1857,
+                        "kabkot_id": 150,
+                        "kec": "Jemaja",
+                        "kelurahan": [
+                            {
+                                "id": 24940,
+                                "kec_id": 1857,
+                                "kelu": "Air Biru",
+                                "pos": 29792
+                            },
+                            {
+                                "id": 24941,
+                                "kec_id": 1857,
+                                "kelu": "Batu Berapit",
+                                "pos": 29792
+                            },
+                            {
+                                "id": 24942,
+                                "kec_id": 1857,
+                                "kelu": "Impol",
+                                "pos": 29792
+                            },
+                            {
+                                "id": 24943,
+                                "kec_id": 1857,
+                                "kelu": "Keramut",
+                                "pos": 29792
+                            },
+                            {
+                                "id": 24944,
+                                "kec_id": 1857,
+                                "kelu": "Landak",
+                                "pos": 29792
+                            },
+                            {
+                                "id": 24945,
+                                "kec_id": 1857,
+                                "kelu": "Letung",
+                                "pos": 29792
+                            },
+                            {
+                                "id": 24946,
+                                "kec_id": 1857,
+                                "kelu": "Mampok",
+                                "pos": 29792
+                            },
+                            {
+                                "id": 24947,
+                                "kec_id": 1857,
+                                "kelu": "Rewak",
+                                "pos": 29792
+                            },
+                            {
+                                "id": 24948,
+                                "kec_id": 1857,
+                                "kelu": "Sunggak",
+                                "pos": 29792
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1858,
+                        "kabkot_id": 150,
+                        "kec": "Jemaja Timur",
+                        "kelurahan": [
+                            {
+                                "id": 24949,
+                                "kec_id": 1858,
+                                "kelu": "Bukit Padi",
+                                "pos": 29792
+                            },
+                            {
+                                "id": 24950,
+                                "kec_id": 1858,
+                                "kelu": "Genting Pulur",
+                                "pos": 29792
+                            },
+                            {
+                                "id": 24951,
+                                "kec_id": 1858,
+                                "kelu": "Kuala Maras",
+                                "pos": 29792
+                            },
+                            {
+                                "id": 24952,
+                                "kec_id": 1858,
+                                "kelu": "Ulu Maras",
+                                "pos": 29792
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1859,
+                        "kabkot_id": 150,
+                        "kec": "Palmatak",
+                        "kelurahan": [
+                            {
+                                "id": 24953,
+                                "kec_id": 1859,
+                                "kelu": "Batu Ampar",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24954,
+                                "kec_id": 1859,
+                                "kelu": "Bayat",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24955,
+                                "kec_id": 1859,
+                                "kelu": "Belibak",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24956,
+                                "kec_id": 1859,
+                                "kelu": "Candi",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24957,
+                                "kec_id": 1859,
+                                "kelu": "Ladan",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24958,
+                                "kec_id": 1859,
+                                "kelu": "Langir",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24959,
+                                "kec_id": 1859,
+                                "kelu": "Matak",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24960,
+                                "kec_id": 1859,
+                                "kelu": "Mubur",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24961,
+                                "kec_id": 1859,
+                                "kelu": "Payalaman",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24962,
+                                "kec_id": 1859,
+                                "kelu": "Payamaram",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24963,
+                                "kec_id": 1859,
+                                "kelu": "Piabung",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24964,
+                                "kec_id": 1859,
+                                "kelu": "Piasan",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24965,
+                                "kec_id": 1859,
+                                "kelu": "Putik",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24966,
+                                "kec_id": 1859,
+                                "kelu": "Tebang",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24967,
+                                "kec_id": 1859,
+                                "kelu": "Teluk Bayur",
+                                "pos": 29783
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1860,
+                        "kabkot_id": 150,
+                        "kec": "Siantan",
+                        "kelurahan": [
+                            {
+                                "id": 24968,
+                                "kec_id": 1860,
+                                "kelu": "Munjan",
+                                "pos": 29791
+                            },
+                            {
+                                "id": 24969,
+                                "kec_id": 1860,
+                                "kelu": "Sri Tanjung",
+                                "pos": 29791
+                            },
+                            {
+                                "id": 24970,
+                                "kec_id": 1860,
+                                "kelu": "Tarempa",
+                                "pos": 29791
+                            },
+                            {
+                                "id": 24971,
+                                "kec_id": 1860,
+                                "kelu": "Tarempa Barat",
+                                "pos": 29791
+                            },
+                            {
+                                "id": 24972,
+                                "kec_id": 1860,
+                                "kelu": "Tarempa Barat Daya",
+                                "pos": 29791
+                            },
+                            {
+                                "id": 24973,
+                                "kec_id": 1860,
+                                "kelu": "Tarempa Selatan",
+                                "pos": 29791
+                            },
+                            {
+                                "id": 24974,
+                                "kec_id": 1860,
+                                "kelu": "Tiangau",
+                                "pos": 29791
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1861,
+                        "kabkot_id": 150,
+                        "kec": "Siantan Selatan",
+                        "kelurahan": [
+                            {
+                                "id": 24975,
+                                "kec_id": 1861,
+                                "kelu": "Air Bini",
+                                "pos": 29791
+                            },
+                            {
+                                "id": 24976,
+                                "kec_id": 1861,
+                                "kelu": "Kiabu",
+                                "pos": 29791
+                            },
+                            {
+                                "id": 24977,
+                                "kec_id": 1861,
+                                "kelu": "Linga",
+                                "pos": 29791
+                            },
+                            {
+                                "id": 24978,
+                                "kec_id": 1861,
+                                "kelu": "Mengkait",
+                                "pos": 29791
+                            },
+                            {
+                                "id": 24979,
+                                "kec_id": 1861,
+                                "kelu": "Telaga",
+                                "pos": 29791
+                            },
+                            {
+                                "id": 24980,
+                                "kec_id": 1861,
+                                "kelu": "Telaga Kecil",
+                                "pos": 29791
+                            },
+                            {
+                                "id": 24981,
+                                "kec_id": 1861,
+                                "kelu": "Tiangau",
+                                "pos": 29791
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1862,
+                        "kabkot_id": 150,
+                        "kec": "Siantan Tengah",
+                        "kelurahan": [
+                            {
+                                "id": 24982,
+                                "kec_id": 1862,
+                                "kelu": "Air Asuk",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24983,
+                                "kec_id": 1862,
+                                "kelu": "Air Sena",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24984,
+                                "kec_id": 1862,
+                                "kelu": "Lidi",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24985,
+                                "kec_id": 1862,
+                                "kelu": "Liuk",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24986,
+                                "kec_id": 1862,
+                                "kelu": "Teluk Siantan",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 24987,
+                                "kec_id": 1862,
+                                "kelu": "Teluk Sunting",
+                                "pos": 29783
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1863,
+                        "kabkot_id": 150,
+                        "kec": "Siantan Timur",
+                        "kelurahan": [
+                            {
+                                "id": 24988,
+                                "kec_id": 1863,
+                                "kelu": "Air Putih",
+                                "pos": 29791
+                            },
+                            {
+                                "id": 24989,
+                                "kec_id": 1863,
+                                "kelu": "Batu Belah",
+                                "pos": 29791
+                            },
+                            {
+                                "id": 24990,
+                                "kec_id": 1863,
+                                "kelu": "Munjan",
+                                "pos": 29791
+                            },
+                            {
+                                "id": 24991,
+                                "kec_id": 1863,
+                                "kelu": "Nyamuk",
+                                "pos": 29791
+                            },
+                            {
+                                "id": 24992,
+                                "kec_id": 1863,
+                                "kelu": "Serat",
+                                "pos": 29791
+                            },
+                            {
+                                "id": 24993,
+                                "kec_id": 1863,
+                                "kelu": "Temburun",
+                                "pos": 29791
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 151,
+                "prov_id": 10,
+                "kab_kota": "Kabupaten Lingga",
+                "ibukota": "Daik Lingga",
+                "k_bsni": "DKL",
+                "kecamatan": [
+                    {
+                        "id": 1864,
+                        "kabkot_id": 151,
+                        "kec": "Lingga",
+                        "kelurahan": [
+                            {
+                                "id": 24994,
+                                "kec_id": 1864,
+                                "kelu": "Daik",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 24995,
+                                "kec_id": 1864,
+                                "kelu": "Kelombok",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 24996,
+                                "kec_id": 1864,
+                                "kelu": "Kelumu",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 24997,
+                                "kec_id": 1864,
+                                "kelu": "Mentuda",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 24998,
+                                "kec_id": 1864,
+                                "kelu": "Mepar",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 24999,
+                                "kec_id": 1864,
+                                "kelu": "Merawang",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 25000,
+                                "kec_id": 1864,
+                                "kelu": "Musai",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 25001,
+                                "kec_id": 1864,
+                                "kelu": "Nerekeh",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 25002,
+                                "kec_id": 1864,
+                                "kelu": "Panggak Darat",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 25003,
+                                "kec_id": 1864,
+                                "kelu": "Panggak Laut",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 25004,
+                                "kec_id": 1864,
+                                "kelu": "Pekajang",
+                                "pos": 29872
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1865,
+                        "kabkot_id": 151,
+                        "kec": "Lingga Timur",
+                        "kelurahan": [
+                            {
+                                "id": 25005,
+                                "kec_id": 1865,
+                                "kelu": "Bukit Langkap",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 25006,
+                                "kec_id": 1865,
+                                "kelu": "Kerandin",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 25007,
+                                "kec_id": 1865,
+                                "kelu": "Keton",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 25008,
+                                "kec_id": 1865,
+                                "kelu": "Kudung",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 25009,
+                                "kec_id": 1865,
+                                "kelu": "Pekaka",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 25010,
+                                "kec_id": 1865,
+                                "kelu": "Sei/Sungai Pinang",
+                                "pos": 29872
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1866,
+                        "kabkot_id": 151,
+                        "kec": "Lingga Utara",
+                        "kelurahan": [
+                            {
+                                "id": 25011,
+                                "kec_id": 1866,
+                                "kelu": "Belungkur",
+                                "pos": 29874
+                            },
+                            {
+                                "id": 25012,
+                                "kec_id": 1866,
+                                "kelu": "Bukit Harapan",
+                                "pos": 29874
+                            },
+                            {
+                                "id": 25013,
+                                "kec_id": 1866,
+                                "kelu": "Duara",
+                                "pos": 29874
+                            },
+                            {
+                                "id": 25014,
+                                "kec_id": 1866,
+                                "kelu": "Limbung",
+                                "pos": 29874
+                            },
+                            {
+                                "id": 25015,
+                                "kec_id": 1866,
+                                "kelu": "Linau",
+                                "pos": 29874
+                            },
+                            {
+                                "id": 25016,
+                                "kec_id": 1866,
+                                "kelu": "Pancur",
+                                "pos": 29874
+                            },
+                            {
+                                "id": 25017,
+                                "kec_id": 1866,
+                                "kelu": "Rantau Panjang",
+                                "pos": 29874
+                            },
+                            {
+                                "id": 25018,
+                                "kec_id": 1866,
+                                "kelu": "Resun",
+                                "pos": 29874
+                            },
+                            {
+                                "id": 25019,
+                                "kec_id": 1866,
+                                "kelu": "Resun Pesisir",
+                                "pos": 29874
+                            },
+                            {
+                                "id": 25020,
+                                "kec_id": 1866,
+                                "kelu": "Sekanah",
+                                "pos": 29874
+                            },
+                            {
+                                "id": 25021,
+                                "kec_id": 1866,
+                                "kelu": "Sungai Besar",
+                                "pos": 29874
+                            },
+                            {
+                                "id": 25022,
+                                "kec_id": 1866,
+                                "kelu": "Teluk",
+                                "pos": 29874
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1867,
+                        "kabkot_id": 151,
+                        "kec": "Selayar",
+                        "kelurahan": [
+                            {
+                                "id": 25023,
+                                "kec_id": 1867,
+                                "kelu": "Pantai Harapan",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 25024,
+                                "kec_id": 1867,
+                                "kelu": "Penuba",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 25025,
+                                "kec_id": 1867,
+                                "kelu": "Penuba Timur",
+                                "pos": 29872
+                            },
+                            {
+                                "id": 25026,
+                                "kec_id": 1867,
+                                "kelu": "Selayar",
+                                "pos": 29872
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1868,
+                        "kabkot_id": 151,
+                        "kec": "Senayang",
+                        "kelurahan": [
+                            {
+                                "id": 25027,
+                                "kec_id": 1868,
+                                "kelu": "Baran",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25028,
+                                "kec_id": 1868,
+                                "kelu": "Batu Belubang",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25029,
+                                "kec_id": 1868,
+                                "kelu": "Benan",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25030,
+                                "kec_id": 1868,
+                                "kelu": "Cempa",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25031,
+                                "kec_id": 1868,
+                                "kelu": "Labo",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25032,
+                                "kec_id": 1868,
+                                "kelu": "Mamut",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25033,
+                                "kec_id": 1868,
+                                "kelu": "Mensanak",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25034,
+                                "kec_id": 1868,
+                                "kelu": "Pasir Panjang",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25035,
+                                "kec_id": 1868,
+                                "kelu": "Penaah",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25036,
+                                "kec_id": 1868,
+                                "kelu": "Pulau Batang",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25037,
+                                "kec_id": 1868,
+                                "kelu": "Pulau Bukit",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25038,
+                                "kec_id": 1868,
+                                "kelu": "Pulau Duyung",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25039,
+                                "kec_id": 1868,
+                                "kelu": "Pulau Medang",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25040,
+                                "kec_id": 1868,
+                                "kelu": "Rejai",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25041,
+                                "kec_id": 1868,
+                                "kelu": "Senayang",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25042,
+                                "kec_id": 1868,
+                                "kelu": "Tajur Biru",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25043,
+                                "kec_id": 1868,
+                                "kelu": "Tanjung Kelit",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25044,
+                                "kec_id": 1868,
+                                "kelu": "Tanjung Lipat",
+                                "pos": 29873
+                            },
+                            {
+                                "id": 25045,
+                                "kec_id": 1868,
+                                "kelu": "Temiang",
+                                "pos": 29873
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1869,
+                        "kabkot_id": 151,
+                        "kec": "Singkep",
+                        "kelurahan": [
+                            {
+                                "id": 25046,
+                                "kec_id": 1869,
+                                "kelu": "Batu Berdaun",
+                                "pos": 29871
+                            },
+                            {
+                                "id": 25047,
+                                "kec_id": 1869,
+                                "kelu": "Batu Karang",
+                                "pos": 29871
+                            },
+                            {
+                                "id": 25048,
+                                "kec_id": 1869,
+                                "kelu": "Dabo",
+                                "pos": 29871
+                            },
+                            {
+                                "id": 25049,
+                                "kec_id": 1869,
+                                "kelu": "Dabo Lama",
+                                "pos": 29871
+                            },
+                            {
+                                "id": 25050,
+                                "kec_id": 1869,
+                                "kelu": "Resang",
+                                "pos": 29871
+                            },
+                            {
+                                "id": 25051,
+                                "kec_id": 1869,
+                                "kelu": "Sungailumpur",
+                                "pos": 29871
+                            },
+                            {
+                                "id": 25052,
+                                "kec_id": 1869,
+                                "kelu": "Tanjung Harapan",
+                                "pos": 29871
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1870,
+                        "kabkot_id": 151,
+                        "kec": "Singkep Barat",
+                        "kelurahan": [
+                            {
+                                "id": 25053,
+                                "kec_id": 1870,
+                                "kelu": "Bakong",
+                                "pos": 29875
+                            },
+                            {
+                                "id": 25054,
+                                "kec_id": 1870,
+                                "kelu": "Bukit Belah",
+                                "pos": 29875
+                            },
+                            {
+                                "id": 25055,
+                                "kec_id": 1870,
+                                "kelu": "Busung Panjang",
+                                "pos": 29875
+                            },
+                            {
+                                "id": 25056,
+                                "kec_id": 1870,
+                                "kelu": "Jaqoh",
+                                "pos": 29875
+                            },
+                            {
+                                "id": 25057,
+                                "kec_id": 1870,
+                                "kelu": "Kuala Raya",
+                                "pos": 29875
+                            },
+                            {
+                                "id": 25058,
+                                "kec_id": 1870,
+                                "kelu": "Langkap",
+                                "pos": 29875
+                            },
+                            {
+                                "id": 25059,
+                                "kec_id": 1870,
+                                "kelu": "Marok Tua",
+                                "pos": 29875
+                            },
+                            {
+                                "id": 25060,
+                                "kec_id": 1870,
+                                "kelu": "Posek",
+                                "pos": 29875
+                            },
+                            {
+                                "id": 25061,
+                                "kec_id": 1870,
+                                "kelu": "Raya",
+                                "pos": 29875
+                            },
+                            {
+                                "id": 25062,
+                                "kec_id": 1870,
+                                "kelu": "Suak Buaya",
+                                "pos": 29875
+                            },
+                            {
+                                "id": 25063,
+                                "kec_id": 1870,
+                                "kelu": "Sungai Buluh",
+                                "pos": 29875
+                            },
+                            {
+                                "id": 25064,
+                                "kec_id": 1870,
+                                "kelu": "Sungai Harapan",
+                                "pos": 29875
+                            },
+                            {
+                                "id": 25065,
+                                "kec_id": 1870,
+                                "kelu": "Sungai Raya",
+                                "pos": 29875
+                            },
+                            {
+                                "id": 25066,
+                                "kec_id": 1870,
+                                "kelu": "Tanjung Irat",
+                                "pos": 29875
+                            },
+                            {
+                                "id": 25067,
+                                "kec_id": 1870,
+                                "kelu": "Tinjul",
+                                "pos": 29875
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1871,
+                        "kabkot_id": 151,
+                        "kec": "Singkep Pesisir",
+                        "kelurahan": [
+                            {
+                                "id": 25068,
+                                "kec_id": 1871,
+                                "kelu": "Berindat",
+                                "pos": 29871
+                            },
+                            {
+                                "id": 25069,
+                                "kec_id": 1871,
+                                "kelu": "Kota/Kote",
+                                "pos": 29871
+                            },
+                            {
+                                "id": 25070,
+                                "kec_id": 1871,
+                                "kelu": "Lanjut",
+                                "pos": 29871
+                            },
+                            {
+                                "id": 25071,
+                                "kec_id": 1871,
+                                "kelu": "Pelakak",
+                                "pos": 29871
+                            },
+                            {
+                                "id": 25072,
+                                "kec_id": 1871,
+                                "kelu": "Persing",
+                                "pos": 29871
+                            },
+                            {
+                                "id": 25073,
+                                "kec_id": 1871,
+                                "kelu": "Sedamai",
+                                "pos": 29871
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1872,
+                        "kabkot_id": 151,
+                        "kec": "Singkep Selatan",
+                        "kelurahan": [
+                            {
+                                "id": 25074,
+                                "kec_id": 1872,
+                                "kelu": "Berhala",
+                                "pos": 29871
+                            },
+                            {
+                                "id": 25075,
+                                "kec_id": 1872,
+                                "kelu": "Marok",
+                                "pos": 29871
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 152,
+                "prov_id": 10,
+                "kab_kota": "Kabupaten Natuna",
+                "ibukota": "Ranai",
+                "k_bsni": "RAN",
+                "kecamatan": [
+                    {
+                        "id": 1873,
+                        "kabkot_id": 152,
+                        "kec": "Bunguran Barat",
+                        "kelurahan": [
+                            {
+                                "id": 25076,
+                                "kec_id": 1873,
+                                "kelu": "Batubi Jaya",
+                                "pos": 29782
+                            },
+                            {
+                                "id": 25077,
+                                "kec_id": 1873,
+                                "kelu": "Binjai",
+                                "pos": 29782
+                            },
+                            {
+                                "id": 25078,
+                                "kec_id": 1873,
+                                "kelu": "Gunung Putri",
+                                "pos": 29782
+                            },
+                            {
+                                "id": 25079,
+                                "kec_id": 1873,
+                                "kelu": "Mekar Jaya",
+                                "pos": 29782
+                            },
+                            {
+                                "id": 25080,
+                                "kec_id": 1873,
+                                "kelu": "Pian Tengah",
+                                "pos": 29782
+                            },
+                            {
+                                "id": 25081,
+                                "kec_id": 1873,
+                                "kelu": "Sedanau",
+                                "pos": 29782
+                            },
+                            {
+                                "id": 25082,
+                                "kec_id": 1873,
+                                "kelu": "Sedanau Timur",
+                                "pos": 29782
+                            },
+                            {
+                                "id": 25083,
+                                "kec_id": 1873,
+                                "kelu": "Sedarat Baru",
+                                "pos": 29782
+                            },
+                            {
+                                "id": 25084,
+                                "kec_id": 1873,
+                                "kelu": "Selaut",
+                                "pos": 29782
+                            },
+                            {
+                                "id": 25085,
+                                "kec_id": 1873,
+                                "kelu": "Semedang",
+                                "pos": 29782
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1874,
+                        "kabkot_id": 152,
+                        "kec": "Bunguran Selatan",
+                        "kelurahan": [
+                            {
+                                "id": 25086,
+                                "kec_id": 1874,
+                                "kelu": "Cemaga",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25087,
+                                "kec_id": 1874,
+                                "kelu": "Cemaga Selatan (Setegar)",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25088,
+                                "kec_id": 1874,
+                                "kelu": "Cemaga Tengah",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25089,
+                                "kec_id": 1874,
+                                "kelu": "Cemaga Utara (Singgang Bbulan)",
+                                "pos": 29783
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1875,
+                        "kabkot_id": 152,
+                        "kec": "Bunguran Tengah",
+                        "kelurahan": [
+                            {
+                                "id": 25090,
+                                "kec_id": 1875,
+                                "kelu": "Air Lengit",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25091,
+                                "kec_id": 1875,
+                                "kelu": "Harapan Jaya",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25092,
+                                "kec_id": 1875,
+                                "kelu": "Tapau",
+                                "pos": 29783
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1876,
+                        "kabkot_id": 152,
+                        "kec": "Bunguran Timur",
+                        "kelurahan": [
+                            {
+                                "id": 25093,
+                                "kec_id": 1876,
+                                "kelu": "Bandarsyah",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25094,
+                                "kec_id": 1876,
+                                "kelu": "Batu Gajah",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25095,
+                                "kec_id": 1876,
+                                "kelu": "Ranai Darat",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25096,
+                                "kec_id": 1876,
+                                "kelu": "Ranai Kota",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25097,
+                                "kec_id": 1876,
+                                "kelu": "Sepempang",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25098,
+                                "kec_id": 1876,
+                                "kelu": "Sungai Ulu",
+                                "pos": 29783
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1877,
+                        "kabkot_id": 152,
+                        "kec": "Bunguran Timur Laut",
+                        "kelurahan": [
+                            {
+                                "id": 25099,
+                                "kec_id": 1877,
+                                "kelu": "Ceruk",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25100,
+                                "kec_id": 1877,
+                                "kelu": "Kelanga",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25101,
+                                "kec_id": 1877,
+                                "kelu": "Limau Manis",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25102,
+                                "kec_id": 1877,
+                                "kelu": "Pengadah",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25103,
+                                "kec_id": 1877,
+                                "kelu": "Sebadai Ulu / Hulu",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25104,
+                                "kec_id": 1877,
+                                "kelu": "Seleman",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25105,
+                                "kec_id": 1877,
+                                "kelu": "Tanjung",
+                                "pos": 29783
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1878,
+                        "kabkot_id": 152,
+                        "kec": "Bunguran Utara",
+                        "kelurahan": [
+                            {
+                                "id": 25106,
+                                "kec_id": 1878,
+                                "kelu": "Belakang Gunung",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25107,
+                                "kec_id": 1878,
+                                "kelu": "Gunung Durian",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25108,
+                                "kec_id": 1878,
+                                "kelu": "Kelarik",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25109,
+                                "kec_id": 1878,
+                                "kelu": "Kelarik Air Mali",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25110,
+                                "kec_id": 1878,
+                                "kelu": "Kelarik Barat",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25111,
+                                "kec_id": 1878,
+                                "kelu": "Kelarik Utara",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25112,
+                                "kec_id": 1878,
+                                "kelu": "Seluan Barat",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25113,
+                                "kec_id": 1878,
+                                "kelu": "Teluk Buton",
+                                "pos": 29783
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1879,
+                        "kabkot_id": 152,
+                        "kec": "Midai",
+                        "kelurahan": [
+                            {
+                                "id": 25114,
+                                "kec_id": 1879,
+                                "kelu": "Air Kumpai",
+                                "pos": 29784
+                            },
+                            {
+                                "id": 25115,
+                                "kec_id": 1879,
+                                "kelu": "Air Putih",
+                                "pos": 29784
+                            },
+                            {
+                                "id": 25116,
+                                "kec_id": 1879,
+                                "kelu": "Batu Belanak",
+                                "pos": 29784
+                            },
+                            {
+                                "id": 25117,
+                                "kec_id": 1879,
+                                "kelu": "Gunung Jambat",
+                                "pos": 29784
+                            },
+                            {
+                                "id": 25118,
+                                "kec_id": 1879,
+                                "kelu": "Sabang Barat",
+                                "pos": 29784
+                            },
+                            {
+                                "id": 25119,
+                                "kec_id": 1879,
+                                "kelu": "Sebelat",
+                                "pos": 29784
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1880,
+                        "kabkot_id": 152,
+                        "kec": "Pulau Laut",
+                        "kelurahan": [
+                            {
+                                "id": 25120,
+                                "kec_id": 1880,
+                                "kelu": "Air Payang",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25121,
+                                "kec_id": 1880,
+                                "kelu": "Kadur",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25122,
+                                "kec_id": 1880,
+                                "kelu": "Tanjung Pala",
+                                "pos": 29783
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1881,
+                        "kabkot_id": 152,
+                        "kec": "Pulau Tiga",
+                        "kelurahan": [
+                            {
+                                "id": 25123,
+                                "kec_id": 1881,
+                                "kelu": "Pulau Tiga",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25124,
+                                "kec_id": 1881,
+                                "kelu": "Sabang Mawang",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25125,
+                                "kec_id": 1881,
+                                "kelu": "Sabang Mawang Barat",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25126,
+                                "kec_id": 1881,
+                                "kelu": "Sededap",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25127,
+                                "kec_id": 1881,
+                                "kelu": "Selading",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25128,
+                                "kec_id": 1881,
+                                "kelu": "Serantas",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25129,
+                                "kec_id": 1881,
+                                "kelu": "Setumuk",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25130,
+                                "kec_id": 1881,
+                                "kelu": "Tanjung Batang",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25131,
+                                "kec_id": 1881,
+                                "kelu": "Tanjung Kumbik Utara",
+                                "pos": 29783
+                            },
+                            {
+                                "id": 25132,
+                                "kec_id": 1881,
+                                "kelu": "Teluk Labuh",
+                                "pos": 29783
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1882,
+                        "kabkot_id": 152,
+                        "kec": "Serasan",
+                        "kelurahan": [
+                            {
+                                "id": 25133,
+                                "kec_id": 1882,
+                                "kelu": "Batu Berian",
+                                "pos": 29781
+                            },
+                            {
+                                "id": 25134,
+                                "kec_id": 1882,
+                                "kelu": "Jernalik",
+                                "pos": 29781
+                            },
+                            {
+                                "id": 25135,
+                                "kec_id": 1882,
+                                "kelu": "Kampung Hilir",
+                                "pos": 29781
+                            },
+                            {
+                                "id": 25136,
+                                "kec_id": 1882,
+                                "kelu": "Pangkalan",
+                                "pos": 29781
+                            },
+                            {
+                                "id": 25137,
+                                "kec_id": 1882,
+                                "kelu": "Serasan",
+                                "pos": 29781
+                            },
+                            {
+                                "id": 25138,
+                                "kec_id": 1882,
+                                "kelu": "Tanjung Balau",
+                                "pos": 29781
+                            },
+                            {
+                                "id": 25139,
+                                "kec_id": 1882,
+                                "kelu": "Tanjung Setelung",
+                                "pos": 29781
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1883,
+                        "kabkot_id": 152,
+                        "kec": "Serasan Timur",
+                        "kelurahan": [
+                            {
+                                "id": 25140,
+                                "kec_id": 1883,
+                                "kelu": "Air Nusa",
+                                "pos": 29781
+                            },
+                            {
+                                "id": 25141,
+                                "kec_id": 1883,
+                                "kelu": "Air Ringau",
+                                "pos": 29781
+                            },
+                            {
+                                "id": 25142,
+                                "kec_id": 1883,
+                                "kelu": "Arung Ayam",
+                                "pos": 29781
+                            },
+                            {
+                                "id": 25143,
+                                "kec_id": 1883,
+                                "kelu": "Payak (Harapan Baru)",
+                                "pos": 29781
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1884,
+                        "kabkot_id": 152,
+                        "kec": "Subi",
+                        "kelurahan": [
+                            {
+                                "id": 25144,
+                                "kec_id": 1884,
+                                "kelu": "Meliah",
+                                "pos": 29781
+                            },
+                            {
+                                "id": 25145,
+                                "kec_id": 1884,
+                                "kelu": "Meliah Selatan",
+                                "pos": 29781
+                            },
+                            {
+                                "id": 25146,
+                                "kec_id": 1884,
+                                "kelu": "Pulau Kerdau",
+                                "pos": 29781
+                            },
+                            {
+                                "id": 25147,
+                                "kec_id": 1884,
+                                "kelu": "Pulau Panjang",
+                                "pos": 29781
+                            },
+                            {
+                                "id": 25148,
+                                "kec_id": 1884,
+                                "kelu": "Subi",
+                                "pos": 29781
+                            },
+                            {
+                                "id": 25149,
+                                "kec_id": 1884,
+                                "kelu": "Subi Besar",
+                                "pos": 29781
+                            },
+                            {
+                                "id": 25150,
+                                "kec_id": 1884,
+                                "kelu": "Subi Besar Timur",
+                                "pos": 29781
+                            },
+                            {
+                                "id": 25151,
+                                "kec_id": 1884,
+                                "kelu": "Terayak",
+                                "pos": 29781
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 153,
+                "prov_id": 10,
+                "kab_kota": "Kota Batam",
+                "ibukota": "Batam",
+                "k_bsni": "BTM",
+                "kecamatan": [
+                    {
+                        "id": 1885,
+                        "kabkot_id": 153,
+                        "kec": "Batam Kota",
+                        "kelurahan": [
+                            {
+                                "id": 25152,
+                                "kec_id": 1885,
+                                "kelu": "Baloi Permai",
+                                "pos": 29431
+                            },
+                            {
+                                "id": 25153,
+                                "kec_id": 1885,
+                                "kelu": "Belian",
+                                "pos": 29464
+                            },
+                            {
+                                "id": 25154,
+                                "kec_id": 1885,
+                                "kelu": "Sukajadi",
+                                "pos": 29432
+                            },
+                            {
+                                "id": 25155,
+                                "kec_id": 1885,
+                                "kelu": "Sungai Panas",
+                                "pos": 29433
+                            },
+                            {
+                                "id": 25156,
+                                "kec_id": 1885,
+                                "kelu": "Taman Baloi",
+                                "pos": 29432
+                            },
+                            {
+                                "id": 25157,
+                                "kec_id": 1885,
+                                "kelu": "Teluk Tering",
+                                "pos": 29461
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1886,
+                        "kabkot_id": 153,
+                        "kec": "Batu Aji",
+                        "kelurahan": [
+                            {
+                                "id": 25158,
+                                "kec_id": 1886,
+                                "kelu": "Bukit Tempayan",
+                                "pos": 29438
+                            },
+                            {
+                                "id": 25159,
+                                "kec_id": 1886,
+                                "kelu": "Buliang",
+                                "pos": 29438
+                            },
+                            {
+                                "id": 25160,
+                                "kec_id": 1886,
+                                "kelu": "Kibing",
+                                "pos": 29422
+                            },
+                            {
+                                "id": 25161,
+                                "kec_id": 1886,
+                                "kelu": "Tanjung Uncang",
+                                "pos": 29424
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1887,
+                        "kabkot_id": 153,
+                        "kec": "Batu Ampar",
+                        "kelurahan": [
+                            {
+                                "id": 25162,
+                                "kec_id": 1887,
+                                "kelu": "Batu Merah",
+                                "pos": 29452
+                            },
+                            {
+                                "id": 25163,
+                                "kec_id": 1887,
+                                "kelu": "Kampung Seraya",
+                                "pos": 29454
+                            },
+                            {
+                                "id": 25164,
+                                "kec_id": 1887,
+                                "kelu": "Sungai Jodoh",
+                                "pos": 29453
+                            },
+                            {
+                                "id": 25165,
+                                "kec_id": 1887,
+                                "kelu": "Tanjung Sengkuang",
+                                "pos": 29453
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1888,
+                        "kabkot_id": 153,
+                        "kec": "Belakang Padang",
+                        "kelurahan": [
+                            {
+                                "id": 25166,
+                                "kec_id": 1888,
+                                "kelu": "Kasu",
+                                "pos": 29413
+                            },
+                            {
+                                "id": 25167,
+                                "kec_id": 1888,
+                                "kelu": "Pecong",
+                                "pos": 29414
+                            },
+                            {
+                                "id": 25168,
+                                "kec_id": 1888,
+                                "kelu": "Pemping",
+                                "pos": 29412
+                            },
+                            {
+                                "id": 25169,
+                                "kec_id": 1888,
+                                "kelu": "Pulau Terong",
+                                "pos": 29416
+                            },
+                            {
+                                "id": 25170,
+                                "kec_id": 1888,
+                                "kelu": "Sekanak Raya",
+                                "pos": 29416
+                            },
+                            {
+                                "id": 25171,
+                                "kec_id": 1888,
+                                "kelu": "Tanjung Sari",
+                                "pos": 29416
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1889,
+                        "kabkot_id": 153,
+                        "kec": "Bengkong",
+                        "kelurahan": [
+                            {
+                                "id": 25172,
+                                "kec_id": 1889,
+                                "kelu": "Bengkong Indah",
+                                "pos": 29458
+                            },
+                            {
+                                "id": 25173,
+                                "kec_id": 1889,
+                                "kelu": "Bengkong Laut",
+                                "pos": 29458
+                            },
+                            {
+                                "id": 25174,
+                                "kec_id": 1889,
+                                "kelu": "Sadai",
+                                "pos": 29432
+                            },
+                            {
+                                "id": 25175,
+                                "kec_id": 1889,
+                                "kelu": "Tanjung Buntung",
+                                "pos": 29432
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1890,
+                        "kabkot_id": 153,
+                        "kec": "Bulang",
+                        "kelurahan": [
+                            {
+                                "id": 25176,
+                                "kec_id": 1890,
+                                "kelu": "Batu Legong",
+                                "pos": 29474
+                            },
+                            {
+                                "id": 25177,
+                                "kec_id": 1890,
+                                "kelu": "Bulang Lintang",
+                                "pos": 29471
+                            },
+                            {
+                                "id": 25178,
+                                "kec_id": 1890,
+                                "kelu": "Pantai Gelam",
+                                "pos": 29473
+                            },
+                            {
+                                "id": 25179,
+                                "kec_id": 1890,
+                                "kelu": "Pulau Buluh",
+                                "pos": 29472
+                            },
+                            {
+                                "id": 25180,
+                                "kec_id": 1890,
+                                "kelu": "Pulau Setokok",
+                                "pos": 29476
+                            },
+                            {
+                                "id": 25181,
+                                "kec_id": 1890,
+                                "kelu": "Temoyong",
+                                "pos": 29475
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1891,
+                        "kabkot_id": 153,
+                        "kec": "Galang",
+                        "kelurahan": [
+                            {
+                                "id": 25182,
+                                "kec_id": 1891,
+                                "kelu": "Air Raja",
+                                "pos": 29483
+                            },
+                            {
+                                "id": 25183,
+                                "kec_id": 1891,
+                                "kelu": "Galang Baru (Pulau)",
+                                "pos": 29484
+                            },
+                            {
+                                "id": 25184,
+                                "kec_id": 1891,
+                                "kelu": "Karas (Pulau Karas)",
+                                "pos": 29486
+                            },
+                            {
+                                "id": 25185,
+                                "kec_id": 1891,
+                                "kelu": "Pulau Abang",
+                                "pos": 29487
+                            },
+                            {
+                                "id": 25186,
+                                "kec_id": 1891,
+                                "kelu": "Rempang Cate",
+                                "pos": 29482
+                            },
+                            {
+                                "id": 25187,
+                                "kec_id": 1891,
+                                "kelu": "Sembulang (Pulau Rempang)",
+                                "pos": 29481
+                            },
+                            {
+                                "id": 25188,
+                                "kec_id": 1891,
+                                "kelu": "Sijantung",
+                                "pos": 29485
+                            },
+                            {
+                                "id": 25189,
+                                "kec_id": 1891,
+                                "kelu": "Subang Mas",
+                                "pos": 29483
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1892,
+                        "kabkot_id": 153,
+                        "kec": "Lubuk Baja",
+                        "kelurahan": [
+                            {
+                                "id": 25190,
+                                "kec_id": 1892,
+                                "kelu": "Baloi Indah",
+                                "pos": 29432
+                            },
+                            {
+                                "id": 25191,
+                                "kec_id": 1892,
+                                "kelu": "Batu Selicin",
+                                "pos": 29441
+                            },
+                            {
+                                "id": 25192,
+                                "kec_id": 1892,
+                                "kelu": "Kampung Pelita",
+                                "pos": 29443
+                            },
+                            {
+                                "id": 25193,
+                                "kec_id": 1892,
+                                "kelu": "Lubuk Baja Kota",
+                                "pos": 29444
+                            },
+                            {
+                                "id": 25194,
+                                "kec_id": 1892,
+                                "kelu": "Tanjung Uma",
+                                "pos": 29445
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1893,
+                        "kabkot_id": 153,
+                        "kec": "Nongsa",
+                        "kelurahan": [
+                            {
+                                "id": 25195,
+                                "kec_id": 1893,
+                                "kelu": "Batu Besar",
+                                "pos": 29466
+                            },
+                            {
+                                "id": 25196,
+                                "kec_id": 1893,
+                                "kelu": "Kabil",
+                                "pos": 29467
+                            },
+                            {
+                                "id": 25197,
+                                "kec_id": 1893,
+                                "kelu": "Ngenang",
+                                "pos": 29468
+                            },
+                            {
+                                "id": 25198,
+                                "kec_id": 1893,
+                                "kelu": "Sambau",
+                                "pos": 29465
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1894,
+                        "kabkot_id": 153,
+                        "kec": "Sagulung",
+                        "kelurahan": [
+                            {
+                                "id": 25199,
+                                "kec_id": 1894,
+                                "kelu": "Sagulung Kota",
+                                "pos": 29439
+                            },
+                            {
+                                "id": 25200,
+                                "kec_id": 1894,
+                                "kelu": "Sungai Binti",
+                                "pos": 29439
+                            },
+                            {
+                                "id": 25201,
+                                "kec_id": 1894,
+                                "kelu": "Sungai Langkai",
+                                "pos": 29439
+                            },
+                            {
+                                "id": 25202,
+                                "kec_id": 1894,
+                                "kelu": "Sungai Lekop",
+                                "pos": 29439
+                            },
+                            {
+                                "id": 25203,
+                                "kec_id": 1894,
+                                "kelu": "Sungai Pelenggut/Pelunggut",
+                                "pos": 29439
+                            },
+                            {
+                                "id": 25204,
+                                "kec_id": 1894,
+                                "kelu": "Tembesi",
+                                "pos": 29439
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1895,
+                        "kabkot_id": 153,
+                        "kec": "Sei/Sungai Beduk",
+                        "kelurahan": [
+                            {
+                                "id": 25205,
+                                "kec_id": 1895,
+                                "kelu": "Duriangka",
+                                "pos": 29437
+                            },
+                            {
+                                "id": 25206,
+                                "kec_id": 1895,
+                                "kelu": "Mangsang (Mangsa)",
+                                "pos": 29437
+                            },
+                            {
+                                "id": 25207,
+                                "kec_id": 1895,
+                                "kelu": "Muka Kuning",
+                                "pos": 29433
+                            },
+                            {
+                                "id": 25208,
+                                "kec_id": 1895,
+                                "kelu": "Tanjung Piayu",
+                                "pos": 29437
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1896,
+                        "kabkot_id": 153,
+                        "kec": "Sekupang",
+                        "kelurahan": [
+                            {
+                                "id": 25209,
+                                "kec_id": 1896,
+                                "kelu": "Patam Lestari",
+                                "pos": 29427
+                            },
+                            {
+                                "id": 25210,
+                                "kec_id": 1896,
+                                "kelu": "Sungai Harapan",
+                                "pos": 29428
+                            },
+                            {
+                                "id": 25211,
+                                "kec_id": 1896,
+                                "kelu": "Tanjung Pinggir",
+                                "pos": 29428
+                            },
+                            {
+                                "id": 25212,
+                                "kec_id": 1896,
+                                "kelu": "Tanjung Riau",
+                                "pos": 29425
+                            },
+                            {
+                                "id": 25213,
+                                "kec_id": 1896,
+                                "kelu": "Tiban Baru",
+                                "pos": 29426
+                            },
+                            {
+                                "id": 25214,
+                                "kec_id": 1896,
+                                "kelu": "Tiban Indah",
+                                "pos": 29426
+                            },
+                            {
+                                "id": 25215,
+                                "kec_id": 1896,
+                                "kelu": "Tiban Lama",
+                                "pos": 29425
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 154,
+                "prov_id": 10,
+                "kab_kota": "Kota Tanjung Pinang",
+                "ibukota": "Tanjung Pinang",
+                "k_bsni": "TPG",
+                "kecamatan": [
+                    {
+                        "id": 1897,
+                        "kabkot_id": 154,
+                        "kec": "Bukit Bestari",
+                        "kelurahan": [
+                            {
+                                "id": 25216,
+                                "kec_id": 1897,
+                                "kelu": "Dompak",
+                                "pos": 29124
+                            },
+                            {
+                                "id": 25217,
+                                "kec_id": 1897,
+                                "kelu": "Sei Jang",
+                                "pos": 29124
+                            },
+                            {
+                                "id": 25218,
+                                "kec_id": 1897,
+                                "kelu": "Tanjung Ayun Sakti",
+                                "pos": 29124
+                            },
+                            {
+                                "id": 25219,
+                                "kec_id": 1897,
+                                "kelu": "Tanjung Pinang Timur",
+                                "pos": 29122
+                            },
+                            {
+                                "id": 25220,
+                                "kec_id": 1897,
+                                "kelu": "Tanjung Unggat",
+                                "pos": 29122
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1898,
+                        "kabkot_id": 154,
+                        "kec": "Tanjung Pinang Barat",
+                        "kelurahan": [
+                            {
+                                "id": 25221,
+                                "kec_id": 1898,
+                                "kelu": "Bukit Cermin",
+                                "pos": 29111
+                            },
+                            {
+                                "id": 25222,
+                                "kec_id": 1898,
+                                "kelu": "Kampung Baru",
+                                "pos": 29113
+                            },
+                            {
+                                "id": 25223,
+                                "kec_id": 1898,
+                                "kelu": "Kemboja",
+                                "pos": 29112
+                            },
+                            {
+                                "id": 25224,
+                                "kec_id": 1898,
+                                "kelu": "Tanjung Pinang Barat",
+                                "pos": 29113
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1899,
+                        "kabkot_id": 154,
+                        "kec": "Tanjung Pinang Kota",
+                        "kelurahan": [
+                            {
+                                "id": 25225,
+                                "kec_id": 1899,
+                                "kelu": "Kampung Bugis",
+                                "pos": 29115
+                            },
+                            {
+                                "id": 25226,
+                                "kec_id": 1899,
+                                "kelu": "Penyengat",
+                                "pos": 29114
+                            },
+                            {
+                                "id": 25227,
+                                "kec_id": 1899,
+                                "kelu": "Senggarang",
+                                "pos": 29111
+                            },
+                            {
+                                "id": 25228,
+                                "kec_id": 1899,
+                                "kelu": "Tanjung Pinang Kota",
+                                "pos": 29111
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1900,
+                        "kabkot_id": 154,
+                        "kec": "Tanjung Pinang Timur",
+                        "kelurahan": [
+                            {
+                                "id": 25229,
+                                "kec_id": 1900,
+                                "kelu": "Air Raja",
+                                "pos": 29122
+                            },
+                            {
+                                "id": 25230,
+                                "kec_id": 1900,
+                                "kelu": "Batu IX (Sembilan)",
+                                "pos": 29125
+                            },
+                            {
+                                "id": 25231,
+                                "kec_id": 1900,
+                                "kelu": "Kampung Bulang",
+                                "pos": 29122
+                            },
+                            {
+                                "id": 25232,
+                                "kec_id": 1900,
+                                "kelu": "Melayu Kota Piring",
+                                "pos": 29123
+                            },
+                            {
+                                "id": 25233,
+                                "kec_id": 1900,
+                                "kelu": "Pinang Kencana",
+                                "pos": 29122
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

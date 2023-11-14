@@ -1,0 +1,3228 @@
+[
+    {
+        "id": 14,
+        "provinsi": "Daerah Istimewa Yogyakarta",
+        "p_bsni": "ID-YO",
+        "kabupaten": [
+            {
+                "id": 223,
+                "prov_id": 14,
+                "kab_kota": "Kabupaten Bantul",
+                "ibukota": "Bantul",
+                "k_bsni": "BTL",
+                "kecamatan": [
+                    {
+                        "id": 3144,
+                        "kabkot_id": 223,
+                        "kec": "Bambang Lipuro",
+                        "kelurahan": [
+                            {
+                                "id": 40020,
+                                "kec_id": 3144,
+                                "kelu": "Mulyodadi",
+                                "pos": 55764
+                            },
+                            {
+                                "id": 40021,
+                                "kec_id": 3144,
+                                "kelu": "Sidomulyo",
+                                "pos": 55764
+                            },
+                            {
+                                "id": 40022,
+                                "kec_id": 3144,
+                                "kelu": "Sumbermulyo",
+                                "pos": 55764
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3145,
+                        "kabkot_id": 223,
+                        "kec": "Banguntapan",
+                        "kelurahan": [
+                            {
+                                "id": 40023,
+                                "kec_id": 3145,
+                                "kelu": "Banguntapan",
+                                "pos": 55198
+                            },
+                            {
+                                "id": 40024,
+                                "kec_id": 3145,
+                                "kelu": "Baturetno",
+                                "pos": 55197
+                            },
+                            {
+                                "id": 40025,
+                                "kec_id": 3145,
+                                "kelu": "Jagalan",
+                                "pos": 55192
+                            },
+                            {
+                                "id": 40026,
+                                "kec_id": 3145,
+                                "kelu": "Jambidan",
+                                "pos": 55195
+                            },
+                            {
+                                "id": 40027,
+                                "kec_id": 3145,
+                                "kelu": "Potorono",
+                                "pos": 55196
+                            },
+                            {
+                                "id": 40028,
+                                "kec_id": 3145,
+                                "kelu": "Singosaren",
+                                "pos": 55193
+                            },
+                            {
+                                "id": 40029,
+                                "kec_id": 3145,
+                                "kelu": "Tamanan",
+                                "pos": 55191
+                            },
+                            {
+                                "id": 40030,
+                                "kec_id": 3145,
+                                "kelu": "Wirokerten",
+                                "pos": 55194
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3146,
+                        "kabkot_id": 223,
+                        "kec": "Bantul",
+                        "kelurahan": [
+                            {
+                                "id": 40031,
+                                "kec_id": 3146,
+                                "kelu": "Bantul",
+                                "pos": 55711
+                            },
+                            {
+                                "id": 40032,
+                                "kec_id": 3146,
+                                "kelu": "Palbapang",
+                                "pos": 55713
+                            },
+                            {
+                                "id": 40033,
+                                "kec_id": 3146,
+                                "kelu": "Ringin Harjo",
+                                "pos": 55712
+                            },
+                            {
+                                "id": 40034,
+                                "kec_id": 3146,
+                                "kelu": "Sabdodadi",
+                                "pos": 55715
+                            },
+                            {
+                                "id": 40035,
+                                "kec_id": 3146,
+                                "kelu": "Trirenggo",
+                                "pos": 55714
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3147,
+                        "kabkot_id": 223,
+                        "kec": "Dlingo",
+                        "kelurahan": [
+                            {
+                                "id": 40036,
+                                "kec_id": 3147,
+                                "kelu": "Dlingo",
+                                "pos": 55783
+                            },
+                            {
+                                "id": 40037,
+                                "kec_id": 3147,
+                                "kelu": "Jatimulyo",
+                                "pos": 55783
+                            },
+                            {
+                                "id": 40038,
+                                "kec_id": 3147,
+                                "kelu": "Mangunan",
+                                "pos": 55783
+                            },
+                            {
+                                "id": 40039,
+                                "kec_id": 3147,
+                                "kelu": "Muntuk",
+                                "pos": 55783
+                            },
+                            {
+                                "id": 40040,
+                                "kec_id": 3147,
+                                "kelu": "Temuwuh",
+                                "pos": 55783
+                            },
+                            {
+                                "id": 40041,
+                                "kec_id": 3147,
+                                "kelu": "Terong",
+                                "pos": 55783
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3148,
+                        "kabkot_id": 223,
+                        "kec": "Imogiri",
+                        "kelurahan": [
+                            {
+                                "id": 40042,
+                                "kec_id": 3148,
+                                "kelu": "Girirejo",
+                                "pos": 55782
+                            },
+                            {
+                                "id": 40043,
+                                "kec_id": 3148,
+                                "kelu": "Imogiri",
+                                "pos": 55782
+                            },
+                            {
+                                "id": 40044,
+                                "kec_id": 3148,
+                                "kelu": "Karang Tengah",
+                                "pos": 55782
+                            },
+                            {
+                                "id": 40045,
+                                "kec_id": 3148,
+                                "kelu": "Karangtalun",
+                                "pos": 55782
+                            },
+                            {
+                                "id": 40046,
+                                "kec_id": 3148,
+                                "kelu": "Kebon Agung",
+                                "pos": 55782
+                            },
+                            {
+                                "id": 40047,
+                                "kec_id": 3148,
+                                "kelu": "Selopamioro",
+                                "pos": 55782
+                            },
+                            {
+                                "id": 40048,
+                                "kec_id": 3148,
+                                "kelu": "Sriharjo",
+                                "pos": 55782
+                            },
+                            {
+                                "id": 40049,
+                                "kec_id": 3148,
+                                "kelu": "Wukirsari",
+                                "pos": 55782
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3149,
+                        "kabkot_id": 223,
+                        "kec": "Jetis",
+                        "kelurahan": [
+                            {
+                                "id": 40050,
+                                "kec_id": 3149,
+                                "kelu": "Canden",
+                                "pos": 55781
+                            },
+                            {
+                                "id": 40051,
+                                "kec_id": 3149,
+                                "kelu": "Patalan",
+                                "pos": 55781
+                            },
+                            {
+                                "id": 40052,
+                                "kec_id": 3149,
+                                "kelu": "Sumber Agung",
+                                "pos": 55781
+                            },
+                            {
+                                "id": 40053,
+                                "kec_id": 3149,
+                                "kelu": "Trimulyo",
+                                "pos": 55781
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3150,
+                        "kabkot_id": 223,
+                        "kec": "Kasihan",
+                        "kelurahan": [
+                            {
+                                "id": 40054,
+                                "kec_id": 3150,
+                                "kelu": "Bangunjiwo",
+                                "pos": 55184
+                            },
+                            {
+                                "id": 40055,
+                                "kec_id": 3150,
+                                "kelu": "Ngestiharjo",
+                                "pos": 55182
+                            },
+                            {
+                                "id": 40056,
+                                "kec_id": 3150,
+                                "kelu": "Tamantirto",
+                                "pos": 55183
+                            },
+                            {
+                                "id": 40057,
+                                "kec_id": 3150,
+                                "kelu": "Tirtonirmolo",
+                                "pos": 55181
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3151,
+                        "kabkot_id": 223,
+                        "kec": "Kretek",
+                        "kelurahan": [
+                            {
+                                "id": 40058,
+                                "kec_id": 3151,
+                                "kelu": "Donotirto",
+                                "pos": 55772
+                            },
+                            {
+                                "id": 40059,
+                                "kec_id": 3151,
+                                "kelu": "Parangtritis",
+                                "pos": 55772
+                            },
+                            {
+                                "id": 40060,
+                                "kec_id": 3151,
+                                "kelu": "Tirtohargo",
+                                "pos": 55772
+                            },
+                            {
+                                "id": 40061,
+                                "kec_id": 3151,
+                                "kelu": "Tirtomulyo",
+                                "pos": 55772
+                            },
+                            {
+                                "id": 40062,
+                                "kec_id": 3151,
+                                "kelu": "Tirtosari",
+                                "pos": 55772
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3152,
+                        "kabkot_id": 223,
+                        "kec": "Pajangan",
+                        "kelurahan": [
+                            {
+                                "id": 40063,
+                                "kec_id": 3152,
+                                "kelu": "Guwosari",
+                                "pos": 55751
+                            },
+                            {
+                                "id": 40064,
+                                "kec_id": 3152,
+                                "kelu": "Sendangsari",
+                                "pos": 55751
+                            },
+                            {
+                                "id": 40065,
+                                "kec_id": 3152,
+                                "kelu": "Triwidadi",
+                                "pos": 55751
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3153,
+                        "kabkot_id": 223,
+                        "kec": "Pandak",
+                        "kelurahan": [
+                            {
+                                "id": 40066,
+                                "kec_id": 3153,
+                                "kelu": "Caturharjo",
+                                "pos": 55761
+                            },
+                            {
+                                "id": 40067,
+                                "kec_id": 3153,
+                                "kelu": "Gilangharjo",
+                                "pos": 55761
+                            },
+                            {
+                                "id": 40068,
+                                "kec_id": 3153,
+                                "kelu": "Triharjo",
+                                "pos": 55761
+                            },
+                            {
+                                "id": 40069,
+                                "kec_id": 3153,
+                                "kelu": "Wijirejo",
+                                "pos": 55761
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3154,
+                        "kabkot_id": 223,
+                        "kec": "Piyungan",
+                        "kelurahan": [
+                            {
+                                "id": 40070,
+                                "kec_id": 3154,
+                                "kelu": "Sitimulyo",
+                                "pos": 55792
+                            },
+                            {
+                                "id": 40071,
+                                "kec_id": 3154,
+                                "kelu": "Srimartani",
+                                "pos": 55792
+                            },
+                            {
+                                "id": 40072,
+                                "kec_id": 3154,
+                                "kelu": "Srimulyo",
+                                "pos": 55792
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3155,
+                        "kabkot_id": 223,
+                        "kec": "Pleret",
+                        "kelurahan": [
+                            {
+                                "id": 40073,
+                                "kec_id": 3155,
+                                "kelu": "Bawuran",
+                                "pos": 55791
+                            },
+                            {
+                                "id": 40074,
+                                "kec_id": 3155,
+                                "kelu": "Pleret",
+                                "pos": 55791
+                            },
+                            {
+                                "id": 40075,
+                                "kec_id": 3155,
+                                "kelu": "Segoroyoso",
+                                "pos": 55791
+                            },
+                            {
+                                "id": 40076,
+                                "kec_id": 3155,
+                                "kelu": "Wonokromo",
+                                "pos": 55791
+                            },
+                            {
+                                "id": 40077,
+                                "kec_id": 3155,
+                                "kelu": "Wonolelo",
+                                "pos": 55791
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3156,
+                        "kabkot_id": 223,
+                        "kec": "Pundong",
+                        "kelurahan": [
+                            {
+                                "id": 40078,
+                                "kec_id": 3156,
+                                "kelu": "Panjangrejo",
+                                "pos": 55771
+                            },
+                            {
+                                "id": 40079,
+                                "kec_id": 3156,
+                                "kelu": "Seloharjo",
+                                "pos": 55771
+                            },
+                            {
+                                "id": 40080,
+                                "kec_id": 3156,
+                                "kelu": "Srihardono",
+                                "pos": 55771
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3157,
+                        "kabkot_id": 223,
+                        "kec": "Sanden",
+                        "kelurahan": [
+                            {
+                                "id": 40081,
+                                "kec_id": 3157,
+                                "kelu": "Gadingharjo",
+                                "pos": 55763
+                            },
+                            {
+                                "id": 40082,
+                                "kec_id": 3157,
+                                "kelu": "Gadingsari",
+                                "pos": 55763
+                            },
+                            {
+                                "id": 40083,
+                                "kec_id": 3157,
+                                "kelu": "Murtigading",
+                                "pos": 55763
+                            },
+                            {
+                                "id": 40084,
+                                "kec_id": 3157,
+                                "kelu": "Srigading",
+                                "pos": 55763
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3158,
+                        "kabkot_id": 223,
+                        "kec": "Sedayu",
+                        "kelurahan": [
+                            {
+                                "id": 40085,
+                                "kec_id": 3158,
+                                "kelu": "Argodadi",
+                                "pos": 55752
+                            },
+                            {
+                                "id": 40086,
+                                "kec_id": 3158,
+                                "kelu": "Argomulyo",
+                                "pos": 55752
+                            },
+                            {
+                                "id": 40087,
+                                "kec_id": 3158,
+                                "kelu": "Argorejo",
+                                "pos": 55752
+                            },
+                            {
+                                "id": 40088,
+                                "kec_id": 3158,
+                                "kelu": "Argosari",
+                                "pos": 55752
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3159,
+                        "kabkot_id": 223,
+                        "kec": "Sewon",
+                        "kelurahan": [
+                            {
+                                "id": 40089,
+                                "kec_id": 3159,
+                                "kelu": "Bangunharjo",
+                                "pos": 55188
+                            },
+                            {
+                                "id": 40090,
+                                "kec_id": 3159,
+                                "kelu": "Panggungharjo",
+                                "pos": 55188
+                            },
+                            {
+                                "id": 40091,
+                                "kec_id": 3159,
+                                "kelu": "Pendowoharjo",
+                                "pos": 55185
+                            },
+                            {
+                                "id": 40092,
+                                "kec_id": 3159,
+                                "kelu": "Timbulharjo",
+                                "pos": 55186
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3160,
+                        "kabkot_id": 223,
+                        "kec": "Srandakan",
+                        "kelurahan": [
+                            {
+                                "id": 40093,
+                                "kec_id": 3160,
+                                "kelu": "Poncosari",
+                                "pos": 55762
+                            },
+                            {
+                                "id": 40094,
+                                "kec_id": 3160,
+                                "kelu": "Trimurti",
+                                "pos": 55762
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 224,
+                "prov_id": 14,
+                "kab_kota": "Kabupaten Gunung Kidul",
+                "ibukota": "Wonosari",
+                "k_bsni": "WNO",
+                "kecamatan": [
+                    {
+                        "id": 3161,
+                        "kabkot_id": 224,
+                        "kec": "Gedang Sari",
+                        "kelurahan": [
+                            {
+                                "id": 40095,
+                                "kec_id": 3161,
+                                "kelu": "Hargo Mulyo",
+                                "pos": 55863
+                            },
+                            {
+                                "id": 40096,
+                                "kec_id": 3161,
+                                "kelu": "Mertelu",
+                                "pos": 55863
+                            },
+                            {
+                                "id": 40097,
+                                "kec_id": 3161,
+                                "kelu": "Ngalang",
+                                "pos": 55863
+                            },
+                            {
+                                "id": 40098,
+                                "kec_id": 3161,
+                                "kelu": "Sampang",
+                                "pos": 55863
+                            },
+                            {
+                                "id": 40099,
+                                "kec_id": 3161,
+                                "kelu": "Serut",
+                                "pos": 55863
+                            },
+                            {
+                                "id": 40100,
+                                "kec_id": 3161,
+                                "kelu": "Tegalrejo",
+                                "pos": 55863
+                            },
+                            {
+                                "id": 40101,
+                                "kec_id": 3161,
+                                "kelu": "Watu Gajah",
+                                "pos": 55863
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3162,
+                        "kabkot_id": 224,
+                        "kec": "Girisubo",
+                        "kelurahan": [
+                            {
+                                "id": 40102,
+                                "kec_id": 3162,
+                                "kelu": "Balong",
+                                "pos": 55883
+                            },
+                            {
+                                "id": 40103,
+                                "kec_id": 3162,
+                                "kelu": "Jepitu",
+                                "pos": 55883
+                            },
+                            {
+                                "id": 40104,
+                                "kec_id": 3162,
+                                "kelu": "Jerukwudel",
+                                "pos": 55883
+                            },
+                            {
+                                "id": 40105,
+                                "kec_id": 3162,
+                                "kelu": "Karangawen",
+                                "pos": 55883
+                            },
+                            {
+                                "id": 40106,
+                                "kec_id": 3162,
+                                "kelu": "Nglindur",
+                                "pos": 55883
+                            },
+                            {
+                                "id": 40107,
+                                "kec_id": 3162,
+                                "kelu": "Pucung",
+                                "pos": 55883
+                            },
+                            {
+                                "id": 40108,
+                                "kec_id": 3162,
+                                "kelu": "Songbanyu",
+                                "pos": 55883
+                            },
+                            {
+                                "id": 40109,
+                                "kec_id": 3162,
+                                "kelu": "Tileng",
+                                "pos": 55883
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3163,
+                        "kabkot_id": 224,
+                        "kec": "Karangmojo",
+                        "kelurahan": [
+                            {
+                                "id": 40110,
+                                "kec_id": 3163,
+                                "kelu": "Bejiharjo",
+                                "pos": 55891
+                            },
+                            {
+                                "id": 40111,
+                                "kec_id": 3163,
+                                "kelu": "Bendungan",
+                                "pos": 55891
+                            },
+                            {
+                                "id": 40112,
+                                "kec_id": 3163,
+                                "kelu": "Gedang Rejo",
+                                "pos": 55891
+                            },
+                            {
+                                "id": 40113,
+                                "kec_id": 3163,
+                                "kelu": "Jati Ayu",
+                                "pos": 55891
+                            },
+                            {
+                                "id": 40114,
+                                "kec_id": 3163,
+                                "kelu": "Karangmojo",
+                                "pos": 55891
+                            },
+                            {
+                                "id": 40115,
+                                "kec_id": 3163,
+                                "kelu": "Kelor",
+                                "pos": 55891
+                            },
+                            {
+                                "id": 40116,
+                                "kec_id": 3163,
+                                "kelu": "Ngawis",
+                                "pos": 55891
+                            },
+                            {
+                                "id": 40117,
+                                "kec_id": 3163,
+                                "kelu": "Ngipak",
+                                "pos": 55891
+                            },
+                            {
+                                "id": 40118,
+                                "kec_id": 3163,
+                                "kelu": "Wiladeg",
+                                "pos": 55891
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3164,
+                        "kabkot_id": 224,
+                        "kec": "Ngawen",
+                        "kelurahan": [
+                            {
+                                "id": 40119,
+                                "kec_id": 3164,
+                                "kelu": "Beji",
+                                "pos": 55853
+                            },
+                            {
+                                "id": 40120,
+                                "kec_id": 3164,
+                                "kelu": "Jurang Jero",
+                                "pos": 55853
+                            },
+                            {
+                                "id": 40121,
+                                "kec_id": 3164,
+                                "kelu": "Kampung",
+                                "pos": 55853
+                            },
+                            {
+                                "id": 40122,
+                                "kec_id": 3164,
+                                "kelu": "Sambirejo",
+                                "pos": 55853
+                            },
+                            {
+                                "id": 40123,
+                                "kec_id": 3164,
+                                "kelu": "Tancep",
+                                "pos": 55853
+                            },
+                            {
+                                "id": 40124,
+                                "kec_id": 3164,
+                                "kelu": "Watu Sigar",
+                                "pos": 55853
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3165,
+                        "kabkot_id": 224,
+                        "kec": "Nglipar",
+                        "kelurahan": [
+                            {
+                                "id": 40125,
+                                "kec_id": 3165,
+                                "kelu": "Katongan",
+                                "pos": 55852
+                            },
+                            {
+                                "id": 40126,
+                                "kec_id": 3165,
+                                "kelu": "Kedung Keris",
+                                "pos": 55852
+                            },
+                            {
+                                "id": 40127,
+                                "kec_id": 3165,
+                                "kelu": "Kedungpoh",
+                                "pos": 55852
+                            },
+                            {
+                                "id": 40128,
+                                "kec_id": 3165,
+                                "kelu": "Natah",
+                                "pos": 55852
+                            },
+                            {
+                                "id": 40129,
+                                "kec_id": 3165,
+                                "kelu": "Nglipar",
+                                "pos": 55852
+                            },
+                            {
+                                "id": 40130,
+                                "kec_id": 3165,
+                                "kelu": "Pengkol",
+                                "pos": 55852
+                            },
+                            {
+                                "id": 40131,
+                                "kec_id": 3165,
+                                "kelu": "Pilang Rejo",
+                                "pos": 55852
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3166,
+                        "kabkot_id": 224,
+                        "kec": "Paliyan",
+                        "kelurahan": [
+                            {
+                                "id": 40132,
+                                "kec_id": 3166,
+                                "kelu": "Giring",
+                                "pos": 55871
+                            },
+                            {
+                                "id": 40133,
+                                "kec_id": 3166,
+                                "kelu": "Grogol",
+                                "pos": 55871
+                            },
+                            {
+                                "id": 40134,
+                                "kec_id": 3166,
+                                "kelu": "Karang Asem",
+                                "pos": 55871
+                            },
+                            {
+                                "id": 40135,
+                                "kec_id": 3166,
+                                "kelu": "Karang Duwet",
+                                "pos": 55871
+                            },
+                            {
+                                "id": 40136,
+                                "kec_id": 3166,
+                                "kelu": "Mulusan",
+                                "pos": 55871
+                            },
+                            {
+                                "id": 40137,
+                                "kec_id": 3166,
+                                "kelu": "Pampang",
+                                "pos": 55871
+                            },
+                            {
+                                "id": 40138,
+                                "kec_id": 3166,
+                                "kelu": "Sodo",
+                                "pos": 55871
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3167,
+                        "kabkot_id": 224,
+                        "kec": "Panggang",
+                        "kelurahan": [
+                            {
+                                "id": 40139,
+                                "kec_id": 3167,
+                                "kelu": "Giriharjo",
+                                "pos": 55872
+                            },
+                            {
+                                "id": 40140,
+                                "kec_id": 3167,
+                                "kelu": "Girikarto",
+                                "pos": 55872
+                            },
+                            {
+                                "id": 40141,
+                                "kec_id": 3167,
+                                "kelu": "Girimulyo",
+                                "pos": 55872
+                            },
+                            {
+                                "id": 40142,
+                                "kec_id": 3167,
+                                "kelu": "Girisekar",
+                                "pos": 55872
+                            },
+                            {
+                                "id": 40143,
+                                "kec_id": 3167,
+                                "kelu": "Girisuko",
+                                "pos": 55872
+                            },
+                            {
+                                "id": 40144,
+                                "kec_id": 3167,
+                                "kelu": "Giriwungu",
+                                "pos": 55872
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3168,
+                        "kabkot_id": 224,
+                        "kec": "Patuk",
+                        "kelurahan": [
+                            {
+                                "id": 40145,
+                                "kec_id": 3168,
+                                "kelu": "Beji",
+                                "pos": 55862
+                            },
+                            {
+                                "id": 40146,
+                                "kec_id": 3168,
+                                "kelu": "Bunder",
+                                "pos": 55862
+                            },
+                            {
+                                "id": 40147,
+                                "kec_id": 3168,
+                                "kelu": "Nglanggeran",
+                                "pos": 55862
+                            },
+                            {
+                                "id": 40148,
+                                "kec_id": 3168,
+                                "kelu": "Nglegi",
+                                "pos": 55862
+                            },
+                            {
+                                "id": 40149,
+                                "kec_id": 3168,
+                                "kelu": "Ngoro Oro",
+                                "pos": 55862
+                            },
+                            {
+                                "id": 40150,
+                                "kec_id": 3168,
+                                "kelu": "Patuk",
+                                "pos": 55862
+                            },
+                            {
+                                "id": 40151,
+                                "kec_id": 3168,
+                                "kelu": "Pengkok",
+                                "pos": 55862
+                            },
+                            {
+                                "id": 40152,
+                                "kec_id": 3168,
+                                "kelu": "Putat",
+                                "pos": 55862
+                            },
+                            {
+                                "id": 40153,
+                                "kec_id": 3168,
+                                "kelu": "Salam",
+                                "pos": 55862
+                            },
+                            {
+                                "id": 40154,
+                                "kec_id": 3168,
+                                "kelu": "Semoyo",
+                                "pos": 55862
+                            },
+                            {
+                                "id": 40155,
+                                "kec_id": 3168,
+                                "kelu": "Terbah",
+                                "pos": 55862
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3169,
+                        "kabkot_id": 224,
+                        "kec": "Playen",
+                        "kelurahan": [
+                            {
+                                "id": 40156,
+                                "kec_id": 3169,
+                                "kelu": "Banaran",
+                                "pos": 55861
+                            },
+                            {
+                                "id": 40157,
+                                "kec_id": 3169,
+                                "kelu": "Bandung",
+                                "pos": 55861
+                            },
+                            {
+                                "id": 40158,
+                                "kec_id": 3169,
+                                "kelu": "Banyusoco",
+                                "pos": 55861
+                            },
+                            {
+                                "id": 40159,
+                                "kec_id": 3169,
+                                "kelu": "Bleberan",
+                                "pos": 55861
+                            },
+                            {
+                                "id": 40160,
+                                "kec_id": 3169,
+                                "kelu": "Dengok",
+                                "pos": 55861
+                            },
+                            {
+                                "id": 40161,
+                                "kec_id": 3169,
+                                "kelu": "Gading",
+                                "pos": 55861
+                            },
+                            {
+                                "id": 40162,
+                                "kec_id": 3169,
+                                "kelu": "Getas",
+                                "pos": 55861
+                            },
+                            {
+                                "id": 40163,
+                                "kec_id": 3169,
+                                "kelu": "Logandeng",
+                                "pos": 55861
+                            },
+                            {
+                                "id": 40164,
+                                "kec_id": 3169,
+                                "kelu": "Ngawu",
+                                "pos": 55861
+                            },
+                            {
+                                "id": 40165,
+                                "kec_id": 3169,
+                                "kelu": "Ngleri",
+                                "pos": 55861
+                            },
+                            {
+                                "id": 40166,
+                                "kec_id": 3169,
+                                "kelu": "Ngunut",
+                                "pos": 55861
+                            },
+                            {
+                                "id": 40167,
+                                "kec_id": 3169,
+                                "kelu": "Playen",
+                                "pos": 55861
+                            },
+                            {
+                                "id": 40168,
+                                "kec_id": 3169,
+                                "kelu": "Plembutan",
+                                "pos": 55861
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3170,
+                        "kabkot_id": 224,
+                        "kec": "Ponjong",
+                        "kelurahan": [
+                            {
+                                "id": 40169,
+                                "kec_id": 3170,
+                                "kelu": "Bedoyo",
+                                "pos": 55892
+                            },
+                            {
+                                "id": 40170,
+                                "kec_id": 3170,
+                                "kelu": "Genjahan",
+                                "pos": 55892
+                            },
+                            {
+                                "id": 40171,
+                                "kec_id": 3170,
+                                "kelu": "Gombang",
+                                "pos": 55892
+                            },
+                            {
+                                "id": 40172,
+                                "kec_id": 3170,
+                                "kelu": "Karang Asem",
+                                "pos": 55892
+                            },
+                            {
+                                "id": 40173,
+                                "kec_id": 3170,
+                                "kelu": "Kenteng",
+                                "pos": 55892
+                            },
+                            {
+                                "id": 40174,
+                                "kec_id": 3170,
+                                "kelu": "Ponjong",
+                                "pos": 55892
+                            },
+                            {
+                                "id": 40175,
+                                "kec_id": 3170,
+                                "kelu": "Sawahan",
+                                "pos": 55892
+                            },
+                            {
+                                "id": 40176,
+                                "kec_id": 3170,
+                                "kelu": "Sidorejo",
+                                "pos": 55892
+                            },
+                            {
+                                "id": 40177,
+                                "kec_id": 3170,
+                                "kelu": "Sumber Giri",
+                                "pos": 55892
+                            },
+                            {
+                                "id": 40178,
+                                "kec_id": 3170,
+                                "kelu": "Tambakromo",
+                                "pos": 55892
+                            },
+                            {
+                                "id": 40179,
+                                "kec_id": 3170,
+                                "kelu": "Umbul Rejo",
+                                "pos": 55892
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3171,
+                        "kabkot_id": 224,
+                        "kec": "Purwosari",
+                        "kelurahan": [
+                            {
+                                "id": 40180,
+                                "kec_id": 3171,
+                                "kelu": "Giriasih",
+                                "pos": 55872
+                            },
+                            {
+                                "id": 40181,
+                                "kec_id": 3171,
+                                "kelu": "Giricahyo",
+                                "pos": 55872
+                            },
+                            {
+                                "id": 40182,
+                                "kec_id": 3171,
+                                "kelu": "Girijati",
+                                "pos": 55872
+                            },
+                            {
+                                "id": 40183,
+                                "kec_id": 3171,
+                                "kelu": "Giripurwo",
+                                "pos": 55872
+                            },
+                            {
+                                "id": 40184,
+                                "kec_id": 3171,
+                                "kelu": "Giritirto",
+                                "pos": 55872
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3172,
+                        "kabkot_id": 224,
+                        "kec": "Rongkop",
+                        "kelurahan": [
+                            {
+                                "id": 40185,
+                                "kec_id": 3172,
+                                "kelu": "Bohol",
+                                "pos": 55883
+                            },
+                            {
+                                "id": 40186,
+                                "kec_id": 3172,
+                                "kelu": "Botodayakan (Botodayaan)",
+                                "pos": 55883
+                            },
+                            {
+                                "id": 40187,
+                                "kec_id": 3172,
+                                "kelu": "Karangwuni",
+                                "pos": 55883
+                            },
+                            {
+                                "id": 40188,
+                                "kec_id": 3172,
+                                "kelu": "Melikan",
+                                "pos": 55883
+                            },
+                            {
+                                "id": 40189,
+                                "kec_id": 3172,
+                                "kelu": "Petir",
+                                "pos": 55883
+                            },
+                            {
+                                "id": 40190,
+                                "kec_id": 3172,
+                                "kelu": "Pringombo",
+                                "pos": 55883
+                            },
+                            {
+                                "id": 40191,
+                                "kec_id": 3172,
+                                "kelu": "Pucanganom",
+                                "pos": 55883
+                            },
+                            {
+                                "id": 40192,
+                                "kec_id": 3172,
+                                "kelu": "Semugih",
+                                "pos": 55883
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3173,
+                        "kabkot_id": 224,
+                        "kec": "Sapto Sari",
+                        "kelurahan": [
+                            {
+                                "id": 40193,
+                                "kec_id": 3173,
+                                "kelu": "Jetis",
+                                "pos": 55871
+                            },
+                            {
+                                "id": 40194,
+                                "kec_id": 3173,
+                                "kelu": "Kanigoro",
+                                "pos": 55871
+                            },
+                            {
+                                "id": 40195,
+                                "kec_id": 3173,
+                                "kelu": "Kepek",
+                                "pos": 55871
+                            },
+                            {
+                                "id": 40196,
+                                "kec_id": 3173,
+                                "kelu": "Krambil Sawit",
+                                "pos": 55871
+                            },
+                            {
+                                "id": 40197,
+                                "kec_id": 3173,
+                                "kelu": "Monggol",
+                                "pos": 55871
+                            },
+                            {
+                                "id": 40198,
+                                "kec_id": 3173,
+                                "kelu": "Nglora",
+                                "pos": 55871
+                            },
+                            {
+                                "id": 40199,
+                                "kec_id": 3173,
+                                "kelu": "Planjan",
+                                "pos": 55871
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3174,
+                        "kabkot_id": 224,
+                        "kec": "Semanu",
+                        "kelurahan": [
+                            {
+                                "id": 40200,
+                                "kec_id": 3174,
+                                "kelu": "Candirejo",
+                                "pos": 55893
+                            },
+                            {
+                                "id": 40201,
+                                "kec_id": 3174,
+                                "kelu": "Dadapayu",
+                                "pos": 55893
+                            },
+                            {
+                                "id": 40202,
+                                "kec_id": 3174,
+                                "kelu": "Ngeposari",
+                                "pos": 55893
+                            },
+                            {
+                                "id": 40203,
+                                "kec_id": 3174,
+                                "kelu": "Pacarejo",
+                                "pos": 55893
+                            },
+                            {
+                                "id": 40204,
+                                "kec_id": 3174,
+                                "kelu": "Semanu",
+                                "pos": 55893
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3175,
+                        "kabkot_id": 224,
+                        "kec": "Semin",
+                        "kelurahan": [
+                            {
+                                "id": 40205,
+                                "kec_id": 3175,
+                                "kelu": "Bendung",
+                                "pos": 55854
+                            },
+                            {
+                                "id": 40206,
+                                "kec_id": 3175,
+                                "kelu": "Bulurejo",
+                                "pos": 55854
+                            },
+                            {
+                                "id": 40207,
+                                "kec_id": 3175,
+                                "kelu": "Candi Rejo",
+                                "pos": 55854
+                            },
+                            {
+                                "id": 40208,
+                                "kec_id": 3175,
+                                "kelu": "Kalitekuk",
+                                "pos": 55854
+                            },
+                            {
+                                "id": 40209,
+                                "kec_id": 3175,
+                                "kelu": "Karang Sari",
+                                "pos": 55854
+                            },
+                            {
+                                "id": 40210,
+                                "kec_id": 3175,
+                                "kelu": "Kemejing",
+                                "pos": 55854
+                            },
+                            {
+                                "id": 40211,
+                                "kec_id": 3175,
+                                "kelu": "Pundung Sari",
+                                "pos": 55854
+                            },
+                            {
+                                "id": 40212,
+                                "kec_id": 3175,
+                                "kelu": "Rejosari",
+                                "pos": 55854
+                            },
+                            {
+                                "id": 40213,
+                                "kec_id": 3175,
+                                "kelu": "Semin",
+                                "pos": 55854
+                            },
+                            {
+                                "id": 40214,
+                                "kec_id": 3175,
+                                "kelu": "Sumberrejo",
+                                "pos": 55854
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3176,
+                        "kabkot_id": 224,
+                        "kec": "Tanjungsari",
+                        "kelurahan": [
+                            {
+                                "id": 40215,
+                                "kec_id": 3176,
+                                "kelu": "Banjarejo",
+                                "pos": 55881
+                            },
+                            {
+                                "id": 40216,
+                                "kec_id": 3176,
+                                "kelu": "Hargosari",
+                                "pos": 55881
+                            },
+                            {
+                                "id": 40217,
+                                "kec_id": 3176,
+                                "kelu": "Kemadang",
+                                "pos": 55881
+                            },
+                            {
+                                "id": 40218,
+                                "kec_id": 3176,
+                                "kelu": "Kemiri",
+                                "pos": 55881
+                            },
+                            {
+                                "id": 40219,
+                                "kec_id": 3176,
+                                "kelu": "Ngestirejo",
+                                "pos": 55881
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3177,
+                        "kabkot_id": 224,
+                        "kec": "Tepus",
+                        "kelurahan": [
+                            {
+                                "id": 40220,
+                                "kec_id": 3177,
+                                "kelu": "Giripanggung",
+                                "pos": 55881
+                            },
+                            {
+                                "id": 40221,
+                                "kec_id": 3177,
+                                "kelu": "Purwodadi",
+                                "pos": 55881
+                            },
+                            {
+                                "id": 40222,
+                                "kec_id": 3177,
+                                "kelu": "Sidoharjo",
+                                "pos": 55881
+                            },
+                            {
+                                "id": 40223,
+                                "kec_id": 3177,
+                                "kelu": "Sumber Wungu",
+                                "pos": 55881
+                            },
+                            {
+                                "id": 40224,
+                                "kec_id": 3177,
+                                "kelu": "Tepus",
+                                "pos": 55881
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3178,
+                        "kabkot_id": 224,
+                        "kec": "Wonosari",
+                        "kelurahan": [
+                            {
+                                "id": 40225,
+                                "kec_id": 3178,
+                                "kelu": "Baleharjo",
+                                "pos": 55811
+                            },
+                            {
+                                "id": 40226,
+                                "kec_id": 3178,
+                                "kelu": "Duwet",
+                                "pos": 55851
+                            },
+                            {
+                                "id": 40227,
+                                "kec_id": 3178,
+                                "kelu": "Gari",
+                                "pos": 55851
+                            },
+                            {
+                                "id": 40228,
+                                "kec_id": 3178,
+                                "kelu": "Karang Rejek",
+                                "pos": 55851
+                            },
+                            {
+                                "id": 40229,
+                                "kec_id": 3178,
+                                "kelu": "Karang Tengah",
+                                "pos": 55851
+                            },
+                            {
+                                "id": 40230,
+                                "kec_id": 3178,
+                                "kelu": "Kepek",
+                                "pos": 55813
+                            },
+                            {
+                                "id": 40231,
+                                "kec_id": 3178,
+                                "kelu": "Mulo",
+                                "pos": 55851
+                            },
+                            {
+                                "id": 40232,
+                                "kec_id": 3178,
+                                "kelu": "Piyaman",
+                                "pos": 55851
+                            },
+                            {
+                                "id": 40233,
+                                "kec_id": 3178,
+                                "kelu": "Pulutan",
+                                "pos": 55851
+                            },
+                            {
+                                "id": 40234,
+                                "kec_id": 3178,
+                                "kelu": "Selang",
+                                "pos": 55851
+                            },
+                            {
+                                "id": 40235,
+                                "kec_id": 3178,
+                                "kelu": "Siraman",
+                                "pos": 55851
+                            },
+                            {
+                                "id": 40236,
+                                "kec_id": 3178,
+                                "kelu": "Wareng",
+                                "pos": 55851
+                            },
+                            {
+                                "id": 40237,
+                                "kec_id": 3178,
+                                "kelu": "Wonosari",
+                                "pos": 55851
+                            },
+                            {
+                                "id": 40238,
+                                "kec_id": 3178,
+                                "kelu": "Wunung",
+                                "pos": 55851
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 225,
+                "prov_id": 14,
+                "kab_kota": "Kabupaten Kulon Progo",
+                "ibukota": "Wates",
+                "k_bsni": "WAT",
+                "kecamatan": [
+                    {
+                        "id": 3179,
+                        "kabkot_id": 225,
+                        "kec": "Galur",
+                        "kelurahan": [
+                            {
+                                "id": 40239,
+                                "kec_id": 3179,
+                                "kelu": "Banaran",
+                                "pos": 55661
+                            },
+                            {
+                                "id": 40240,
+                                "kec_id": 3179,
+                                "kelu": "Brosot",
+                                "pos": 55661
+                            },
+                            {
+                                "id": 40241,
+                                "kec_id": 3179,
+                                "kelu": "Karang Sewu",
+                                "pos": 55661
+                            },
+                            {
+                                "id": 40242,
+                                "kec_id": 3179,
+                                "kelu": "Kranggan",
+                                "pos": 55661
+                            },
+                            {
+                                "id": 40243,
+                                "kec_id": 3179,
+                                "kelu": "Nomporejo",
+                                "pos": 55661
+                            },
+                            {
+                                "id": 40244,
+                                "kec_id": 3179,
+                                "kelu": "Pandowan",
+                                "pos": 55661
+                            },
+                            {
+                                "id": 40245,
+                                "kec_id": 3179,
+                                "kelu": "Tirta Rahayu",
+                                "pos": 55661
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3180,
+                        "kabkot_id": 225,
+                        "kec": "Girimulyo",
+                        "kelurahan": [
+                            {
+                                "id": 40246,
+                                "kec_id": 3180,
+                                "kelu": "Giripurwo",
+                                "pos": 55674
+                            },
+                            {
+                                "id": 40247,
+                                "kec_id": 3180,
+                                "kelu": "Jatimulyo",
+                                "pos": 55674
+                            },
+                            {
+                                "id": 40248,
+                                "kec_id": 3180,
+                                "kelu": "Pendoworejo",
+                                "pos": 55674
+                            },
+                            {
+                                "id": 40249,
+                                "kec_id": 3180,
+                                "kelu": "Purwosari",
+                                "pos": 55674
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3181,
+                        "kabkot_id": 225,
+                        "kec": "Kalibawang",
+                        "kelurahan": [
+                            {
+                                "id": 40250,
+                                "kec_id": 3181,
+                                "kelu": "Banjararum",
+                                "pos": 55672
+                            },
+                            {
+                                "id": 40251,
+                                "kec_id": 3181,
+                                "kelu": "Banjarasri",
+                                "pos": 55672
+                            },
+                            {
+                                "id": 40252,
+                                "kec_id": 3181,
+                                "kelu": "Banjarharjo",
+                                "pos": 55672
+                            },
+                            {
+                                "id": 40253,
+                                "kec_id": 3181,
+                                "kelu": "Banjaroyo",
+                                "pos": 55672
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3182,
+                        "kabkot_id": 225,
+                        "kec": "Kokap",
+                        "kelurahan": [
+                            {
+                                "id": 40254,
+                                "kec_id": 3182,
+                                "kelu": "Hargomulyo",
+                                "pos": 55653
+                            },
+                            {
+                                "id": 40255,
+                                "kec_id": 3182,
+                                "kelu": "Hargorejo",
+                                "pos": 55653
+                            },
+                            {
+                                "id": 40256,
+                                "kec_id": 3182,
+                                "kelu": "Hargotirto",
+                                "pos": 55653
+                            },
+                            {
+                                "id": 40257,
+                                "kec_id": 3182,
+                                "kelu": "Hargowilis",
+                                "pos": 55653
+                            },
+                            {
+                                "id": 40258,
+                                "kec_id": 3182,
+                                "kelu": "Kalirejo",
+                                "pos": 55653
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3183,
+                        "kabkot_id": 225,
+                        "kec": "Lendah",
+                        "kelurahan": [
+                            {
+                                "id": 40259,
+                                "kec_id": 3183,
+                                "kelu": "Bumirejo",
+                                "pos": 55663
+                            },
+                            {
+                                "id": 40260,
+                                "kec_id": 3183,
+                                "kelu": "Gulurejo",
+                                "pos": 55663
+                            },
+                            {
+                                "id": 40261,
+                                "kec_id": 3183,
+                                "kelu": "Jatirejo",
+                                "pos": 55663
+                            },
+                            {
+                                "id": 40262,
+                                "kec_id": 3183,
+                                "kelu": "Ngentakrejo",
+                                "pos": 55663
+                            },
+                            {
+                                "id": 40263,
+                                "kec_id": 3183,
+                                "kelu": "Sidorejo",
+                                "pos": 55663
+                            },
+                            {
+                                "id": 40264,
+                                "kec_id": 3183,
+                                "kelu": "Wahyuharjo",
+                                "pos": 55663
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3184,
+                        "kabkot_id": 225,
+                        "kec": "Nanggulan",
+                        "kelurahan": [
+                            {
+                                "id": 40265,
+                                "kec_id": 3184,
+                                "kelu": "Banyuroto",
+                                "pos": 55671
+                            },
+                            {
+                                "id": 40266,
+                                "kec_id": 3184,
+                                "kelu": "Donomulyo",
+                                "pos": 55671
+                            },
+                            {
+                                "id": 40267,
+                                "kec_id": 3184,
+                                "kelu": "Jati Sarono",
+                                "pos": 55671
+                            },
+                            {
+                                "id": 40268,
+                                "kec_id": 3184,
+                                "kelu": "Kembang",
+                                "pos": 55671
+                            },
+                            {
+                                "id": 40269,
+                                "kec_id": 3184,
+                                "kelu": "Tanjungharjo",
+                                "pos": 55671
+                            },
+                            {
+                                "id": 40270,
+                                "kec_id": 3184,
+                                "kelu": "Wijimulyo",
+                                "pos": 55671
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3185,
+                        "kabkot_id": 225,
+                        "kec": "Panjatan",
+                        "kelurahan": [
+                            {
+                                "id": 40271,
+                                "kec_id": 3185,
+                                "kelu": "Bojong",
+                                "pos": 55655
+                            },
+                            {
+                                "id": 40272,
+                                "kec_id": 3185,
+                                "kelu": "Bugel",
+                                "pos": 55655
+                            },
+                            {
+                                "id": 40273,
+                                "kec_id": 3185,
+                                "kelu": "Cerme",
+                                "pos": 55655
+                            },
+                            {
+                                "id": 40274,
+                                "kec_id": 3185,
+                                "kelu": "Depok",
+                                "pos": 55655
+                            },
+                            {
+                                "id": 40275,
+                                "kec_id": 3185,
+                                "kelu": "Garongan",
+                                "pos": 55655
+                            },
+                            {
+                                "id": 40276,
+                                "kec_id": 3185,
+                                "kelu": "Gotakan",
+                                "pos": 55655
+                            },
+                            {
+                                "id": 40277,
+                                "kec_id": 3185,
+                                "kelu": "Kanoman",
+                                "pos": 55655
+                            },
+                            {
+                                "id": 40278,
+                                "kec_id": 3185,
+                                "kelu": "Krembangan",
+                                "pos": 55655
+                            },
+                            {
+                                "id": 40279,
+                                "kec_id": 3185,
+                                "kelu": "Panjatan",
+                                "pos": 55655
+                            },
+                            {
+                                "id": 40280,
+                                "kec_id": 3185,
+                                "kelu": "Pleret",
+                                "pos": 55655
+                            },
+                            {
+                                "id": 40281,
+                                "kec_id": 3185,
+                                "kelu": "Tayuban",
+                                "pos": 55655
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3186,
+                        "kabkot_id": 225,
+                        "kec": "Pengasih",
+                        "kelurahan": [
+                            {
+                                "id": 40282,
+                                "kec_id": 3186,
+                                "kelu": "Karangsari",
+                                "pos": 55652
+                            },
+                            {
+                                "id": 40283,
+                                "kec_id": 3186,
+                                "kelu": "Kedungsari",
+                                "pos": 55652
+                            },
+                            {
+                                "id": 40284,
+                                "kec_id": 3186,
+                                "kelu": "Margosari",
+                                "pos": 55652
+                            },
+                            {
+                                "id": 40285,
+                                "kec_id": 3186,
+                                "kelu": "Pengasih",
+                                "pos": 55652
+                            },
+                            {
+                                "id": 40286,
+                                "kec_id": 3186,
+                                "kelu": "Sendangsari",
+                                "pos": 55652
+                            },
+                            {
+                                "id": 40287,
+                                "kec_id": 3186,
+                                "kelu": "Sidomulyo",
+                                "pos": 55652
+                            },
+                            {
+                                "id": 40288,
+                                "kec_id": 3186,
+                                "kelu": "Tawangsari",
+                                "pos": 55652
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3187,
+                        "kabkot_id": 225,
+                        "kec": "Samigaluh",
+                        "kelurahan": [
+                            {
+                                "id": 40289,
+                                "kec_id": 3187,
+                                "kelu": "Banjarsari",
+                                "pos": 55673
+                            },
+                            {
+                                "id": 40290,
+                                "kec_id": 3187,
+                                "kelu": "Gerbosari",
+                                "pos": 55673
+                            },
+                            {
+                                "id": 40291,
+                                "kec_id": 3187,
+                                "kelu": "Kebon Harjo",
+                                "pos": 55673
+                            },
+                            {
+                                "id": 40292,
+                                "kec_id": 3187,
+                                "kelu": "Ngargosari",
+                                "pos": 55673
+                            },
+                            {
+                                "id": 40293,
+                                "kec_id": 3187,
+                                "kelu": "Pagerharjo",
+                                "pos": 55673
+                            },
+                            {
+                                "id": 40294,
+                                "kec_id": 3187,
+                                "kelu": "Purwoharjo",
+                                "pos": 55673
+                            },
+                            {
+                                "id": 40295,
+                                "kec_id": 3187,
+                                "kelu": "Sidoharjo",
+                                "pos": 55673
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3188,
+                        "kabkot_id": 225,
+                        "kec": "Sentolo",
+                        "kelurahan": [
+                            {
+                                "id": 40296,
+                                "kec_id": 3188,
+                                "kelu": "Banguncipto",
+                                "pos": 55664
+                            },
+                            {
+                                "id": 40297,
+                                "kec_id": 3188,
+                                "kelu": "Demangrejo",
+                                "pos": 55664
+                            },
+                            {
+                                "id": 40298,
+                                "kec_id": 3188,
+                                "kelu": "Kaliagung",
+                                "pos": 55664
+                            },
+                            {
+                                "id": 40299,
+                                "kec_id": 3188,
+                                "kelu": "Salamrejo",
+                                "pos": 55664
+                            },
+                            {
+                                "id": 40300,
+                                "kec_id": 3188,
+                                "kelu": "Sentolo",
+                                "pos": 55664
+                            },
+                            {
+                                "id": 40301,
+                                "kec_id": 3188,
+                                "kelu": "Srikayangan",
+                                "pos": 55664
+                            },
+                            {
+                                "id": 40302,
+                                "kec_id": 3188,
+                                "kelu": "Sukoreno",
+                                "pos": 55664
+                            },
+                            {
+                                "id": 40303,
+                                "kec_id": 3188,
+                                "kelu": "Tuksono",
+                                "pos": 55664
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3189,
+                        "kabkot_id": 225,
+                        "kec": "Temon",
+                        "kelurahan": [
+                            {
+                                "id": 40304,
+                                "kec_id": 3189,
+                                "kelu": "Demen",
+                                "pos": 55654
+                            },
+                            {
+                                "id": 40305,
+                                "kec_id": 3189,
+                                "kelu": "Glagah",
+                                "pos": 55654
+                            },
+                            {
+                                "id": 40306,
+                                "kec_id": 3189,
+                                "kelu": "Jangkaran",
+                                "pos": 55654
+                            },
+                            {
+                                "id": 40307,
+                                "kec_id": 3189,
+                                "kelu": "Janten",
+                                "pos": 55654
+                            },
+                            {
+                                "id": 40308,
+                                "kec_id": 3189,
+                                "kelu": "Kali Dengen",
+                                "pos": 55654
+                            },
+                            {
+                                "id": 40309,
+                                "kec_id": 3189,
+                                "kelu": "Kaligintung",
+                                "pos": 55654
+                            },
+                            {
+                                "id": 40310,
+                                "kec_id": 3189,
+                                "kelu": "Karang Wuluh",
+                                "pos": 55654
+                            },
+                            {
+                                "id": 40311,
+                                "kec_id": 3189,
+                                "kelu": "Kebonrejo",
+                                "pos": 55654
+                            },
+                            {
+                                "id": 40312,
+                                "kec_id": 3189,
+                                "kelu": "Kedundang",
+                                "pos": 55654
+                            },
+                            {
+                                "id": 40313,
+                                "kec_id": 3189,
+                                "kelu": "Kulur",
+                                "pos": 55654
+                            },
+                            {
+                                "id": 40314,
+                                "kec_id": 3189,
+                                "kelu": "Palihan",
+                                "pos": 55654
+                            },
+                            {
+                                "id": 40315,
+                                "kec_id": 3189,
+                                "kelu": "Plumbon",
+                                "pos": 55654
+                            },
+                            {
+                                "id": 40316,
+                                "kec_id": 3189,
+                                "kelu": "Sindutan",
+                                "pos": 55654
+                            },
+                            {
+                                "id": 40317,
+                                "kec_id": 3189,
+                                "kelu": "Temon Kulon",
+                                "pos": 55654
+                            },
+                            {
+                                "id": 40318,
+                                "kec_id": 3189,
+                                "kelu": "Temon Wetan",
+                                "pos": 55654
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3190,
+                        "kabkot_id": 225,
+                        "kec": "Wates",
+                        "kelurahan": [
+                            {
+                                "id": 40319,
+                                "kec_id": 3190,
+                                "kelu": "Bendungan",
+                                "pos": 55651
+                            },
+                            {
+                                "id": 40320,
+                                "kec_id": 3190,
+                                "kelu": "Giri Peni",
+                                "pos": 55651
+                            },
+                            {
+                                "id": 40321,
+                                "kec_id": 3190,
+                                "kelu": "Karang Wuni",
+                                "pos": 55651
+                            },
+                            {
+                                "id": 40322,
+                                "kec_id": 3190,
+                                "kelu": "Kulwaru",
+                                "pos": 55651
+                            },
+                            {
+                                "id": 40323,
+                                "kec_id": 3190,
+                                "kelu": "Ngestiharjo",
+                                "pos": 55651
+                            },
+                            {
+                                "id": 40324,
+                                "kec_id": 3190,
+                                "kelu": "Sogan",
+                                "pos": 55651
+                            },
+                            {
+                                "id": 40325,
+                                "kec_id": 3190,
+                                "kelu": "Triharjo",
+                                "pos": 55651
+                            },
+                            {
+                                "id": 40326,
+                                "kec_id": 3190,
+                                "kelu": "Wates",
+                                "pos": 55651
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 226,
+                "prov_id": 14,
+                "kab_kota": "Kabupaten Sleman",
+                "ibukota": "Sleman",
+                "k_bsni": "SMN",
+                "kecamatan": [
+                    {
+                        "id": 3191,
+                        "kabkot_id": 226,
+                        "kec": "Berbah",
+                        "kelurahan": [
+                            {
+                                "id": 40327,
+                                "kec_id": 3191,
+                                "kelu": "Jogo Tirto",
+                                "pos": 55573
+                            },
+                            {
+                                "id": 40328,
+                                "kec_id": 3191,
+                                "kelu": "Kali Tirto",
+                                "pos": 55573
+                            },
+                            {
+                                "id": 40329,
+                                "kec_id": 3191,
+                                "kelu": "Sendang Tirto",
+                                "pos": 55573
+                            },
+                            {
+                                "id": 40330,
+                                "kec_id": 3191,
+                                "kelu": "Tegal Tirto",
+                                "pos": 55573
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3192,
+                        "kabkot_id": 226,
+                        "kec": "Cangkringan",
+                        "kelurahan": [
+                            {
+                                "id": 40331,
+                                "kec_id": 3192,
+                                "kelu": "Argo Mulyo",
+                                "pos": 55583
+                            },
+                            {
+                                "id": 40332,
+                                "kec_id": 3192,
+                                "kelu": "Glagah Harjo",
+                                "pos": 55583
+                            },
+                            {
+                                "id": 40333,
+                                "kec_id": 3192,
+                                "kelu": "Kepuh Harjo",
+                                "pos": 55583
+                            },
+                            {
+                                "id": 40334,
+                                "kec_id": 3192,
+                                "kelu": "Umbul Harjo",
+                                "pos": 55583
+                            },
+                            {
+                                "id": 40335,
+                                "kec_id": 3192,
+                                "kelu": "Wukir Sari",
+                                "pos": 55583
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3193,
+                        "kabkot_id": 226,
+                        "kec": "Depok",
+                        "kelurahan": [
+                            {
+                                "id": 40336,
+                                "kec_id": 3193,
+                                "kelu": "Catur Tunggal",
+                                "pos": 55281
+                            },
+                            {
+                                "id": 40337,
+                                "kec_id": 3193,
+                                "kelu": "Condong Catur",
+                                "pos": 55283
+                            },
+                            {
+                                "id": 40338,
+                                "kec_id": 3193,
+                                "kelu": "Maguwoharjo",
+                                "pos": 55282
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3194,
+                        "kabkot_id": 226,
+                        "kec": "Gamping",
+                        "kelurahan": [
+                            {
+                                "id": 40339,
+                                "kec_id": 3194,
+                                "kelu": "Ambarketawang",
+                                "pos": 55294
+                            },
+                            {
+                                "id": 40340,
+                                "kec_id": 3194,
+                                "kelu": "Balecatur",
+                                "pos": 55295
+                            },
+                            {
+                                "id": 40341,
+                                "kec_id": 3194,
+                                "kelu": "Banyuraden",
+                                "pos": 55293
+                            },
+                            {
+                                "id": 40342,
+                                "kec_id": 3194,
+                                "kelu": "Nogotirto",
+                                "pos": 55592
+                            },
+                            {
+                                "id": 40343,
+                                "kec_id": 3194,
+                                "kelu": "Trihanggo",
+                                "pos": 55291
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3195,
+                        "kabkot_id": 226,
+                        "kec": "Godean",
+                        "kelurahan": [
+                            {
+                                "id": 40344,
+                                "kec_id": 3195,
+                                "kelu": "Sidoagung",
+                                "pos": 55264
+                            },
+                            {
+                                "id": 40345,
+                                "kec_id": 3195,
+                                "kelu": "Sidoarum",
+                                "pos": 55264
+                            },
+                            {
+                                "id": 40346,
+                                "kec_id": 3195,
+                                "kelu": "Sidokarto",
+                                "pos": 55264
+                            },
+                            {
+                                "id": 40347,
+                                "kec_id": 3195,
+                                "kelu": "Sidoluhur",
+                                "pos": 55264
+                            },
+                            {
+                                "id": 40348,
+                                "kec_id": 3195,
+                                "kelu": "Sidomoyo",
+                                "pos": 55264
+                            },
+                            {
+                                "id": 40349,
+                                "kec_id": 3195,
+                                "kelu": "Sidomulyo",
+                                "pos": 55264
+                            },
+                            {
+                                "id": 40350,
+                                "kec_id": 3195,
+                                "kelu": "Sidorejo",
+                                "pos": 55264
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3196,
+                        "kabkot_id": 226,
+                        "kec": "Kalasan",
+                        "kelurahan": [
+                            {
+                                "id": 40351,
+                                "kec_id": 3196,
+                                "kelu": "Purwo Martani",
+                                "pos": 55571
+                            },
+                            {
+                                "id": 40352,
+                                "kec_id": 3196,
+                                "kelu": "Selo Martani",
+                                "pos": 55571
+                            },
+                            {
+                                "id": 40353,
+                                "kec_id": 3196,
+                                "kelu": "Taman Martani",
+                                "pos": 55571
+                            },
+                            {
+                                "id": 40354,
+                                "kec_id": 3196,
+                                "kelu": "Tirto Martani",
+                                "pos": 55571
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3197,
+                        "kabkot_id": 226,
+                        "kec": "Minggir",
+                        "kelurahan": [
+                            {
+                                "id": 40355,
+                                "kec_id": 3197,
+                                "kelu": "Sendang Arum",
+                                "pos": 55562
+                            },
+                            {
+                                "id": 40356,
+                                "kec_id": 3197,
+                                "kelu": "Sendang Mulyo",
+                                "pos": 55562
+                            },
+                            {
+                                "id": 40357,
+                                "kec_id": 3197,
+                                "kelu": "Sendang Rejo",
+                                "pos": 55562
+                            },
+                            {
+                                "id": 40358,
+                                "kec_id": 3197,
+                                "kelu": "Sendangagung",
+                                "pos": 55562
+                            },
+                            {
+                                "id": 40359,
+                                "kec_id": 3197,
+                                "kelu": "Sendangsari",
+                                "pos": 55562
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3198,
+                        "kabkot_id": 226,
+                        "kec": "Mlati",
+                        "kelurahan": [
+                            {
+                                "id": 40360,
+                                "kec_id": 3198,
+                                "kelu": "Sendangadi",
+                                "pos": 55285
+                            },
+                            {
+                                "id": 40361,
+                                "kec_id": 3198,
+                                "kelu": "Sinduadi",
+                                "pos": 55284
+                            },
+                            {
+                                "id": 40362,
+                                "kec_id": 3198,
+                                "kelu": "Sumberadi",
+                                "pos": 55288
+                            },
+                            {
+                                "id": 40363,
+                                "kec_id": 3198,
+                                "kelu": "Tirtoadi",
+                                "pos": 55287
+                            },
+                            {
+                                "id": 40364,
+                                "kec_id": 3198,
+                                "kelu": "Tlogoadi",
+                                "pos": 55286
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3199,
+                        "kabkot_id": 226,
+                        "kec": "Moyudan",
+                        "kelurahan": [
+                            {
+                                "id": 40365,
+                                "kec_id": 3199,
+                                "kelu": "Sumber Agung",
+                                "pos": 55563
+                            },
+                            {
+                                "id": 40366,
+                                "kec_id": 3199,
+                                "kelu": "Sumberarum",
+                                "pos": 55563
+                            },
+                            {
+                                "id": 40367,
+                                "kec_id": 3199,
+                                "kelu": "Sumberrahayu",
+                                "pos": 55563
+                            },
+                            {
+                                "id": 40368,
+                                "kec_id": 3199,
+                                "kelu": "Sumbersari",
+                                "pos": 55563
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3200,
+                        "kabkot_id": 226,
+                        "kec": "Ngaglik",
+                        "kelurahan": [
+                            {
+                                "id": 40369,
+                                "kec_id": 3200,
+                                "kelu": "Donoharjo",
+                                "pos": 55581
+                            },
+                            {
+                                "id": 40370,
+                                "kec_id": 3200,
+                                "kelu": "Minomartani",
+                                "pos": 55581
+                            },
+                            {
+                                "id": 40371,
+                                "kec_id": 3200,
+                                "kelu": "Sardonoharjo",
+                                "pos": 55581
+                            },
+                            {
+                                "id": 40372,
+                                "kec_id": 3200,
+                                "kelu": "Sari Harjo",
+                                "pos": 55581
+                            },
+                            {
+                                "id": 40373,
+                                "kec_id": 3200,
+                                "kelu": "Sinduharjo",
+                                "pos": 55581
+                            },
+                            {
+                                "id": 40374,
+                                "kec_id": 3200,
+                                "kelu": "Suko Harjo",
+                                "pos": 55581
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3201,
+                        "kabkot_id": 226,
+                        "kec": "Ngemplak",
+                        "kelurahan": [
+                            {
+                                "id": 40375,
+                                "kec_id": 3201,
+                                "kelu": "Bimo Martani",
+                                "pos": 55584
+                            },
+                            {
+                                "id": 40376,
+                                "kec_id": 3201,
+                                "kelu": "Sindumartani",
+                                "pos": 55584
+                            },
+                            {
+                                "id": 40377,
+                                "kec_id": 3201,
+                                "kelu": "Umbulmartani",
+                                "pos": 55584
+                            },
+                            {
+                                "id": 40378,
+                                "kec_id": 3201,
+                                "kelu": "Wedomartani",
+                                "pos": 55584
+                            },
+                            {
+                                "id": 40379,
+                                "kec_id": 3201,
+                                "kelu": "Widodo Martani",
+                                "pos": 55584
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3202,
+                        "kabkot_id": 226,
+                        "kec": "Pakem",
+                        "kelurahan": [
+                            {
+                                "id": 40380,
+                                "kec_id": 3202,
+                                "kelu": "Candi Binangun",
+                                "pos": 55582
+                            },
+                            {
+                                "id": 40381,
+                                "kec_id": 3202,
+                                "kelu": "Hargo Binangun",
+                                "pos": 55582
+                            },
+                            {
+                                "id": 40382,
+                                "kec_id": 3202,
+                                "kelu": "Harjo Binangun",
+                                "pos": 55582
+                            },
+                            {
+                                "id": 40383,
+                                "kec_id": 3202,
+                                "kelu": "Pakem Binangun",
+                                "pos": 55582
+                            },
+                            {
+                                "id": 40384,
+                                "kec_id": 3202,
+                                "kelu": "Purwo Binangun",
+                                "pos": 55582
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3203,
+                        "kabkot_id": 226,
+                        "kec": "Prambanan",
+                        "kelurahan": [
+                            {
+                                "id": 40385,
+                                "kec_id": 3203,
+                                "kelu": "Boko Harjo",
+                                "pos": 55572
+                            },
+                            {
+                                "id": 40386,
+                                "kec_id": 3203,
+                                "kelu": "Gayam Harjo",
+                                "pos": 55572
+                            },
+                            {
+                                "id": 40387,
+                                "kec_id": 3203,
+                                "kelu": "Madu Rejo",
+                                "pos": 55572
+                            },
+                            {
+                                "id": 40388,
+                                "kec_id": 3203,
+                                "kelu": "Sambi Rejo",
+                                "pos": 55572
+                            },
+                            {
+                                "id": 40389,
+                                "kec_id": 3203,
+                                "kelu": "Sumber Harjo",
+                                "pos": 55572
+                            },
+                            {
+                                "id": 40390,
+                                "kec_id": 3203,
+                                "kelu": "Wukir Harjo",
+                                "pos": 55572
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3204,
+                        "kabkot_id": 226,
+                        "kec": "Seyegan",
+                        "kelurahan": [
+                            {
+                                "id": 40391,
+                                "kec_id": 3204,
+                                "kelu": "Margoagung",
+                                "pos": 55561
+                            },
+                            {
+                                "id": 40392,
+                                "kec_id": 3204,
+                                "kelu": "Margodadi",
+                                "pos": 55561
+                            },
+                            {
+                                "id": 40393,
+                                "kec_id": 3204,
+                                "kelu": "Margokaton",
+                                "pos": 55561
+                            },
+                            {
+                                "id": 40394,
+                                "kec_id": 3204,
+                                "kelu": "Margoluwih",
+                                "pos": 55561
+                            },
+                            {
+                                "id": 40395,
+                                "kec_id": 3204,
+                                "kelu": "Margomulyo",
+                                "pos": 55561
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3205,
+                        "kabkot_id": 226,
+                        "kec": "Sleman",
+                        "kelurahan": [
+                            {
+                                "id": 40396,
+                                "kec_id": 3205,
+                                "kelu": "Catur Harjo",
+                                "pos": 55515
+                            },
+                            {
+                                "id": 40397,
+                                "kec_id": 3205,
+                                "kelu": "Pandowo Harjo",
+                                "pos": 55512
+                            },
+                            {
+                                "id": 40398,
+                                "kec_id": 3205,
+                                "kelu": "Tri Mulyo",
+                                "pos": 55513
+                            },
+                            {
+                                "id": 40399,
+                                "kec_id": 3205,
+                                "kelu": "Tridadi",
+                                "pos": 55511
+                            },
+                            {
+                                "id": 40400,
+                                "kec_id": 3205,
+                                "kelu": "Triharjo",
+                                "pos": 55514
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3206,
+                        "kabkot_id": 226,
+                        "kec": "Tempel",
+                        "kelurahan": [
+                            {
+                                "id": 40401,
+                                "kec_id": 3206,
+                                "kelu": "Banyu Rejo",
+                                "pos": 55552
+                            },
+                            {
+                                "id": 40402,
+                                "kec_id": 3206,
+                                "kelu": "Lumbung Rejo",
+                                "pos": 55552
+                            },
+                            {
+                                "id": 40403,
+                                "kec_id": 3206,
+                                "kelu": "Margo Rejo",
+                                "pos": 55552
+                            },
+                            {
+                                "id": 40404,
+                                "kec_id": 3206,
+                                "kelu": "Merdiko Rejo",
+                                "pos": 55552
+                            },
+                            {
+                                "id": 40405,
+                                "kec_id": 3206,
+                                "kelu": "Moro Rejo",
+                                "pos": 55552
+                            },
+                            {
+                                "id": 40406,
+                                "kec_id": 3206,
+                                "kelu": "Pondok Rejo",
+                                "pos": 55552
+                            },
+                            {
+                                "id": 40407,
+                                "kec_id": 3206,
+                                "kelu": "Sumber Rejo",
+                                "pos": 55552
+                            },
+                            {
+                                "id": 40408,
+                                "kec_id": 3206,
+                                "kelu": "Tambak Rejo",
+                                "pos": 55552
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3207,
+                        "kabkot_id": 226,
+                        "kec": "Turi",
+                        "kelurahan": [
+                            {
+                                "id": 40409,
+                                "kec_id": 3207,
+                                "kelu": "Bangun Kerto",
+                                "pos": 55551
+                            },
+                            {
+                                "id": 40410,
+                                "kec_id": 3207,
+                                "kelu": "Donokerto",
+                                "pos": 55551
+                            },
+                            {
+                                "id": 40411,
+                                "kec_id": 3207,
+                                "kelu": "Giri Kerto",
+                                "pos": 55551
+                            },
+                            {
+                                "id": 40412,
+                                "kec_id": 3207,
+                                "kelu": "Wono Kerto",
+                                "pos": 55551
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 227,
+                "prov_id": 14,
+                "kab_kota": "Kota Yogyakarta",
+                "ibukota": "Yogyakarta",
+                "k_bsni": "YYK",
+                "kecamatan": [
+                    {
+                        "id": 3208,
+                        "kabkot_id": 227,
+                        "kec": "Danurejan",
+                        "kelurahan": [
+                            {
+                                "id": 40413,
+                                "kec_id": 3208,
+                                "kelu": "Bausasran",
+                                "pos": 55211
+                            },
+                            {
+                                "id": 40414,
+                                "kec_id": 3208,
+                                "kelu": "Suryatmajan",
+                                "pos": 55213
+                            },
+                            {
+                                "id": 40415,
+                                "kec_id": 3208,
+                                "kelu": "Tegal Panggung",
+                                "pos": 55212
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3209,
+                        "kabkot_id": 227,
+                        "kec": "Gedong Tengen",
+                        "kelurahan": [
+                            {
+                                "id": 40416,
+                                "kec_id": 3209,
+                                "kelu": "Pringgokusuman",
+                                "pos": 55272
+                            },
+                            {
+                                "id": 40417,
+                                "kec_id": 3209,
+                                "kelu": "Sosromenduran",
+                                "pos": 55271
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3210,
+                        "kabkot_id": 227,
+                        "kec": "Gondokusuman",
+                        "kelurahan": [
+                            {
+                                "id": 40418,
+                                "kec_id": 3210,
+                                "kelu": "Baciro",
+                                "pos": 55225
+                            },
+                            {
+                                "id": 40419,
+                                "kec_id": 3210,
+                                "kelu": "Demangan",
+                                "pos": 55221
+                            },
+                            {
+                                "id": 40420,
+                                "kec_id": 3210,
+                                "kelu": "Klitren",
+                                "pos": 55222
+                            },
+                            {
+                                "id": 40421,
+                                "kec_id": 3210,
+                                "kelu": "Kotabaru",
+                                "pos": 55224
+                            },
+                            {
+                                "id": 40422,
+                                "kec_id": 3210,
+                                "kelu": "Terban",
+                                "pos": 55223
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3211,
+                        "kabkot_id": 227,
+                        "kec": "Gondomanan",
+                        "kelurahan": [
+                            {
+                                "id": 40423,
+                                "kec_id": 3211,
+                                "kelu": "Ngupasan",
+                                "pos": 55122
+                            },
+                            {
+                                "id": 40424,
+                                "kec_id": 3211,
+                                "kelu": "Prawirodirjan",
+                                "pos": 55121
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3212,
+                        "kabkot_id": 227,
+                        "kec": "Jetis",
+                        "kelurahan": [
+                            {
+                                "id": 40425,
+                                "kec_id": 3212,
+                                "kelu": "Bumijo",
+                                "pos": 55231
+                            },
+                            {
+                                "id": 40426,
+                                "kec_id": 3212,
+                                "kelu": "Cokrodiningratan",
+                                "pos": 55233
+                            },
+                            {
+                                "id": 40427,
+                                "kec_id": 3212,
+                                "kelu": "Gowongan",
+                                "pos": 55232
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3213,
+                        "kabkot_id": 227,
+                        "kec": "Kotagede",
+                        "kelurahan": [
+                            {
+                                "id": 40428,
+                                "kec_id": 3213,
+                                "kelu": "Prenggan",
+                                "pos": 55172
+                            },
+                            {
+                                "id": 40429,
+                                "kec_id": 3213,
+                                "kelu": "Purbayan",
+                                "pos": 55173
+                            },
+                            {
+                                "id": 40430,
+                                "kec_id": 3213,
+                                "kelu": "Rejowinangun",
+                                "pos": 55171
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3214,
+                        "kabkot_id": 227,
+                        "kec": "Kraton",
+                        "kelurahan": [
+                            {
+                                "id": 40431,
+                                "kec_id": 3214,
+                                "kelu": "Kadipaten",
+                                "pos": 55132
+                            },
+                            {
+                                "id": 40432,
+                                "kec_id": 3214,
+                                "kelu": "Panembahan",
+                                "pos": 55131
+                            },
+                            {
+                                "id": 40433,
+                                "kec_id": 3214,
+                                "kelu": "Patehan",
+                                "pos": 55133
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3215,
+                        "kabkot_id": 227,
+                        "kec": "Mantrijeron",
+                        "kelurahan": [
+                            {
+                                "id": 40434,
+                                "kec_id": 3215,
+                                "kelu": "Gedongkiwo",
+                                "pos": 55142
+                            },
+                            {
+                                "id": 40435,
+                                "kec_id": 3215,
+                                "kelu": "Mantrijeron",
+                                "pos": 55143
+                            },
+                            {
+                                "id": 40436,
+                                "kec_id": 3215,
+                                "kelu": "Suryodiningratan",
+                                "pos": 55141
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3216,
+                        "kabkot_id": 227,
+                        "kec": "Mergangsan",
+                        "kelurahan": [
+                            {
+                                "id": 40437,
+                                "kec_id": 3216,
+                                "kelu": "Brontokusuman",
+                                "pos": 55153
+                            },
+                            {
+                                "id": 40438,
+                                "kec_id": 3216,
+                                "kelu": "Keparakan",
+                                "pos": 55152
+                            },
+                            {
+                                "id": 40439,
+                                "kec_id": 3216,
+                                "kelu": "Wirogunan",
+                                "pos": 55151
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3217,
+                        "kabkot_id": 227,
+                        "kec": "Ngampilan",
+                        "kelurahan": [
+                            {
+                                "id": 40440,
+                                "kec_id": 3217,
+                                "kelu": "Ngampilan",
+                                "pos": 55261
+                            },
+                            {
+                                "id": 40441,
+                                "kec_id": 3217,
+                                "kelu": "Notoprajan",
+                                "pos": 55262
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3218,
+                        "kabkot_id": 227,
+                        "kec": "Pakualaman",
+                        "kelurahan": [
+                            {
+                                "id": 40442,
+                                "kec_id": 3218,
+                                "kelu": "Gunung Ketur",
+                                "pos": 55111
+                            },
+                            {
+                                "id": 40443,
+                                "kec_id": 3218,
+                                "kelu": "Purwo Kinanti",
+                                "pos": 55112
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3219,
+                        "kabkot_id": 227,
+                        "kec": "Tegalrejo",
+                        "kelurahan": [
+                            {
+                                "id": 40444,
+                                "kec_id": 3219,
+                                "kelu": "Bener",
+                                "pos": 55243
+                            },
+                            {
+                                "id": 40445,
+                                "kec_id": 3219,
+                                "kelu": "Karangwaru",
+                                "pos": 55241
+                            },
+                            {
+                                "id": 40446,
+                                "kec_id": 3219,
+                                "kelu": "Kricak",
+                                "pos": 55242
+                            },
+                            {
+                                "id": 40447,
+                                "kec_id": 3219,
+                                "kelu": "Tegalrejo",
+                                "pos": 55244
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3220,
+                        "kabkot_id": 227,
+                        "kec": "Umbulharjo",
+                        "kelurahan": [
+                            {
+                                "id": 40448,
+                                "kec_id": 3220,
+                                "kelu": "Giwangan",
+                                "pos": 55163
+                            },
+                            {
+                                "id": 40449,
+                                "kec_id": 3220,
+                                "kelu": "Muja Muju",
+                                "pos": 55165
+                            },
+                            {
+                                "id": 40450,
+                                "kec_id": 3220,
+                                "kelu": "Pandeyan",
+                                "pos": 55161
+                            },
+                            {
+                                "id": 40451,
+                                "kec_id": 3220,
+                                "kelu": "Semaki",
+                                "pos": 55166
+                            },
+                            {
+                                "id": 40452,
+                                "kec_id": 3220,
+                                "kelu": "Sorosutan",
+                                "pos": 55162
+                            },
+                            {
+                                "id": 40453,
+                                "kec_id": 3220,
+                                "kelu": "Tahunan",
+                                "pos": 55167
+                            },
+                            {
+                                "id": 40454,
+                                "kec_id": 3220,
+                                "kelu": "Warungboto",
+                                "pos": 55164
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3221,
+                        "kabkot_id": 227,
+                        "kec": "Wirobrajan",
+                        "kelurahan": [
+                            {
+                                "id": 40455,
+                                "kec_id": 3221,
+                                "kelu": "Pakuncen",
+                                "pos": 55253
+                            },
+                            {
+                                "id": 40456,
+                                "kec_id": 3221,
+                                "kelu": "Patangpuluhan",
+                                "pos": 55251
+                            },
+                            {
+                                "id": 40457,
+                                "kec_id": 3221,
+                                "kelu": "Wirobrajan",
+                                "pos": 55252
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
