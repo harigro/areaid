@@ -9,9 +9,9 @@ pip install areaid
 
 ## Cara Menggunakan Dan Contoh Program
 Ada dua fungsi utama di pustaka ini, **buka_data** dan **buka_nama**\
-**buka_data** berfungsi untuk membuka berkas json berdasarkan nama berkas json\n
-**buka_nama** berfungsi unutk membuka berkas json untuk melihat nama - nama provinsi\
-berikut contoh cara menggunakan kedua fungsi\
+**buka_data** berfungsi untuk membuka berkas json berdasarkan nama berkas json \
+**buka_nama** berfungsi unutk membuka berkas json untuk melihat nama - nama provinsi \
+berikut contoh cara menggunakan kedua fungsi :
 
 ---
 
