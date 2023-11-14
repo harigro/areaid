@@ -1,0 +1,1 @@
+from areaid.area import buka_nama, buka_data
